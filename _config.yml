@@ -17,7 +17,7 @@ title: DSC 80
 description: DSC 80, Winter 2023 at UC San Diego
 tagline: Practice and Application of Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://dsc80.com' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
