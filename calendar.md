@@ -7,26 +7,13 @@ nav_order: 3
 
 # 📆 Calendar
 
-Coming soon!
+Lectures and discussions (<span style="color:blue"><b>blue</b></span>) are both held in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6), which is in New Sixth College.
 
-<!-- ### Lectures and Discussions (<a style="color:blue; text-decoration: none">blue</a>)
+In-person office hours (<span style="color:purple"><b>purple</b></span>) are
+held on the second floor of the east wing of the [San Diego Supercomputer Center](https://g.page/SDSC_UCSanDiego?share). Enter SDSC from the east
+entrance on Hopkins Drive, take the elevator up to the second floor, turn left
+at the kitchen, and meet in the common area.
 
-Lectures are held in **Center Hall 109 📍 ([map](https://map.concept3d.com/?id=1005#!m/163044))**, and discussion is held in **Pepper Canyon Hall 122 📍 ([map](https://map.concept3d.com/?id=1005#!m/246320))**. You may join all lectures and discussions remotely via Zoom by clicking the "Zoom Link" button below, though in-person attendance is encouraged.
+Remote office hours (<span style="color:orange"><b>orange</b></span>) are held on Zoom at [**this link**](#todo).
 
-### In-Person Office Hours (<a style="color:chocolate; text-decoration: none">orange</a>)
-
-Most office hours are held in-person (shown in orange in the calendar below, starting with [IP], which stands for "in-person"). These are held on the second floor of the east wing of the **San Diego Supercomputer Center 📍 ([map](https://map.concept3d.com/?id=1005#!m/165141))**. Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You will need a code to enter the building; the code is in [this Campuswire post](https://campuswire.com/c/G325FA25B/feed/13). Make sure to hit the # key after typing in the code.
-
-### Remote Office Hours (<a style="color:green; text-decoration: none">green</a>)
-
-Some office hours are held remotely. To access a remote office hour (shown in green in the calendar below), click the "Zoom Link" button below to join the Zoom meeting. All green events are remote office hours, even though they don't explicitly say that they are remote.
-
-**Notes:** 
-
-- A few office hours per week are "hybrid", meaning that you can attend them both remotely or in-person; such office hours will appear both green and orange in the calendar below.
-
-- When attending office hours, course staff may ask you to make a "ticket" on the queue at [autograder.ucsd.edu](https://autograder.ucsd.edu). To do so, log into the queue, click "Create New Ticket", and add a brief title for your ticket indicating what you need help with. Room and Workstation are required to fill out for submitting a ticket, so just randomly select a location. (Note: despite it being called "Autograder", it does not grade anything, it is purely a queue!)
-
-[Zoom Link](https://ucsd.zoom.us/j/92137281308){: .btn .btn-blue }
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&showTabs=1&showPrint=0&showCalendars=0&showTz=1&src=Y19iNTdobjNwNXRsbmI5NnZma3Q0bWM0b2NiY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hOGQxcWk4NDZnODNpZmZrYzBncjAwZ2hlZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19rNGVtcGUzOWk2ZW11cTFxMzFnNmgyanBha0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%234285F4&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&showTabs=0&showCalendars=0&showTz=1&showPrint=0&src=Y18xMTcxM2I4N2M1MzI5ODIzMmE3ZDE1MWVmMTlmZDkwNDVkYmQyNDhhMmVhMzQwNTg5NGM0NTBmYjI2NDNhZTY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kYWJkMjgxNDhhZDI0NDU0ZGUxMzdlZjU3NmI4Mzg4ZjE4YzBhNWVjN2IzMGM3ODk3NWZhM2Y1YWQ0Mzc4NmM4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18wZDhjZDkyNWY2YzI3ZjY1OTVlMWE0NWY4Y2YxNGM2ZjAxNDQwZDM0MDI2YzI1NDMxNWEwOGYxNWY5ZjAxMWJkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238E24AA&color=%234285F4&color=%23F4511E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
