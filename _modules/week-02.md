@@ -1,26 +1,23 @@
 ---
-    title: Week 2 – Missing Values and Hypothesis Testing
+    title: Week 2 – DataFrames
     weekNumber: 2
     days:
-      - date: 2021-4-4
+      - date: 2023-1-16
         events:
-          "**LEC 4**{: .label .label-lecture } [Messy Data](resources/lectures/lec04/lec04.html)":
-            "[Ch. 3](https://notes.dsc80.com/content/03/introduction.html), [4.1-4.2](https://notes.dsc80.com/content/04/introduction.html)"
-                
-          "**Lab 1**{: .label .label-lab } **[Introduction (due 4/4)](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/labs/01-intro/lab.ipynb) ([setup video](https://www.youtube.com/watch?v=FpTo4AM9B30))**":
-          "**SUR**{: .label .label-survey } **[Welcome + Alternate Exams Form (due 4/4)](https://docs.google.com/forms/d/e/1FAIpQLSdBKLcPs4Xi0plaIw0MVZ0DyGcvnSZyHxKVC7S7LwEiCchepQ/viewform)**":
-      - date: 2021-4-6
+          "N/A (MLK Day)":
+      - date: 2023-1-17
         events:
-          "**LEC 5**{: .label .label-lecture } [Unfaithful Data, Hypothesis Testing](resources/lectures/lec05/lec05.html)":
-            "[Ch. 4](https://notes.dsc80.com/content/04/introduction.html), [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
-                
-          "**DIS 2**{: .label .label-disc } **[Pandas (due 4/9)](https://github.com/dsc-courses/dsc80-2022-sp/tree/main/discussions/02-pandas)**":
-      - date: 2021-4-7
+          "**Lab 1**{: .label .label-lab } **Python, NumPy, and Pandas**":
+      - date: 2023-1-18
         events:
-          "**PROJ 1**{: .label .label-proj } **[Gradebook (CP due 4/7, Full due 4/14)](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/01-gradebook/project.ipynb)** ([partners](https://docs.google.com/spreadsheets/d/1PMtGpd4U6rYBn6Ut6eHQzSo4PdBwluU-ppx87ROy_N8/edit#gid=0)) ([🎥](https://www.youtube.com/watch?v=Os-BT0FTzVg))":
-      - date: 2021-4-8
+          "**LEC 4**{: .label .label-lecture } Grouping":
+            "[Ch. 5.1-5.2](https://notes.dsc80.com/content/05/introduction.html)"
+      - date: 2023-1-19
         events:
-          "**LEC 6**{: .label .label-lecture } [Hypothesis Testing](resources/lectures/lec06/lec06.html)":
-            "[CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+          "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (Checkpoint)**":
+      - date: 2023-1-20
+        events:
+          "**LEC 5**{: .label .label-lecture } Pivoting, Simpson's Paradox, and Concatenating":
+            "[Ch. 5.3](https://notes.dsc80.com/content/05/appending-data.html)"
                 
 ---

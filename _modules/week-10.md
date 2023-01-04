@@ -2,17 +2,14 @@
     title: Week 10 – Fairness, Conclusion
     weekNumber: 10
     days:
-      - date: 2021-5-30
+      - date: 2023-3-13
         events:
-          "N/A (Memorial Day)":
-      - date: 2021-5-31
+          "**LEC 25**{: .label .label-lecture } Classifier Evaluation":
+          "**Lab 9**{: .label .label-lab } **Pipelines**":
+      - date: 2023-3-15
         events:
-          "**Lab 9**{: .label .label-lab } **[Modeling and Pipelines (due 5/31)](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/labs/09-sklearn/lab.ipynb)**":
-      - date: 2021-6-1
+          "**LEC 26**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria":
+      - date: 2023-3-17
         events:
-          "**LEC 27**{: .label .label-lecture } [Classifier Evaluation, Fairness](resources/lectures/lec27/lec27.html)":
-          "**DIS 9**{: .label .label-disc } **Review**":
-      - date: 2021-6-3
-        events:
-          "**LEC 28**{: .label .label-lecture } [Fairness, Conclusion](resources/lectures/lec28/lec28.html)":
+          "**LEC 27**{: .label .label-lecture } Fairness Criteria, Conclusion":
 ---

@@ -1,19 +1,24 @@
 ---
-    title: Week 9 – Model Evaluation
+    title: Week 9 – Pipelines and Model Evaluation
     weekNumber: 9
     days:
-      - date: 2021-5-23
+      - date: 2023-3-6
         events:
-          "**LEC 24**{: .label .label-lecture } [Cross-Validation](resources/lectures/lec24/lec24.html)":
-          "**Lab 8**{: .label .label-lab } **[Feature Engineering (due 5/23)](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/labs/08-features/lab.ipynb)**":
-      - date: 2021-5-25
+          "**LEC 22**{: .label .label-lecture } `sklearn` Pipelines, Regression Evaluation":
+            "[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html), [Ch. 10.2](https://notes.dsc80.com/content/10/model-building.html)"
+                
+          "**Lab 8**{: .label .label-lab } **Modeling and Feature Engineering**":
+      - date: 2023-3-8
         events:
-          "**LEC 25**{: .label .label-lecture } [Decision Trees, Grid Search, and Multicollinearity](resources/lectures/lec25/lec25.html)":
-          "**DIS 8**{: .label .label-disc } **[`sklearn` (due 5/28)](https://github.com/dsc-courses/dsc80-2022-sp/tree/main/discussions/08-sklearn)**":
-      - date: 2021-5-26
+          "**LEC 23**{: .label .label-lecture } Cross-Validation":
+            "[Ch. 11.1-11.2](https://notes.dsc80.com/content/11/introduction.html)"
+                
+      - date: 2023-3-9
         events:
-          "**PROJ 4**{: .label .label-proj } **[Language Models 🗣 (due 5/26)](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/04-language_models/project.ipynb)**":
-      - date: 2021-5-27
+          "**PROJ 4**{: .label .label-proj } **Language Models 🗣**":
+      - date: 2023-3-10
         events:
-          "**LEC 26**{: .label .label-lecture } [Examples and Classifier Evaluation](resources/lectures/lec26/lec26.html)":
+          "**LEC 24**{: .label .label-lecture } Decision Trees, Grid Search, and Multicollinearity":
+            "[Ch. 11.1-11.2](https://notes.dsc80.com/content/11/introduction.html)"
+                
 ---

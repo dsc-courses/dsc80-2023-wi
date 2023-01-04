@@ -8,7 +8,7 @@ import os
 import sys
 import numpy as np
 
-df = pd.read_csv('Schedule – DSC 80, Spring 2022 - sp22 schedule.csv')
+df = pd.read_csv('Schedule – DSC 80, Winter 2023 - Winter 2023 Schedule.csv')
 
 df['Week'] = df['Week'].fillna(method = 'ffill').astype(int)
 df['#'] = df['#'].fillna(0).astype(int)
@@ -25,7 +25,7 @@ month_map = {'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6, 'Jul': 
 def round_format(i):
     return "0" + str(i) if int(i) <= 9 else str(i)
 
-def date_conv(date, date_format='DATE MONTH/DAY', YEAR=2021):
+def date_conv(date, date_format='DATE MONTH/DAY', YEAR=2023):
     if date_format == 'DATE. MONTH. DAY':
         try:
             _, month, day = date.split(" ")
@@ -100,10 +100,11 @@ def write_week(i, dest = '../_modules', write = True):
         #         outstr += f"""
         #   "**HW {hw_num}**{{: .label .label-hw }} **{hw_name}**":"""
 
-        if str(week.loc[j, 'Discussion']) != 'nan':
-            disc_num, disc_name = week.loc[j, 'Discussion'].split('. ', 1)
-            outstr += f"""
-          "**DIS {disc_num}**{{: .label .label-disc }} **{disc_name}**":"""
+        # DISCUSSION – NEED TO UNCOMMENT
+        # if str(week.loc[j, 'Discussion']) != 'nan':
+        #     disc_num, disc_name = week.loc[j, 'Discussion'].split('. ', 1)
+        #     outstr += f"""
+        #   "**DIS {disc_num}**{{: .label .label-disc }} **{disc_name}**":"""
     
     outstr += "\n---"
     

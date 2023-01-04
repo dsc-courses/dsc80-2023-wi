@@ -1,6 +1,6 @@
 # dsc80-2023-wi
 
-This branch contains the source code for the course website.
+This branch contains the source code for the course website. See [this video](https://www.youtube.com/watch?v=MEeLr9GRa3I) for how to make updates to the website, or read the instructions below.
 
 ### Local development environment
 

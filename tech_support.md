@@ -8,12 +8,15 @@ nav_order: 4
 # 🙋‍♂️ Tech Support
 {:.no_toc}
 
+Coming soon!
+
+<!-- 
+
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
 ---
 
 **Note:** [This video 🎥](https://youtu.be/FpTo4AM9B30) walks through some of the environment setup instructions (along with how to access and work on assignments). However, it is not a substitute for reading this page.
@@ -251,4 +254,4 @@ the updated files.
 
 2. In the toolbar at appears at [datahub.ucsd.edu](https://datahub.ucsd.edu), click "Services" then click "manual-resetter", then click "Reset". If a pop-up box appears, that's okay.
 
-3. Log back into DataHub again and it should allow you to select a course – select DSC 80.
+3. Log back into DataHub again and it should allow you to select a course – select DSC 80. -->
