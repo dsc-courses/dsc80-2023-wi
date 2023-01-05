@@ -8,6 +8,7 @@
       - date: 2023-1-17
         events:
           "**Lab 1**{: .label .label-lab } **Python, NumPy, and Pandas (due 1/17)**":
+          "**SUR**{: .label .label-survey } **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0_yIwytkjirqN26bMonQ3wQTzX7itZXd8KBeglaUeAZtIhA/viewform) (due 1/17)**":
       - date: 2023-1-18
         events:
           "**LEC 4**{: .label .label-lecture } Grouping":

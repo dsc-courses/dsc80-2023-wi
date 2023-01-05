@@ -85,16 +85,17 @@ Discussions are held in-person on Wednesdays from 5-5:50PM in [Mosaic Hall 114](
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
-To this effect, we're piloting a new discussion format in Winter 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due the Monday prior (two days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
+To this effect, we're piloting a new discussion format in Winter 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (two days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
 
-To encourage you to attend and reflect, we will offer extra credit to those who do **both** of the following:
+To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
+1. Submit the lab.
 1. Attend discussion section in-person on Wednesday.
-2. Complete a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
+1. Satisfactorily a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
 
 Since there are 9 labs, there will be 9 lab reflections and 9 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.3% of extra credit added to your overall grade. This can add up to 0.3% * 9 = **2.7%** of extra credit for your overall grade.
 
 Note that:
-- We will be manually grading the Lab Reflection forms for completion. In order to receive credit, you'll need to provide earnest responses.
+- We will be manually grading the Lab Reflection forms for completion. In order to receive credit, you'll need to provide meaningful responses. Simply saying "I could've made my code more efficient" is not enough to receive credit – what was suboptimal about your implementation? What benefits and drawbacks are there to the solutions you heard in discussion?
 - To earn extra credit for a particular lab, you must submit the lab, attend discussion, **and** complete the reflection form to receive the EC. If you fail to do all 3 of these things, you won't receive extra credit.
 
 ### Labs
@@ -204,7 +205,7 @@ Here is how we'll compute your grade:
 | Project Checkpoints | 5% | 1% per project, no drops* |
 | Midterm Exam | 10% | see the Redemption Policy above |
 | Final Exam | 15% | |
-| Lab Reflections | 2.7% (extra credit) | |
+| Discussion Attendance + Lab Reflections | 2.7% (extra credit) | 0.3% per lab |
 
 *Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects 3 and 5 will automatically receive the 1% checkpoint credit.
 
@@ -212,21 +213,22 @@ Here is how we'll compute your grade:
 
 All assignments must be submitted by 11:59PM San Diego time on the due date to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it’s a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late.
 
-You have **6 "slip days"** to use throughout the quarter on *any* deadline, including a lab, project, project checkpoint, or an extra-credit lab reflection assignment. A slip day extends the deadline of any by 24 hours.
+You have **6 "slip days"** to use throughout the quarter on *any* deadline, including a lab, project, project checkpoint, or an extra-credit lab reflection assignment. A slip day extends the deadline of an assignment by 24 hours. The number of slip days you can use on an assignment depends on the kind of assignment:
 
-- On labs and extra-credit lab reflections, you may use up to 1 slip day. These assignments will not be accepted more than 24 hours after the deadline.
+- On labs, you may use up to 1 slip day. Labs will not be accepted more than 24 hours after the deadline.
 - On projects and project checkpoints, you may use up to 2 slip days. These assignments will not be accepted more than 48 hours after the deadline. Note that you will not be able to use slip days on Project 5.
-
-Slip days will be applied automatically at the end of the quarter, but it's your responsibility to keep track of how many you have left. 
+- You may not use slip days on lab reflection assignments.
 
 Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it). But slip days are also meant for things like the internet going down at 11:58 PM just as you go to submit your assignment. Slip days are meant to be used in exceptional circumstances, so **you probably should not need to use all 6, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out**.
+
+**Slip days are applied automatically at the end of the quarter, and you don’t need to ask in order to use one.** It’s your responsibility to keep track of how many you have left. If you’ve run out of slip days and submit an assignment late, that assignment may still be graded, but you will receive a 0 on it when we calculate grades at the end of the quarter. However, in the event that you use all 6 days and submit another assignment late, we will allocate your slip days first to your projects (in chronological order), then to your labs (in chronological order), and then to other assignments. This is done to prevent you from receiving a 0 on, say, Project 4, if you've used all of your slip days on labs up until that point; in such a case, you’d instead receive a 0 on an earlier lab that isn’t weighted as much in your grade.
 
 ### Regrade Requests
 
 Most of the labs and projects are autograded, but some questions are
 manually graded. If you feel that there in an error in the autograder or
 that the manual grader has made a mistake, you may submit a regrade
-request within **one week** of the grades being released. 
+request within **one week** of the grades being released. If you do not submit a regrade request within one week, your original grade will be final.
 
 **Regrade Requests for Manually Graded Problems**
 
