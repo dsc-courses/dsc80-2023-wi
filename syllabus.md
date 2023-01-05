@@ -89,7 +89,7 @@ To this effect, we're piloting a new discussion format in Winter 2023. In discus
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **both** of the following:
 1. Attend discussion section in-person on Wednesday.
-2. Complete a **Lab Reflection** form for the lab that was taken up in discussion. The reflection form will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
+2. Complete a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
 
 Since there are 9 labs, there will be 9 lab reflections and 9 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.3% of extra credit added to your overall grade. This can add up to 0.3% * 9 = **2.7%** of extra credit for your overall grade.
 
