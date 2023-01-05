@@ -15,8 +15,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .warning } 
-This site is under construction. Until this warning is removed, any content here is subject to change.
+{: .success } 
+Welcome to DSC 80! 👋
+Make sure to read the [Syllabus](syllabus) and complete the action items in the [Getting Started](syllabus#getting-started-) section. 
 
 {% for module in site.modules %}
 {{ module }}

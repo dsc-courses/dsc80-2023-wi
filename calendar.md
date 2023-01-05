@@ -7,7 +7,7 @@ nav_order: 3
 
 # 📆 Calendar
 
-Lectures and discussions (<span style="color:blue"><b>blue</b></span>) are both held in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6), which is in New Sixth College.
+Lectures and discussions (<span style="color:blue"><b>blue</b></span>) are both held in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6).
 
 In-person office hours (<span style="color:purple"><b>purple</b></span>) are
 held on the second floor of the east wing of the [San Diego Supercomputer Center](https://g.page/SDSC_UCSanDiego?share). Enter SDSC from the east

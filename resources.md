@@ -31,7 +31,7 @@ We'll be posting past exams shortly.
 
 ## Videos
 
-- [Environment Setup and the Assignment Workflow in DSC 80](https://youtu.be/FpTo4AM9B30)
+<!-- - [Environment Setup and the Assignment Workflow in DSC 80](https://youtu.be/FpTo4AM9B30) -->
 - [Working with the command-line in DSC 80](https://www.youtube.com/watch?v=uUawZfAgA64)
 
 ---

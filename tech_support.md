@@ -10,17 +10,11 @@ nav_order: 4
 
 Coming soon!
 
-<!-- 
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
----
-
-**Note:** [This video 🎥](https://youtu.be/FpTo4AM9B30) walks through some of the environment setup instructions (along with how to access and work on assignments). However, it is not a substitute for reading this page.
-
 ---
 
 ## Introduction
@@ -115,10 +109,10 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/dsc-courses/dsc80-2022-sp
+    git clone https://github.com/dsc-courses/dsc80-2023-wi
 
 This will copy the repository to a directory on your computer. To bring
-in the latest version of the repository, run `git pull`. This will **not**
+in the latest version of the repository, run **`git pull`** in your local repository. This will **not**
 overwrite your work. In fact, Git is designed to make it very difficult
 to lose work (although it\'s still possible!).
 
@@ -254,4 +248,4 @@ the updated files.
 
 2. In the toolbar at appears at [datahub.ucsd.edu](https://datahub.ucsd.edu), click "Services" then click "manual-resetter", then click "Reset". If a pop-up box appears, that's okay.
 
-3. Log back into DataHub again and it should allow you to select a course – select DSC 80. -->
+3. Log back into DataHub again and it should allow you to select a course – select DSC 80.
