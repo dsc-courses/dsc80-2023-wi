@@ -41,9 +41,9 @@ You'll need to make accounts on the following sites:
 coding assignments. Parts of these assignments will be manually graded, but most of them will be autograded. You should have received an email
 invitation for Gradescope, but if not please let us know as soon as possible (preferably via Ed).
 
-- **Zoom (optional):** To access remote office hours, if you'd like.
-
 - **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo is here: [github.com/dsc-courses/dsc80-2023-wi](https://github.com/dsc-courses/dsc80-2023-wi). In most assignments, you won't need to _push_ anything to GitHub, however in Projects 3 and 5 you will, and so you'll need to have an account by then.
+
+- **Zoom (optional):** To access remote office hours, if you'd like.
 
 Note that we will not be using Canvas for anything this quarter.
 
@@ -73,7 +73,7 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 ### Lectures
 
-Lectures will be held in-person on Mondays, Wednesdays, and Fridays from 12-12:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6) (Mosaic Hall is in New Sixth College; co-incidentally, it is also called the Suraj Israni Center for Cinematic Arts). Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
+Lectures will be held in-person on Mondays, Wednesdays, and Fridays from 12-12:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6) (Mosaic Hall is in New Sixth College). Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
 
 Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-wi](https://github.com/dsc-courses/dsc80-2023-wi). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
 
@@ -85,18 +85,18 @@ Discussions are held in-person on Wednesdays from 5-5:50PM in [Mosaic Hall 114](
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
-To this effect, we're piloting a new discussion format in Winter 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (two days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
+To this effect, we're piloting a new discussion format in Winter 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (2 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
 1. Submit the lab.
 1. Attend discussion section in-person on Wednesday.
-1. Satisfactorily a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
+1. Satisfactorily complete a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form, hosted on Gradescope, will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
 
 Since there are 9 labs, there will be 9 lab reflections and 9 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.3% of extra credit added to your overall grade. This can add up to 0.3% * 9 = **2.7%** of extra credit for your overall grade.
 
 Note that:
-- We will be manually grading the Lab Reflection forms for completion. In order to receive credit, you'll need to provide meaningful responses. Simply saying "I could've made my code more efficient" is not enough to receive credit – what was suboptimal about your implementation? What benefits and drawbacks are there to the solutions you heard in discussion?
 - To earn extra credit for a particular lab, you must submit the lab, attend discussion, **and** complete the reflection form to receive the EC. If you fail to do all 3 of these things, you won't receive extra credit.
+- We will be manually grading the Lab Reflection forms for completion. In order to receive credit, you'll need to provide meaningful responses. Simply saying "I could've made my code more efficient" is not enough to receive credit – what was suboptimal about your implementation? What benefits and drawbacks are there to the solutions you heard in discussion?
 
 ### Labs
 
@@ -108,9 +108,9 @@ you\'re on the right track (*a la* DSC 20), however, your submission
 will be graded using a private autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped
-when calculating your final score.
+when calculating your final score. Labs will typically be released on Tuesdays and due on **Mondays** at 11:59PM (except in holiday weeks, in which case they'll be due on Tuesdays).
 
-Labs will typically be released on Tuesdays and due on **Mondays** at 11:59PM (except in holiday weeks, in which case they'll be due on Tuesdays).
+You will access labs (and projects) by pulling the course GitHub repository.
 
 ### Projects
 
@@ -127,34 +127,24 @@ there will often be a *project checkpoint*. This checkpoint will
 ensure that you\'re on-track to complete the project on time, and should
 (hopefully) be a source of easy points.
 
-Note that, unlike labs, the lowest project score is not dropped. Like all assignments, you can obtain projects by pulling from the course GitHub repository.
-
 The last project, Project 5, will be due during finals week, and can be thought of as a practical component of the Final Exam.
 
-Projects will typically be released on Saturdays and due on **Thursdays** at 11:59PM, though this will certainly change for a few projects.
+Note that, unlike labs, the lowest project score is not dropped. Projects will typically be released on Saturdays and due on **Thursdays** at 11:59PM, though this will certainly change for a few projects.
 
-**Pair Programming**
+**Working in Pairs**
 
-You may work together on projects (and projects only!) using the paradigm of *pair
-programming*. In pair programming, you may work with *one* partner of
-your choosing to complete the assignment. You must both be present
-(physically or virtually), and working on the same piece of code
-simultaneously. One person types while the other watches for errors.
-Pair programming is **not** where one person does Question 1 while the
-other person does Question 2.
+You may work together on projects (and projects only!) with a partner. If you work with a partner, you are both required to actively contribute to all parts of the project. You must both be working on the assignment at the same time together, either physically or virtually on a Zoom call. You are encouraged to follow the pair programming model, in which you work on just a single computer and alternate who writes the code and who thinks about the problems at a high level.
 
-If you choose to pair program a project, you must submit the project as
-a pair (even if you do just a single problem together). You must also
-submit the project *checkpoint* together (as otherwise you\'d be working
-separately on part of the project).
+In particular, you **cannot** split up the project and each work on separate parts independently.
 
-If you work with a partner, you are not required to follow the pair programming model. However, you are both required to actively contribute to all parts of the project.
+If you work with a partner:
+- Only one partner needs to submit the project on Gradescope; this partner should add the other partner to their submission.
+- You must also submit the checkpoint together.
+- You and your partner will receive the same score on any submissions you make together.
 
-One way to do this is through the pair programming model, described below.
-Another way to do this is to work on the same problems at the same time on your separate computers.
-In particular, you should not split up the project and each work on separate parts independently.
+If you are unhappy with your partnership (e.g., if your partner does not keep in touch, does not come prepared to work on the assignment, or does not seem to be engaged in the process), please first address your concerns to your partner, and try to agree on what should be done to make the partnership work well for both of you. If that approach is not successful, explain the issues to the instructors, who will work with you and your partner to improve the situation.
 
-You and your partner will receive the same score on any submissions you make together. Last quarter in DSC 10, grade data showed that students who worked together on projects got statistically significantly higher project grades than students who worked alone.
+You may use different partners on different projects.
 
 **Note that you may not work with partners on lab assignments, however you're encouraged to discuss all assignments with others at a conceptual level in office hours and study groups.**
 
@@ -213,11 +203,11 @@ Here is how we'll compute your grade:
 
 All assignments must be submitted by 11:59PM San Diego time on the due date to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it’s a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late.
 
-You have **6 "slip days"** to use throughout the quarter on *any* deadline, including a lab, project, project checkpoint, or an extra-credit lab reflection assignment. A slip day extends the deadline of an assignment by 24 hours. The number of slip days you can use on an assignment depends on the kind of assignment:
+You have **6 "slip days"** to use throughout the quarter. A slip day extends the deadline of an assignment by 24 hours. The number of slip days you can use on an assignment depends on the kind of assignment:
 
 - On labs, you may use up to 1 slip day. Labs will not be accepted more than 24 hours after the deadline.
 - On projects and project checkpoints, you may use up to 2 slip days. These assignments will not be accepted more than 48 hours after the deadline. Note that you will not be able to use slip days on Project 5.
-- You may not use slip days on lab reflection assignments.
+- You may not use slip days on lab reflection assignments. These assignments will not be accepted after the original deadline.
 
 Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it). But slip days are also meant for things like the internet going down at 11:58 PM just as you go to submit your assignment. Slip days are meant to be used in exceptional circumstances, so **you probably should not need to use all 6, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out**.
 
@@ -259,7 +249,7 @@ a later date, you have some options:
     mechanism to submit an assignment late.
 2.  If it is past the late deadline **and** your code requires only
     minor fixes (e.g., the file name is wrong) we will fix your code at
-    the cost of **two** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQL9-P-ZuTBKcOmYAOKsaptfcy-S6PS7Ihz6ORjaUU1Jy4Ug/viewform). 
+    the cost of **2** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQL9-P-ZuTBKcOmYAOKsaptfcy-S6PS7Ihz6ORjaUU1Jy4Ug/viewform). 
 
 
 

@@ -8,8 +8,6 @@ nav_order: 4
 # 🙋‍♂️ Tech Support
 {:.no_toc}
 
-Coming soon!
-
 ## Table of contents
 {: .no_toc .text-delta }
 
