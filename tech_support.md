@@ -233,7 +233,7 @@ within JupyterLab, you can:
 
 Whether you work locally or use DataHub, you'll need to pull assignments from GitHub. If you work on DataHub, you'll **have** to pull from GitHub using the command-line. To do this, open "New \> Terminal" and, to get the course repository for the first time, type:
 
-`git clone https://github.com/dsc-courses/dsc80-2023-wi` 
+    git clone https://github.com/dsc-courses/dsc80-2023-wi
 
 Then, open up the file-tree in the original Jupyter tab, and you should see all the
 course files now there. If you have already cloned the repository, and
