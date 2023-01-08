@@ -12,7 +12,7 @@
         events:
           "**LEC 20**{: .label .label-lecture } Feature Engineering":
             "[Ch. 9.1](https://notes.dsc80.com/content/09/features.html)"
-          "**DIS 8**{: .label .label-disc } Lab 7 Reflection (due 3/4)":
+          "**DIS 7**{: .label .label-disc } Lab 7 Reflection (due 3/4)":
                 
       - date: 2023-3-2
         events:

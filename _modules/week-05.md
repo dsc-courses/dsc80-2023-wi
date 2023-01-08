@@ -12,7 +12,7 @@
         events:
           "**LEC 13**{: .label .label-lecture } HTTP Basics":
             "[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
-          "**DIS 5**{: .label .label-disc } Lab 4 Reflection (due 2/11)":
+          "**DIS 4**{: .label .label-disc } Lab 4 Reflection (due 2/11)":
                 
       - date: 2023-2-9
         events:

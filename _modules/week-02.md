@@ -13,7 +13,7 @@
         events:
           "**LEC 4**{: .label .label-lecture } Grouping":
             "[Ch. 5.1-5.2](https://notes.dsc80.com/content/05/introduction.html)"
-          "**DIS 2**{: .label .label-disc } Lab 1 Reflection (due 1/21)":
+          "**DIS 1**{: .label .label-disc } Lab 1 Reflection (due 1/21)":
       - date: 2023-1-19
         events:
           "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (Checkpoint due 1/19)**":

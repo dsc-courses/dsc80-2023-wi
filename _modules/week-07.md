@@ -12,7 +12,7 @@
         events:
           "**LEC 17**{: .label .label-lecture } Text Features":
             "[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
-          "**DIS 7**{: .label .label-disc } Lab 6 Reflection (due 2/25)":
+          "**DIS 6**{: .label .label-disc } Lab 6 Reflection (due 2/25)":
                 
       - date: 2023-2-23
         events:

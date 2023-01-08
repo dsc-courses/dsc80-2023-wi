@@ -12,7 +12,7 @@
         events:
           "**LEC 7**{: .label .label-lecture } Data Cleaning":
             "[Ch. 4](https://notes.dsc80.com/content/04/introduction.html)"
-          "**DIS 3**{: .label .label-disc } Lab 2 Reflection (due 1/28)":
+          "**DIS 2**{: .label .label-disc } Lab 2 Reflection (due 1/28)":
       - date: 2023-1-26
         events:
           "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (due 1/26)**":

@@ -11,7 +11,7 @@
       - date: 2023-2-15
         events:
           "**Exam**{: .label .label-exam } **Midterm Exam (in-person during lecture)**":
-          "**DIS 6**{: .label .label-disc } Lab 5 Reflection (due 2/18)":
+          "**DIS 5**{: .label .label-disc } Lab 5 Reflection (due 2/18)":
       - date: 2023-2-17
         events:
           "**LEC 16**{: .label .label-lecture } Regular Expressions":
