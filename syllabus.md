@@ -81,7 +81,7 @@ There is also a set of notes written by Aaron Fraenkel for this course that can 
 
 ### Discussions and Lab Reflections
 
-Discussions are held in-person on Wednesdays from 5-5:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6), the same room as lecture. Discussion sections will be podcasted.
+Starting in Week 2, discussions will be held in-person on Wednesdays from 5-5:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6), the same room as lecture. Discussion sections will be podcasted.
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
