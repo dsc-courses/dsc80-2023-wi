@@ -4,7 +4,7 @@
     days:
       - date: 2023-1-9
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction, Data Science Lifecycle":
+          "**LEC 1**{: .label .label-lecture } [Introduction](resources/lectures/lec01/lec01.html)":
             "[Ch. 1](https://notes.dsc80.com/content/01/introduction.html)"
       - date: 2023-1-11
         events:
