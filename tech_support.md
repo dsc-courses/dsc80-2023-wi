@@ -25,6 +25,12 @@ There has been a lot written about how to set up a Python environment, so we won
 
 ---
 
+[This video](https://youtu.be/PPKXJqu2XmY) contains a walkthrough of many of the details on this page. It's not a substitute for reading this page, though.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PPKXJqu2XmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+---
+
 ## Working Locally (Recommended)
 
 Working *locally* simply refers to developing code using software

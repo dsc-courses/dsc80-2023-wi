@@ -31,7 +31,7 @@ We'll be posting past exams shortly.
 
 ## Videos
 
-<!-- - [Environment Setup and the Assignment Workflow in DSC 80](https://youtu.be/FpTo4AM9B30) -->
+- [Working on Assignments in DSC 80 (Winter 2023 edition)](https://youtu.be/PPKXJqu2XmY)
 - [Working with the command-line in DSC 80](https://www.youtube.com/watch?v=uUawZfAgA64)
 
 ---
