@@ -8,7 +8,7 @@
             "[Ch. 1](https://notes.dsc80.com/content/01/introduction.html)"
       - date: 2023-1-11
         events:
-          "**LEC 2**{: .label .label-lecture } DataFrame Fundamentals":
+          "**LEC 2**{: .label .label-lecture } [DataFrame Fundamentals](resources/lectures/lec02/lec02.html)":
             "[Ch. 2](https://notes.dsc80.com/content/02/introduction.html)"
         
       - date: 2023-1-13
