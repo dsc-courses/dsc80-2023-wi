@@ -57,6 +57,9 @@ do so by running: `pip install otter-grader` in a terminal.
 
 ### Replicating the Gradescope Environment
 
+{: .note }
+If you followed these steps before 7PM on 1/10, and you're unable to run Jupyter Notebooks, you may want to uninstall your `conda` environment and reinstall it with the following updated `requirements.txt` file. To delete your `dsc80` conda environment, use `conda env remove -n dsc80`. 
+
 Gradescope has a package environment which it uses to autograde your work. It is advised to create the same environment so that there are no issues due to version changes during development vs. evaluation. Please follow the below steps to create the environment with required
 packages.
 
@@ -66,6 +69,7 @@ packages.
 matplotlib==3.4.3
 numpy==1.21.2
 otter-grader==3.1.4
+notebook==6.4.12
 pandas==1.3.3
 Pillow==8.3.2
 pydantic==1.8.2
@@ -87,7 +91,7 @@ beautifulsoup4==4.10.0
 Every time you work on DSC 80, activate this environment by running
 `conda activate dsc80` in your terminal.
 
-To open a Jupyter Notebook, use the `jupyter notebook` command in your terminal. If you get an error saying that command is not defined, **after** you've activated the `dsc80` conda environment for the first time, run `conda install jupyter`.
+To open a Jupyter Notebook, use the `jupyter notebook` command in your terminal.
 
 ### Git
 
