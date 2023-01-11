@@ -108,7 +108,7 @@ you\'re on the right track (*a la* DSC 20), however, your submission
 will be graded using a private autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped
-when calculating your final score. Labs will typically be released on Tuesdays and due on **Mondays** at 11:59PM (except in holiday weeks, in which case they'll be due on Tuesdays).
+when calculating your final score. Labs will typically be released on Tuesdays and due on **Mondays** at 11:59PM (except in holiday weeks, in which case they'll be due on Wednesdays at 4PM).
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
