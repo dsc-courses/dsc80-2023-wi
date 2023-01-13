@@ -13,7 +13,7 @@
         
       - date: 2023-1-13
         events:
-          "**LEC 3**{: .label .label-lecture } More DataFrame Manipulation":
+          "**LEC 3**{: .label .label-lecture } [More DataFrame Fundamentals](resources/lectures/lec03/lec03.html)":
             "[Ch. 2](https://notes.dsc80.com/content/02/introduction.html), [3](https://notes.dsc80.com/content/03/introduction.html)"
                 
 ---
