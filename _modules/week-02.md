@@ -14,7 +14,7 @@
           "**DIS 1**{: .label .label-disc } Lab 1 Reflection (due 1/21)":
       - date: 2023-1-19
         events:
-          "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (Checkpoint due 1/19)**":
+          "**PROJ 1**{: .label .label-proj } **[Gradebook 💯 (Checkpoint due 1/19)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/01-gradebook/project.ipynb)**":
       - date: 2023-1-20
         events:
           "**LEC 5**{: .label .label-lecture } Pivoting, Simpson's Paradox, and Concatenating":
