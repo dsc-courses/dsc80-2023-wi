@@ -7,7 +7,7 @@
           "**LEC 6**{: .label .label-lecture } Concatenating and Merging":
             "[Ch. 5.4](https://notes.dsc80.com/content/05/joining-data.html)"
                 
-          "**Lab 2**{: .label .label-lab } **More Pandas (due 1/23)**":
+          "**Lab 2**{: .label .label-lab } **[More Pandas (due 1/23)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/02-pandas/lab.ipynb)**":
       - date: 2023-1-25
         events:
           "**LEC 7**{: .label .label-lecture } Data Cleaning":
