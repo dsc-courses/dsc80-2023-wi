@@ -7,7 +7,7 @@
           "N/A (MLK Day)":
       - date: 2023-1-18
         events:
-          "**LEC 4**{: .label .label-lecture } Grouping":
+          "**LEC 4**{: .label .label-lecture } [Grouping](resources/lectures/lec04/lec04.html)":
             "[Ch. 5.1-5.2](https://notes.dsc80.com/content/05/introduction.html)"
           "**Lab 1**{: .label .label-lab } **[Python, NumPy, and Pandas (due 1/18, no slip days)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/01-intro/lab.ipynb)**":
           "**SUR**{: .label .label-survey } **[Welcome Survey (due 1/18)](https://docs.google.com/forms/d/e/1FAIpQLSe0_yIwytkjirqN26bMonQ3wQTzX7itZXd8KBeglaUeAZtIhA/viewform)**":
