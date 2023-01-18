@@ -11,7 +11,7 @@
             "[Ch. 5.1-5.2](https://notes.dsc80.com/content/05/introduction.html)"
           "**Lab 1**{: .label .label-lab } **[Python, NumPy, and Pandas (due 1/18, no slip days)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/01-intro/lab.ipynb)**":
           "**SUR**{: .label .label-survey } **[Welcome Survey (due 1/18)](https://docs.google.com/forms/d/e/1FAIpQLSe0_yIwytkjirqN26bMonQ3wQTzX7itZXd8KBeglaUeAZtIhA/viewform)**":
-          "**DIS 1**{: .label .label-disc } Lab 1 Reflection (due 1/21)":
+          "**DIS 1**{: .label .label-disc } **[Lab 1 Reflection (due 1/21)](https://www.gradescope.com/courses/478969/assignments/2574220)**":
       - date: 2023-1-19
         events:
           "**PROJ 1**{: .label .label-proj } **[Gradebook 💯 (Checkpoint due 1/19)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/01-gradebook/project.ipynb)**":
