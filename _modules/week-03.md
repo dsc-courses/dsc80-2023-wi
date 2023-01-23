@@ -4,7 +4,7 @@
     days:
       - date: 2023-1-23
         events:
-          "**LEC 6**{: .label .label-lecture } Concatenating and Merging":
+          "**LEC 6**{: .label .label-lecture } [Concatenating and Merging](resources/lectures/lec06/lec06.html)":
             "[Ch. 5.3-5.4](https://notes.dsc80.com/content/05/appending-data.html)"
                 
           "**Lab 2**{: .label .label-lab } **[More Pandas (due 1/23)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/02-pandas/lab.ipynb)**":
