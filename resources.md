@@ -18,7 +18,7 @@ nav_order: 5
 
 ## Past Exams
 
-We'll be posting past exams shortly.
+Past exams with detailed solutions can be found at [practice.dsc80.com](https://practice.dsc80.com).
 
 <!-- | Quarter | Instructor(s) | Midterm | Final |
 | --- | --- | --- | --- |
