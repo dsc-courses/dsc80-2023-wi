@@ -7,7 +7,8 @@
           "**LEC 9**{: .label .label-lecture } Hypothesis and Permutation Testing":
             "[Ch. 5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
-          "**Lab 3**{: .label .label-lab } **DataFrame Manipulation (due 1/30)**":
+          "**Lab 3**{: .label .label-lab } **[Grouping, Pivoting, and Combining (due 1/30)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/02-pandas/lab.ipynb)**":
+          "**SUR**{: .label .label-survey } **[Week 3 Feedbasck Survey (optional, due 1/30)](https://docs.google.com/forms/d/e/1FAIpQLSfzz6fxUDf4XA8yPDUsXaIn17wPRfAShYdiPc_6-f3j1VDQHQ/viewform)**":
       - date: 2023-2-1
         events:
           "**LEC 10**{: .label .label-lecture } Hypothesis and Permutation Testing":
