@@ -11,7 +11,7 @@
           "**Lab 2**{: .label .label-lab } **[More Pandas (due 1/23)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/02-pandas/lab.ipynb)**":
       - date: 2023-1-25
         events:
-          "**LEC 7**{: .label .label-lecture } Data Cleaning":
+          "**LEC 7**{: .label .label-lecture } [Relation Algebra, Data Cleaning](resources/lectures/lec07/lec07.html)":
             "[Ch. 4](https://notes.dsc80.com/content/04/introduction.html)"
           "**DIS 2**{: .label .label-disc } Lab 2 Reflection (due 1/28)":
       - date: 2023-1-26
