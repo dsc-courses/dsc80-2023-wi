@@ -15,6 +15,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .note }
+The final exam is on **Wednesday, March 22nd**; the bottom of this page previously contained a typo.
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
