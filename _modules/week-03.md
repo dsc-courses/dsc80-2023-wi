@@ -13,7 +13,7 @@
         events:
           "**LEC 7**{: .label .label-lecture } [Relational Algebra, Data Cleaning](resources/lectures/lec07/lec07.html)":
             "[Ch. 4](https://notes.dsc80.com/content/04/introduction.html)"
-          "**DIS 2**{: .label .label-disc } Lab 2 Reflection (due 1/28)":
+          "**DIS 2**{: .label .label-disc } [**Lab 2 Reflection (due 1/28)**](https://www.gradescope.com/courses/478969/assignments/2609574)":
       - date: 2023-1-26
         events:
           "**PROJ 1**{: .label .label-proj } **[Gradebook 💯 (due 1/26)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/01-gradebook/project.ipynb)**":
