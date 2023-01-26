@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🎥 Podcasts:
-    - 'https://podcast.ucsd.edu/watch/wi23/dsc80_a00'
   💻 GitHub:
     - 'https://github.com/dsc-courses/dsc80-2023-wi/'
   🙋 Ed:
