@@ -20,7 +20,7 @@
           "**PROJ 1**{: .label .label-proj } **[Gradebook 💯 (due 1/26)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/01-gradebook/project.ipynb)**":
       - date: 2023-1-27
         events:
-          "**LEC 8**{: .label .label-lecture } Unfaithful Data, Hypothesis Testing":
+          "**LEC 8**{: .label .label-lecture } [Unfaithful Data, Hypothesis Testing](resources/lectures/lec08/lec08.html)":
             "[CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
 ---
