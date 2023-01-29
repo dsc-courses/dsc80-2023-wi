@@ -16,7 +16,7 @@
                 
       - date: 2023-2-9
         events:
-          "**PROJ 2**{: .label .label-proj } **TBD (due 2/9)**":
+          "**PROJ 2**{: .label .label-proj } **[COVID Vaccinations 🦠 (due 2/9)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/02-covid_vax/project.ipynb)**":
       - date: 2023-2-10
         events:
           "**LEC 14**{: .label .label-lecture } Requests and JSON":

@@ -17,7 +17,7 @@
                 
       - date: 2023-2-2
         events:
-          "**PROJ 2**{: .label .label-proj } **TBD (Checkpoint due 2/2)**":
+          "**PROJ 2**{: .label .label-proj } **[COVID Vaccinations 🦠 (Checkpoint due 2/2)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/02-covid_vax/project.ipynb)**":
       - date: 2023-2-3
         events:
           "**LEC 11**{: .label .label-lecture } Missingness Mechanisms":

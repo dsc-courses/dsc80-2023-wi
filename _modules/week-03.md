@@ -21,6 +21,6 @@
       - date: 2023-1-27
         events:
           "**LEC 8**{: .label .label-lecture } [Unfaithful Data, Hypothesis Testing](resources/lectures/lec08/lec08.html)":
-            "[CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/8) • [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
 ---
