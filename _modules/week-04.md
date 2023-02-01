@@ -11,7 +11,7 @@
           "**SUR**{: .label .label-survey } **[Week 3 Feedback Survey (optional, due 1/30)](https://docs.google.com/forms/d/e/1FAIpQLSfzz6fxUDf4XA8yPDUsXaIn17wPRfAShYdiPc_6-f3j1VDQHQ/viewform)**":
       - date: 2023-2-1
         events:
-          "**LEC 10**{: .label .label-lecture } Hypothesis and Permutation Testing":
+          "**LEC 10**{: .label .label-lecture } [Permutation Testing](resources/lectures/lec10/lec10.html)":
             "[Ch. 5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
           "**DIS 3**{: .label .label-disc } **[Lab 3 Reflection (due 2/4)](https://www.gradescope.com/courses/478969/assignments/2624528/)**":
                 
