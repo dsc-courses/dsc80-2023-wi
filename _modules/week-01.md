@@ -9,7 +9,7 @@
       - date: 2023-1-11
         events:
           "**LEC 2**{: .label .label-lecture } [DataFrame Fundamentals](resources/lectures/lec02/lec02.html)":
-            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/2) • [Ch. 2](https://notes.dsc80.com/content/02/introduction.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/2) • [Ch. 2](https://notes.dsc80.com/content/02/introduction.html), [Ed](https://edstem.org/us/courses/32057/discussion/2447187)"
         
       - date: 2023-1-13
         events:
