@@ -12,8 +12,9 @@
       - date: 2023-2-1
         events:
           "**LEC 10**{: .label .label-lecture } [Permutation Testing](resources/lectures/lec10/lec10.html)":
-            "[Ch. 5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/10) • [5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
           "**DIS 3**{: .label .label-disc } **[Lab 3 Reflection (due 2/4)](https://www.gradescope.com/courses/478969/assignments/2624528/)**":
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a01/32)"
                 
       - date: 2023-2-2
         events:
