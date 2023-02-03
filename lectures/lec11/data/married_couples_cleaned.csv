@@ -1,0 +1,2069 @@
+mar_status,empl_status,gender,age
+married,Working as paid employee,M,51
+married,Working as paid employee,F,53
+married,Working as paid employee,M,57
+married,Working as paid employee,F,57
+married,Working as paid employee,M,60
+married,Working as paid employee,F,57
+married,"Working, self-employed",M,62
+married,Working as paid employee,F,59
+married,Not working - other,M,53
+married,Not working - retired,F,61
+married,Not working - on a temporary layoff from a job,M,34
+married,Not working - looking for work,F,32
+married,Not working - disabled,M,54
+married,"Working, self-employed",F,47
+married,Working as paid employee,M,47
+married,Not working - other,F,44
+married,Working as paid employee,M,52
+married,Working as paid employee,F,51
+married,Not working - retired,M,58
+married,Working as paid employee,F,59
+married,Working as paid employee,M,48
+married,Working as paid employee,F,47
+married,Working as paid employee,M,55
+married,Not working - other,F,47
+married,Not working - looking for work,M,52
+married,Working as paid employee,F,53
+married,Working as paid employee,M,27
+married,Working as paid employee,F,28
+married,Working as paid employee,M,45
+married,"Working, self-employed",F,44
+married,Working as paid employee,M,58
+married,Working as paid employee,F,52
+married,Working as paid employee,M,59
+married,Working as paid employee,F,57
+married,Working as paid employee,M,57
+married,Not working - other,F,48
+married,Working as paid employee,M,44
+married,"Working, self-employed",F,46
+married,Working as paid employee,M,39
+married,"Working, self-employed",F,38
+married,Working as paid employee,M,48
+married,Working as paid employee,F,43
+married,Working as paid employee,M,50
+married,Not working - disabled,F,49
+married,Working as paid employee,M,44
+married,Not working - other,F,46
+married,Not working - retired,M,62
+married,Not working - retired,F,58
+married,Working as paid employee,M,41
+married,Working as paid employee,F,39
+unmarried,Not working - disabled,M,58
+unmarried,Not working - retired,F,55
+married,Working as paid employee,M,30
+married,Not working - other,F,29
+married,Working as paid employee,M,44
+married,Working as paid employee,F,44
+married,"Working, self-employed",M,49
+married,Working as paid employee,F,49
+unmarried,Working as paid employee,M,40
+unmarried,Working as paid employee,F,47
+married,Working as paid employee,M,46
+married,Not working - other,F,41
+married,Working as paid employee,M,32
+married,Working as paid employee,F,39
+married,Working as paid employee,M,54
+married,"Working, self-employed",F,56
+married,Not working - looking for work,M,53
+married,Working as paid employee,F,49
+married,Working as paid employee,M,42
+married,Working as paid employee,F,47
+married,Working as paid employee,M,56
+married,"Working, self-employed",F,59
+married,Working as paid employee,M,53
+married,Not working - looking for work,F,45
+married,Working as paid employee,M,53
+married,"Working, self-employed",F,49
+married,Working as paid employee,M,57
+married,Working as paid employee,F,52
+married,Working as paid employee,M,34
+married,Not working - other,F,29
+married,"Working, self-employed",M,64
+married,Working as paid employee,F,63
+unmarried,Working as paid employee,M,56
+unmarried,"Working, self-employed",F,56
+married,Not working - disabled,M,46
+married,Working as paid employee,F,51
+married,Not working - retired,M,58
+married,Not working - retired,F,58
+married,Working as paid employee,M,50
+married,Working as paid employee,F,60
+married,Not working - disabled,M,56
+married,Not working - disabled,F,59
+married,Working as paid employee,M,49
+married,Working as paid employee,F,48
+married,Working as paid employee,M,52
+married,Working as paid employee,F,50
+married,Working as paid employee,M,33
+married,Working as paid employee,F,28
+unmarried,Working as paid employee,M,55
+unmarried,Working as paid employee,F,55
+married,Working as paid employee,M,61
+married,Working as paid employee,F,62
+married,Working as paid employee,M,57
+married,Working as paid employee,F,56
+unmarried,Working as paid employee,M,41
+unmarried,Working as paid employee,F,47
+unmarried,Working as paid employee,M,27
+unmarried,Not working - other,F,20
+married,Working as paid employee,M,59
+married,Working as paid employee,F,62
+married,Working as paid employee,M,61
+married,Not working - retired,F,62
+married,Not working - disabled,M,51
+married,Working as paid employee,F,44
+married,Working as paid employee,M,49
+married,Working as paid employee,F,45
+married,Working as paid employee,M,55
+married,Working as paid employee,F,59
+married,Not working - on a temporary layoff from a job,M,35
+married,Working as paid employee,F,34
+married,Working as paid employee,M,53
+married,Working as paid employee,F,47
+married,Working as paid employee,M,36
+married,Working as paid employee,F,41
+married,Working as paid employee,M,40
+married,Not working - other,F,43
+married,Working as paid employee,M,38
+married,Not working - other,F,39
+unmarried,Working as paid employee,M,47
+unmarried,Not working - disabled,F,45
+married,Working as paid employee,M,42
+married,Working as paid employee,F,41
+married,Working as paid employee,M,49
+married,Working as paid employee,F,51
+married,Working as paid employee,M,59
+married,Working as paid employee,F,58
+married,Working as paid employee,M,53
+married,Working as paid employee,F,53
+married,Working as paid employee,M,44
+married,Not working - other,F,42
+married,Working as paid employee,M,34
+married,Working as paid employee,F,32
+married,Working as paid employee,M,40
+married,Working as paid employee,F,34
+married,Working as paid employee,M,53
+married,Not working - other,F,53
+married,Working as paid employee,M,41
+married,Working as paid employee,F,39
+married,Working as paid employee,M,55
+married,Working as paid employee,F,48
+unmarried,Not working - disabled,M,57
+unmarried,Working as paid employee,F,57
+married,Working as paid employee,M,37
+married,"Working, self-employed",F,36
+married,Working as paid employee,M,56
+married,Not working - looking for work,F,50
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,43
+unmarried,Not working - looking for work,M,30
+unmarried,Working as paid employee,F,29
+married,Not working - retired,M,63
+married,Not working - other,F,61
+married,Working as paid employee,M,44
+married,Not working - other,F,36
+unmarried,Not working - disabled,M,45
+unmarried,Working as paid employee,F,40
+married,Working as paid employee,M,34
+married,Working as paid employee,F,35
+unmarried,"Working, self-employed",M,48
+unmarried,"Working, self-employed",F,45
+married,Working as paid employee,M,39
+married,Working as paid employee,F,34
+married,Working as paid employee,M,38
+married,Working as paid employee,F,34
+married,Working as paid employee,M,51
+married,Working as paid employee,F,51
+married,Working as paid employee,M,42
+married,Not working - other,F,43
+married,"Working, self-employed",M,58
+married,Working as paid employee,F,57
+married,Not working - retired,M,61
+married,Working as paid employee,F,60
+married,Not working - disabled,M,59
+married,Not working - retired,F,59
+married,Working as paid employee,M,41
+married,Not working - other,F,38
+married,Working as paid employee,M,37
+married,Working as paid employee,F,36
+married,Working as paid employee,M,39
+married,Working as paid employee,F,37
+married,"Working, self-employed",M,46
+married,Working as paid employee,F,44
+married,"Working, self-employed",M,61
+married,Working as paid employee,F,59
+married,Working as paid employee,M,55
+married,Not working - other,F,55
+married,Working as paid employee,M,59
+married,Working as paid employee,F,53
+married,Working as paid employee,M,35
+married,Not working - other,F,32
+married,Working as paid employee,M,27
+married,Working as paid employee,F,29
+unmarried,Not working - other,M,61
+unmarried,"Working, self-employed",F,62
+married,"Working, self-employed",M,54
+married,Working as paid employee,F,50
+married,Working as paid employee,M,63
+married,Working as paid employee,F,61
+married,Working as paid employee,M,49
+married,"Working, self-employed",F,49
+married,"Working, self-employed",M,55
+married,"Working, self-employed",F,55
+married,Working as paid employee,M,52
+married,Working as paid employee,F,50
+married,Not working - disabled,M,53
+married,Not working - other,F,52
+married,Working as paid employee,M,56
+married,Not working - other,F,49
+married,Working as paid employee,M,50
+married,Working as paid employee,F,49
+married,Working as paid employee,M,56
+married,Working as paid employee,F,51
+married,Working as paid employee,M,54
+married,Not working - retired,F,58
+married,Not working - looking for work,M,51
+married,Working as paid employee,F,53
+married,"Working, self-employed",M,44
+married,Working as paid employee,F,38
+married,Working as paid employee,M,42
+married,Working as paid employee,F,40
+married,Working as paid employee,M,44
+married,Working as paid employee,F,45
+married,Working as paid employee,M,54
+married,Working as paid employee,F,56
+married,"Working, self-employed",M,43
+married,Working as paid employee,F,41
+married,Working as paid employee,M,36
+married,Not working - other,F,40
+married,Working as paid employee,M,53
+married,Working as paid employee,F,55
+married,Working as paid employee,M,40
+married,Working as paid employee,F,36
+married,Working as paid employee,M,52
+married,Working as paid employee,F,43
+married,Working as paid employee,M,40
+married,Working as paid employee,F,43
+married,Working as paid employee,M,56
+married,Working as paid employee,F,60
+married,Not working - disabled,M,52
+married,Not working - other,F,48
+married,Not working - looking for work,M,37
+married,Working as paid employee,F,30
+married,Working as paid employee,M,40
+married,Working as paid employee,F,32
+married,Working as paid employee,M,30
+married,"Working, self-employed",F,26
+married,Working as paid employee,M,35
+married,Working as paid employee,F,33
+married,Not working - looking for work,M,42
+married,Not working - disabled,F,39
+married,Working as paid employee,M,55
+married,Working as paid employee,F,55
+married,Working as paid employee,M,39
+married,Working as paid employee,F,37
+married,Working as paid employee,M,46
+married,Working as paid employee,F,46
+married,Working as paid employee,M,49
+married,Not working - retired,F,48
+married,Working as paid employee,M,55
+married,"Working, self-employed",F,47
+married,Working as paid employee,M,55
+married,Not working - looking for work,F,49
+married,"Working, self-employed",M,38
+married,Not working - other,F,34
+married,Working as paid employee,M,43
+married,Not working - looking for work,F,39
+married,Working as paid employee,M,42
+married,Working as paid employee,F,32
+married,Working as paid employee,M,33
+married,Not working - other,F,31
+married,Working as paid employee,M,54
+married,Working as paid employee,F,52
+married,Not working - looking for work,M,56
+married,Not working - looking for work,F,54
+married,Not working - retired,M,60
+married,Working as paid employee,F,55
+married,Working as paid employee,M,46
+married,Working as paid employee,F,46
+married,Working as paid employee,M,26
+married,Working as paid employee,F,25
+married,Not working - looking for work,M,46
+married,Not working - other,F,49
+married,Not working - retired,M,54
+married,Working as paid employee,F,54
+married,Working as paid employee,M,47
+married,Working as paid employee,F,53
+married,Working as paid employee,M,46
+married,Working as paid employee,F,47
+married,Working as paid employee,M,53
+married,Not working - other,F,53
+unmarried,Not working - disabled,M,59
+unmarried,Not working - on a temporary layoff from a job,F,54
+married,Working as paid employee,M,58
+married,Working as paid employee,F,57
+married,Working as paid employee,M,38
+married,Not working - other,F,31
+married,Working as paid employee,M,43
+married,Not working - other,F,37
+married,"Working, self-employed",M,63
+married,Not working - retired,F,61
+unmarried,Working as paid employee,M,53
+unmarried,Not working - looking for work,F,49
+married,Working as paid employee,M,29
+married,Working as paid employee,F,23
+married,Working as paid employee,M,60
+married,Not working - other,F,62
+married,Working as paid employee,M,39
+married,Working as paid employee,F,41
+married,Working as paid employee,M,44
+married,Working as paid employee,F,39
+married,Working as paid employee,M,51
+married,Not working - other,F,51
+married,Working as paid employee,M,31
+married,"Working, self-employed",F,30
+married,Working as paid employee,M,51
+married,Not working - other,F,54
+married,Working as paid employee,M,40
+married,Not working - other,F,42
+married,Not working - disabled,M,56
+married,"Working, self-employed",F,57
+married,Working as paid employee,M,45
+married,Working as paid employee,F,45
+married,Working as paid employee,M,44
+married,Not working - other,F,45
+married,Working as paid employee,M,53
+married,Working as paid employee,F,52
+unmarried,Working as paid employee,M,42
+unmarried,Not working - looking for work,F,38
+married,Working as paid employee,M,29
+married,Working as paid employee,F,30
+married,Working as paid employee,M,55
+married,Working as paid employee,F,63
+married,Not working - on a temporary layoff from a job,M,49
+married,Not working - other,F,45
+married,Working as paid employee,M,49
+married,Not working - other,F,49
+married,Working as paid employee,M,57
+married,Not working - retired,F,56
+married,Not working - disabled,M,39
+married,Working as paid employee,F,34
+married,"Working, self-employed",M,56
+married,Working as paid employee,F,55
+married,Working as paid employee,M,60
+married,Working as paid employee,F,60
+married,"Working, self-employed",M,52
+married,Working as paid employee,F,46
+married,Working as paid employee,M,39
+married,Not working - other,F,42
+married,Working as paid employee,M,28
+married,"Working, self-employed",F,27
+married,Not working - retired,M,57
+married,Working as paid employee,F,63
+married,Not working - disabled,M,56
+married,Working as paid employee,F,48
+unmarried,"Working, self-employed",M,55
+unmarried,Working as paid employee,F,54
+married,Not working - disabled,M,48
+married,Not working - disabled,F,55
+married,Working as paid employee,M,62
+married,Not working - other,F,58
+married,Working as paid employee,M,35
+married,Not working - other,F,34
+married,Working as paid employee,M,38
+married,Not working - other,F,38
+married,Working as paid employee,M,36
+married,Working as paid employee,F,37
+married,Working as paid employee,M,40
+married,Working as paid employee,F,41
+married,Working as paid employee,M,57
+married,Working as paid employee,F,55
+married,Working as paid employee,M,43
+married,Not working - other,F,42
+married,Not working - other,M,29
+married,Not working - other,F,30
+married,Working as paid employee,M,55
+married,Working as paid employee,F,55
+married,"Working, self-employed",M,61
+married,Working as paid employee,F,59
+married,Not working - retired,M,60
+married,Not working - on a temporary layoff from a job,F,63
+married,Working as paid employee,M,48
+married,Not working - other,F,48
+married,Working as paid employee,M,40
+married,Not working - other,F,38
+married,Working as paid employee,M,51
+married,Not working - retired,F,59
+married,Working as paid employee,M,58
+married,Not working - disabled,F,56
+married,Working as paid employee,M,32
+married,Not working - looking for work,F,29
+married,Not working - disabled,M,53
+married,Not working - other,F,51
+married,Working as paid employee,M,54
+married,Working as paid employee,F,52
+married,Not working - disabled,M,41
+married,Working as paid employee,F,43
+married,Working as paid employee,M,31
+married,Working as paid employee,F,31
+married,Working as paid employee,M,40
+married,Not working - other,F,48
+married,Not working - other,M,63
+married,Not working - disabled,F,61
+married,Not working - on a temporary layoff from a job,M,48
+married,Working as paid employee,F,48
+married,Not working - on a temporary layoff from a job,M,60
+married,Not working - disabled,F,53
+married,Working as paid employee,M,38
+married,"Working, self-employed",F,38
+married,"Working, self-employed",M,51
+married,"Working, self-employed",F,48
+married,Not working - retired,M,64
+married,Not working - other,F,58
+married,"Working, self-employed",M,43
+married,Working as paid employee,F,41
+married,Not working - on a temporary layoff from a job,M,35
+married,Not working - looking for work,F,35
+married,Not working - retired,M,58
+married,Not working - retired,F,54
+married,Working as paid employee,M,55
+married,Not working - other,F,46
+married,Working as paid employee,M,58
+married,Working as paid employee,F,55
+married,Working as paid employee,M,37
+married,Working as paid employee,F,34
+married,Working as paid employee,M,43
+married,Not working - other,F,38
+married,Not working - disabled,M,54
+married,Working as paid employee,F,45
+married,Working as paid employee,M,54
+married,Not working - other,F,53
+unmarried,Working as paid employee,M,62
+unmarried,Working as paid employee,F,58
+unmarried,Not working - looking for work,M,27
+unmarried,Working as paid employee,F,29
+married,Not working - disabled,M,53
+married,Working as paid employee,F,57
+married,"Working, self-employed",M,62
+married,Working as paid employee,F,62
+married,Working as paid employee,M,37
+married,Not working - other,F,38
+married,Not working - disabled,M,57
+married,Not working - disabled,F,53
+married,Working as paid employee,M,33
+married,Not working - other,F,31
+married,Not working - other,M,33
+married,Working as paid employee,F,30
+married,Working as paid employee,M,39
+married,Working as paid employee,F,38
+married,Working as paid employee,M,53
+married,"Working, self-employed",F,49
+married,Working as paid employee,M,43
+married,Working as paid employee,F,40
+unmarried,Working as paid employee,M,55
+unmarried,Not working - other,F,47
+married,Working as paid employee,M,39
+married,Working as paid employee,F,38
+married,Working as paid employee,M,53
+married,Working as paid employee,F,54
+married,Working as paid employee,M,31
+married,Working as paid employee,F,30
+married,Working as paid employee,M,39
+married,Not working - other,F,38
+married,"Working, self-employed",M,43
+married,Not working - other,F,44
+married,Working as paid employee,M,57
+married,Not working - other,F,55
+married,Working as paid employee,M,46
+married,Working as paid employee,F,51
+married,Working as paid employee,M,54
+married,"Working, self-employed",F,54
+unmarried,Working as paid employee,M,33
+unmarried,Working as paid employee,F,32
+unmarried,Working as paid employee,M,52
+unmarried,Working as paid employee,F,53
+married,Not working - retired,M,63
+married,Not working - retired,F,63
+married,Working as paid employee,M,40
+married,Not working - other,F,36
+married,Working as paid employee,M,60
+married,Not working - other,F,56
+married,Working as paid employee,M,52
+married,Working as paid employee,F,52
+married,Working as paid employee,M,45
+married,Not working - other,F,43
+married,Working as paid employee,M,56
+married,"Working, self-employed",F,57
+married,"Working, self-employed",M,47
+married,"Working, self-employed",F,38
+married,"Working, self-employed",M,46
+married,Not working - other,F,43
+unmarried,"Working, self-employed",M,43
+unmarried,Not working - disabled,F,40
+married,"Working, self-employed",M,55
+married,Working as paid employee,F,55
+married,Not working - disabled,M,61
+married,Not working - disabled,F,55
+married,Working as paid employee,M,53
+married,Working as paid employee,F,44
+married,Working as paid employee,M,33
+married,Working as paid employee,F,28
+married,Working as paid employee,M,43
+married,Working as paid employee,F,43
+married,Working as paid employee,M,41
+married,Not working - disabled,F,39
+married,Working as paid employee,M,41
+married,Not working - other,F,34
+married,Working as paid employee,M,34
+married,Working as paid employee,F,34
+married,Not working - retired,M,57
+married,Not working - other,F,52
+unmarried,"Working, self-employed",M,47
+unmarried,"Working, self-employed",F,42
+married,"Working, self-employed",M,55
+married,Working as paid employee,F,51
+married,"Working, self-employed",M,44
+married,"Working, self-employed",F,34
+married,Working as paid employee,M,39
+married,Working as paid employee,F,37
+unmarried,Working as paid employee,M,51
+unmarried,Working as paid employee,F,53
+married,"Working, self-employed",M,38
+married,Not working - disabled,F,31
+married,Working as paid employee,M,48
+married,Working as paid employee,F,48
+married,Working as paid employee,M,48
+married,Working as paid employee,F,38
+married,Working as paid employee,M,51
+married,Working as paid employee,F,51
+married,"Working, self-employed",M,53
+married,Working as paid employee,F,48
+married,"Working, self-employed",M,58
+married,Working as paid employee,F,56
+married,Working as paid employee,M,45
+married,Working as paid employee,F,46
+unmarried,Working as paid employee,M,62
+unmarried,Working as paid employee,F,52
+married,Working as paid employee,M,42
+married,Working as paid employee,F,41
+married,Not working - retired,M,63
+married,Not working - retired,F,64
+married,Not working - looking for work,M,51
+married,Not working - looking for work,F,55
+married,Working as paid employee,M,60
+married,Working as paid employee,F,59
+married,Working as paid employee,M,64
+married,Working as paid employee,F,60
+married,Not working - retired,M,57
+married,Not working - retired,F,53
+married,Not working - retired,M,63
+married,Not working - retired,F,63
+unmarried,"Working, self-employed",M,21
+unmarried,Not working - on a temporary layoff from a job,F,19
+married,Not working - disabled,M,53
+married,Working as paid employee,F,43
+married,"Working, self-employed",M,45
+married,Working as paid employee,F,41
+married,Working as paid employee,M,39
+married,Working as paid employee,F,38
+married,Working as paid employee,M,49
+married,Not working - other,F,50
+married,Working as paid employee,M,37
+married,Working as paid employee,F,33
+married,"Working, self-employed",M,52
+married,Working as paid employee,F,52
+married,Working as paid employee,M,47
+married,"Working, self-employed",F,51
+married,Not working - disabled,M,57
+married,Not working - looking for work,F,48
+married,Working as paid employee,M,61
+married,Not working - other,F,55
+married,Working as paid employee,M,59
+married,Working as paid employee,F,60
+married,Not working - looking for work,M,48
+married,Working as paid employee,F,42
+married,Working as paid employee,M,42
+married,Working as paid employee,F,40
+unmarried,Not working - looking for work,M,55
+unmarried,Not working - looking for work,F,54
+married,Working as paid employee,M,53
+married,Working as paid employee,F,52
+married,Working as paid employee,M,32
+married,Not working - other,F,31
+married,Not working - retired,M,61
+married,Not working - retired,F,60
+married,Working as paid employee,M,59
+married,"Working, self-employed",F,57
+married,Not working - retired,M,62
+married,Working as paid employee,F,57
+married,Working as paid employee,M,35
+married,Working as paid employee,F,44
+married,Working as paid employee,M,39
+married,Working as paid employee,F,34
+married,Working as paid employee,M,54
+married,Working as paid employee,F,52
+married,Working as paid employee,M,58
+married,Working as paid employee,F,55
+married,Working as paid employee,M,41
+married,Working as paid employee,F,35
+married,Not working - retired,M,62
+married,Working as paid employee,F,62
+married,Working as paid employee,M,53
+married,Working as paid employee,F,52
+married,Not working - disabled,M,51
+married,Working as paid employee,F,45
+married,Working as paid employee,M,55
+married,Not working - other,F,48
+married,Working as paid employee,M,34
+married,Working as paid employee,F,31
+married,"Working, self-employed",M,53
+married,Not working - other,F,54
+married,Working as paid employee,M,36
+married,Working as paid employee,F,31
+married,Working as paid employee,M,57
+married,Not working - retired,F,62
+married,Working as paid employee,M,43
+married,Working as paid employee,F,39
+married,Working as paid employee,M,51
+married,Not working - looking for work,F,49
+unmarried,Not working - other,M,62
+unmarried,Not working - retired,F,62
+married,Working as paid employee,M,55
+married,Working as paid employee,F,54
+unmarried,"Working, self-employed",M,51
+unmarried,"Working, self-employed",F,47
+married,Working as paid employee,M,32
+married,Working as paid employee,F,31
+married,Working as paid employee,M,51
+married,Working as paid employee,F,60
+married,Working as paid employee,M,37
+married,Working as paid employee,F,38
+married,Working as paid employee,M,51
+married,Working as paid employee,F,44
+married,"Working, self-employed",M,52
+married,Working as paid employee,F,52
+married,"Working, self-employed",M,54
+married,"Working, self-employed",F,52
+married,Working as paid employee,M,53
+married,Not working - disabled,F,59
+married,Working as paid employee,M,52
+married,Working as paid employee,F,44
+married,"Working, self-employed",M,38
+married,Working as paid employee,F,38
+married,Not working - looking for work,M,55
+married,Not working - disabled,F,51
+married,Working as paid employee,M,28
+married,Working as paid employee,F,27
+married,Working as paid employee,M,53
+married,Working as paid employee,F,58
+unmarried,Working as paid employee,M,63
+unmarried,Working as paid employee,F,54
+unmarried,Working as paid employee,M,43
+unmarried,Working as paid employee,F,45
+married,Working as paid employee,M,37
+married,Working as paid employee,F,38
+married,Working as paid employee,M,35
+married,Not working - on a temporary layoff from a job,F,34
+married,"Working, self-employed",M,39
+married,Not working - looking for work,F,39
+unmarried,Working as paid employee,M,50
+unmarried,Working as paid employee,F,50
+married,Not working - retired,M,59
+married,Working as paid employee,F,53
+married,"Working, self-employed",M,36
+married,Working as paid employee,F,36
+married,Working as paid employee,M,53
+married,Working as paid employee,F,49
+married,Working as paid employee,M,35
+married,Not working - other,F,33
+married,Not working - on a temporary layoff from a job,M,45
+married,Working as paid employee,F,46
+married,"Working, self-employed",M,53
+married,Working as paid employee,F,49
+married,"Working, self-employed",M,45
+married,"Working, self-employed",F,46
+married,Working as paid employee,M,47
+married,Working as paid employee,F,44
+unmarried,Not working - retired,M,60
+unmarried,Working as paid employee,F,56
+married,Working as paid employee,M,42
+married,"Working, self-employed",F,39
+married,Working as paid employee,M,52
+married,Working as paid employee,F,52
+married,Working as paid employee,M,53
+married,Not working - retired,F,62
+married,Working as paid employee,M,45
+married,Working as paid employee,F,44
+unmarried,Working as paid employee,M,31
+unmarried,"Working, self-employed",F,34
+married,Working as paid employee,M,57
+married,Working as paid employee,F,54
+married,Working as paid employee,M,31
+married,Not working - other,F,32
+married,Not working - on a temporary layoff from a job,M,52
+married,Working as paid employee,F,43
+married,Working as paid employee,M,60
+married,Working as paid employee,F,60
+unmarried,Working as paid employee,M,27
+unmarried,Not working - looking for work,F,24
+married,Working as paid employee,M,50
+married,Working as paid employee,F,48
+married,Working as paid employee,M,27
+married,Working as paid employee,F,36
+married,Working as paid employee,M,41
+married,Working as paid employee,F,35
+married,Working as paid employee,M,55
+married,Not working - looking for work,F,57
+married,Working as paid employee,M,63
+married,Working as paid employee,F,61
+married,"Working, self-employed",M,44
+married,Not working - other,F,44
+married,Not working - disabled,M,61
+married,Not working - retired,F,59
+married,Working as paid employee,M,46
+married,Working as paid employee,F,47
+unmarried,Working as paid employee,M,43
+unmarried,Working as paid employee,F,39
+married,Working as paid employee,M,58
+married,Working as paid employee,F,49
+married,Working as paid employee,M,42
+married,Not working - other,F,39
+married,Working as paid employee,M,51
+married,Working as paid employee,F,46
+married,Working as paid employee,M,53
+married,Working as paid employee,F,52
+married,Not working - looking for work,M,40
+married,Not working - other,F,37
+married,Working as paid employee,M,61
+married,Not working - retired,F,62
+married,Working as paid employee,M,32
+married,Not working - other,F,28
+married,"Working, self-employed",M,58
+married,Not working - other,F,60
+married,Working as paid employee,M,44
+married,Working as paid employee,F,40
+married,Not working - disabled,M,45
+married,Working as paid employee,F,39
+married,Working as paid employee,M,61
+married,Working as paid employee,F,59
+married,Working as paid employee,M,55
+married,Working as paid employee,F,54
+married,Working as paid employee,M,55
+married,Working as paid employee,F,46
+married,Working as paid employee,M,31
+married,Not working - other,F,34
+married,Working as paid employee,M,26
+married,Not working - other,F,26
+married,Working as paid employee,M,51
+married,Working as paid employee,F,44
+married,Working as paid employee,M,58
+married,Not working - retired,F,55
+unmarried,Working as paid employee,M,49
+unmarried,Not working - looking for work,F,48
+married,Working as paid employee,M,59
+married,Working as paid employee,F,55
+married,Working as paid employee,M,64
+married,Working as paid employee,F,58
+married,Working as paid employee,M,47
+married,Working as paid employee,F,47
+married,Not working - other,M,49
+married,Working as paid employee,F,45
+married,Working as paid employee,M,30
+married,Working as paid employee,F,27
+married,Working as paid employee,M,49
+married,Not working - other,F,50
+married,Not working - looking for work,M,35
+married,Working as paid employee,F,34
+married,Working as paid employee,M,59
+married,Working as paid employee,F,59
+married,Working as paid employee,M,42
+married,Working as paid employee,F,46
+married,Not working - other,M,37
+married,Not working - disabled,F,36
+married,Working as paid employee,M,41
+married,Not working - other,F,37
+married,Not working - looking for work,M,41
+married,Working as paid employee,F,37
+married,Working as paid employee,M,62
+married,Working as paid employee,F,61
+married,Working as paid employee,M,24
+married,Not working - other,F,24
+married,Working as paid employee,M,35
+married,Not working - looking for work,F,29
+unmarried,Not working - looking for work,M,54
+unmarried,Working as paid employee,F,53
+married,Working as paid employee,M,48
+married,Working as paid employee,F,53
+married,Working as paid employee,M,40
+married,Working as paid employee,F,32
+married,Not working - disabled,M,62
+married,Not working - looking for work,F,56
+married,Not working - retired,M,60
+married,Not working - retired,F,60
+married,Working as paid employee,M,42
+married,Working as paid employee,F,45
+married,Working as paid employee,M,32
+married,"Working, self-employed",F,31
+married,Working as paid employee,M,42
+married,Working as paid employee,F,40
+married,Working as paid employee,M,43
+married,Working as paid employee,F,41
+married,Working as paid employee,M,59
+married,Working as paid employee,F,57
+unmarried,Not working - looking for work,M,33
+unmarried,Not working - disabled,F,31
+married,Working as paid employee,M,25
+married,Not working - other,F,21
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,29
+married,Working as paid employee,M,55
+married,Working as paid employee,F,53
+married,Working as paid employee,M,31
+married,Not working - other,F,32
+married,Working as paid employee,M,32
+married,Working as paid employee,F,30
+married,Working as paid employee,M,41
+married,Working as paid employee,F,40
+married,Working as paid employee,M,35
+married,Working as paid employee,F,33
+married,Working as paid employee,M,62
+married,Not working - other,F,52
+married,Working as paid employee,M,60
+married,Working as paid employee,F,58
+married,Working as paid employee,M,61
+married,Not working - retired,F,63
+married,Working as paid employee,M,36
+married,Not working - other,F,31
+unmarried,"Working, self-employed",M,51
+unmarried,"Working, self-employed",F,53
+married,Working as paid employee,M,52
+married,Working as paid employee,F,48
+married,Working as paid employee,M,33
+married,Working as paid employee,F,29
+married,Working as paid employee,M,40
+married,Working as paid employee,F,40
+unmarried,"Working, self-employed",M,60
+unmarried,"Working, self-employed",F,52
+married,Working as paid employee,M,50
+married,Working as paid employee,F,50
+married,Working as paid employee,M,41
+married,Working as paid employee,F,35
+married,Working as paid employee,M,46
+married,Working as paid employee,F,45
+married,Not working - disabled,M,37
+married,Not working - disabled,F,46
+married,Not working - retired,M,63
+married,Not working - retired,F,64
+married,Working as paid employee,M,63
+married,Working as paid employee,F,63
+married,Working as paid employee,M,36
+married,Working as paid employee,F,32
+married,Not working - retired,M,64
+married,Not working - retired,F,63
+married,Working as paid employee,M,23
+married,Not working - other,F,24
+married,"Working, self-employed",M,30
+married,Working as paid employee,F,30
+married,Working as paid employee,M,48
+married,Not working - other,F,48
+married,Working as paid employee,M,30
+married,Working as paid employee,F,27
+married,Working as paid employee,M,54
+married,Working as paid employee,F,55
+married,Not working - retired,M,61
+married,Not working - retired,F,61
+married,Working as paid employee,M,39
+married,Not working - other,F,36
+married,Not working - retired,M,55
+married,Working as paid employee,F,52
+married,Working as paid employee,M,43
+married,Not working - other,F,43
+married,Working as paid employee,M,44
+married,Working as paid employee,F,42
+married,"Working, self-employed",M,33
+married,Not working - other,F,32
+married,Working as paid employee,M,41
+married,Working as paid employee,F,39
+married,"Working, self-employed",M,48
+married,"Working, self-employed",F,58
+married,Not working - retired,M,60
+married,Not working - retired,F,54
+married,Working as paid employee,M,27
+married,Not working - other,F,27
+married,Not working - retired,M,56
+married,Working as paid employee,F,57
+married,Working as paid employee,M,53
+married,Working as paid employee,F,46
+married,Working as paid employee,M,44
+married,"Working, self-employed",F,39
+married,Working as paid employee,M,40
+married,Not working - other,F,35
+married,Not working - looking for work,M,48
+married,Not working - other,F,40
+married,Not working - other,M,25
+married,Working as paid employee,F,26
+married,Working as paid employee,M,55
+married,Working as paid employee,F,54
+married,Working as paid employee,M,32
+married,Not working - other,F,27
+married,Working as paid employee,M,45
+married,Working as paid employee,F,43
+unmarried,Working as paid employee,M,38
+unmarried,Not working - looking for work,F,31
+married,Working as paid employee,M,40
+married,Not working - other,F,38
+married,Working as paid employee,M,54
+married,"Working, self-employed",F,55
+married,"Working, self-employed",M,58
+married,Working as paid employee,F,55
+married,Not working - disabled,M,44
+married,Not working - looking for work,F,45
+married,Working as paid employee,M,44
+married,Working as paid employee,F,40
+married,Working as paid employee,M,29
+married,Not working - other,F,25
+married,"Working, self-employed",M,50
+married,Working as paid employee,F,49
+married,Working as paid employee,M,42
+married,Working as paid employee,F,43
+married,Working as paid employee,M,56
+married,Not working - other,F,54
+married,Working as paid employee,M,42
+married,Working as paid employee,F,40
+married,Working as paid employee,M,43
+married,Not working - other,F,36
+married,"Working, self-employed",M,38
+married,Not working - other,F,38
+married,Working as paid employee,M,39
+married,Working as paid employee,F,33
+married,"Working, self-employed",M,29
+married,"Working, self-employed",F,28
+married,Working as paid employee,M,28
+married,Working as paid employee,F,29
+married,Working as paid employee,M,54
+married,Working as paid employee,F,52
+married,"Working, self-employed",M,62
+married,Not working - looking for work,F,61
+married,Working as paid employee,M,29
+married,Working as paid employee,F,29
+married,Working as paid employee,M,27
+married,Working as paid employee,F,27
+married,"Working, self-employed",M,49
+married,Working as paid employee,F,44
+unmarried,Not working - disabled,M,42
+unmarried,Not working - disabled,F,32
+married,Working as paid employee,M,30
+married,"Working, self-employed",F,28
+married,Working as paid employee,M,38
+married,Working as paid employee,F,35
+married,Working as paid employee,M,36
+married,Working as paid employee,F,36
+married,Working as paid employee,M,37
+married,Not working - other,F,36
+married,Working as paid employee,M,28
+married,Not working - other,F,27
+married,"Working, self-employed",M,57
+married,Working as paid employee,F,56
+married,Not working - retired,M,55
+married,Not working - retired,F,56
+married,Working as paid employee,M,30
+married,Working as paid employee,F,29
+married,Working as paid employee,M,47
+married,Not working - other,F,56
+unmarried,Not working - disabled,M,61
+unmarried,"Working, self-employed",F,55
+married,Working as paid employee,M,27
+married,Working as paid employee,F,29
+married,Working as paid employee,M,44
+married,Working as paid employee,F,50
+married,Working as paid employee,M,57
+married,Working as paid employee,F,54
+married,Working as paid employee,M,38
+married,Working as paid employee,F,36
+married,Working as paid employee,M,58
+married,Not working - disabled,F,56
+married,Working as paid employee,M,43
+married,Not working - looking for work,F,43
+married,Working as paid employee,M,40
+married,Working as paid employee,F,40
+married,Working as paid employee,M,30
+married,Working as paid employee,F,30
+married,Working as paid employee,M,54
+married,"Working, self-employed",F,56
+married,Working as paid employee,M,24
+married,Working as paid employee,F,23
+married,Working as paid employee,M,63
+married,Not working - retired,F,64
+married,Working as paid employee,M,27
+married,Working as paid employee,F,27
+married,Working as paid employee,M,57
+married,Not working - other,F,55
+married,Working as paid employee,M,39
+married,Not working - other,F,36
+married,Working as paid employee,M,56
+married,Not working - retired,F,53
+married,Working as paid employee,M,47
+married,Not working - looking for work,F,44
+married,"Working, self-employed",M,52
+married,Working as paid employee,F,52
+married,Working as paid employee,M,57
+married,Not working - retired,F,58
+married,Not working - retired,M,62
+married,Not working - looking for work,F,59
+married,Working as paid employee,M,41
+married,"Working, self-employed",F,35
+married,Working as paid employee,M,51
+married,Not working - looking for work,F,55
+married,Working as paid employee,M,55
+married,"Working, self-employed",F,54
+unmarried,Not working - looking for work,M,51
+unmarried,Working as paid employee,F,50
+married,Working as paid employee,M,35
+married,Working as paid employee,F,30
+married,Working as paid employee,M,36
+married,Not working - other,F,37
+married,Working as paid employee,M,45
+married,Working as paid employee,F,40
+married,Working as paid employee,M,38
+married,Not working - other,F,32
+married,"Working, self-employed",M,31
+married,Not working - other,F,27
+married,Working as paid employee,M,33
+married,Working as paid employee,F,33
+married,Not working - on a temporary layoff from a job,M,56
+married,Working as paid employee,F,52
+married,Working as paid employee,M,27
+married,Working as paid employee,F,29
+married,Working as paid employee,M,58
+married,Not working - looking for work,F,50
+married,Not working - disabled,M,34
+married,Working as paid employee,F,32
+married,Working as paid employee,M,36
+married,Not working - other,F,33
+unmarried,Working as paid employee,M,61
+unmarried,Working as paid employee,F,59
+married,Working as paid employee,M,38
+married,Not working - other,F,41
+unmarried,Working as paid employee,M,33
+unmarried,Working as paid employee,F,33
+married,Working as paid employee,M,48
+married,Working as paid employee,F,46
+married,Not working - disabled,M,62
+married,Not working - other,F,59
+unmarried,Working as paid employee,M,49
+unmarried,Working as paid employee,F,39
+married,Working as paid employee,M,54
+married,Working as paid employee,F,55
+married,Working as paid employee,M,40
+married,Not working - on a temporary layoff from a job,F,40
+married,Working as paid employee,M,36
+married,Not working - other,F,30
+married,"Working, self-employed",M,51
+married,Working as paid employee,F,46
+married,Working as paid employee,M,49
+married,Working as paid employee,F,49
+married,Not working - other,M,41
+married,Not working - other,F,41
+unmarried,Not working - disabled,M,57
+unmarried,Not working - disabled,F,53
+married,Working as paid employee,M,30
+married,"Working, self-employed",F,26
+unmarried,Working as paid employee,M,39
+unmarried,"Working, self-employed",F,40
+married,Not working - disabled,M,38
+married,Not working - other,F,38
+married,Working as paid employee,M,34
+married,Working as paid employee,F,33
+married,Working as paid employee,M,63
+married,Working as paid employee,F,56
+married,Working as paid employee,M,64
+married,Not working - retired,F,63
+married,Working as paid employee,M,61
+married,Working as paid employee,F,60
+married,Working as paid employee,M,47
+married,Not working - looking for work,F,44
+unmarried,Working as paid employee,M,39
+unmarried,Not working - other,F,31
+married,Not working - other,M,44
+married,Not working - disabled,F,42
+married,Working as paid employee,M,49
+married,Working as paid employee,F,45
+married,Working as paid employee,M,53
+married,Working as paid employee,F,53
+married,Working as paid employee,M,43
+married,Working as paid employee,F,40
+married,Working as paid employee,M,30
+married,Not working - other,F,26
+married,Not working - retired,M,59
+married,Not working - retired,F,56
+married,Working as paid employee,M,59
+married,"Working, self-employed",F,58
+married,"Working, self-employed",M,53
+married,Not working - other,F,54
+married,"Working, self-employed",M,48
+married,"Working, self-employed",F,50
+married,Not working - disabled,M,54
+married,Not working - disabled,F,51
+married,Working as paid employee,M,52
+married,Working as paid employee,F,50
+married,Working as paid employee,M,44
+married,Working as paid employee,F,42
+married,Working as paid employee,M,42
+married,Not working - other,F,45
+married,Working as paid employee,M,40
+married,Working as paid employee,F,42
+married,Not working - on a temporary layoff from a job,M,33
+married,Working as paid employee,F,32
+married,Working as paid employee,M,53
+married,Working as paid employee,F,61
+married,Working as paid employee,M,51
+married,Working as paid employee,F,44
+unmarried,"Working, self-employed",M,52
+unmarried,Working as paid employee,F,45
+married,"Working, self-employed",M,42
+married,"Working, self-employed",F,36
+married,"Working, self-employed",M,48
+married,Working as paid employee,F,50
+married,Not working - retired,M,63
+married,Not working - retired,F,60
+married,Not working - retired,M,50
+married,Working as paid employee,F,55
+married,Not working - other,M,37
+married,Working as paid employee,F,34
+married,Working as paid employee,M,54
+married,Working as paid employee,F,48
+married,Not working - other,M,50
+married,Not working - looking for work,F,52
+married,Working as paid employee,M,52
+married,"Working, self-employed",F,52
+married,"Working, self-employed",M,53
+married,Not working - looking for work,F,56
+married,Not working - retired,M,64
+married,Not working - retired,F,64
+married,Not working - looking for work,M,43
+married,Working as paid employee,F,33
+married,Working as paid employee,M,63
+married,Not working - retired,F,61
+married,Working as paid employee,M,57
+married,Not working - looking for work,F,58
+married,Working as paid employee,M,59
+married,Working as paid employee,F,60
+unmarried,Working as paid employee,M,29
+unmarried,Working as paid employee,F,25
+married,"Working, self-employed",M,48
+married,"Working, self-employed",F,46
+married,Working as paid employee,M,40
+married,Not working - on a temporary layoff from a job,F,45
+married,Working as paid employee,M,34
+married,Working as paid employee,F,30
+married,Working as paid employee,M,48
+married,Not working - other,F,43
+married,Working as paid employee,M,32
+married,Working as paid employee,F,33
+married,Working as paid employee,M,47
+married,Working as paid employee,F,46
+married,Working as paid employee,M,44
+married,Not working - on a temporary layoff from a job,F,42
+married,Working as paid employee,M,43
+married,Working as paid employee,F,41
+married,Not working - retired,M,58
+married,Not working - retired,F,57
+married,Working as paid employee,M,32
+married,Not working - other,F,32
+married,Not working - other,M,40
+married,Working as paid employee,F,38
+married,Working as paid employee,M,22
+married,Working as paid employee,F,22
+married,Not working - on a temporary layoff from a job,M,37
+married,"Working, self-employed",F,37
+married,Working as paid employee,M,40
+married,Not working - other,F,30
+married,"Working, self-employed",M,34
+married,Not working - other,F,41
+married,Not working - disabled,M,46
+married,Working as paid employee,F,51
+married,Working as paid employee,M,30
+married,Not working - looking for work,F,35
+unmarried,Not working - disabled,M,36
+unmarried,Not working - other,F,39
+married,Working as paid employee,M,41
+married,Not working - looking for work,F,46
+married,Working as paid employee,M,41
+married,Not working - other,F,46
+married,Not working - retired,M,59
+married,Not working - retired,F,52
+married,Working as paid employee,M,48
+married,Working as paid employee,F,48
+unmarried,Working as paid employee,M,35
+unmarried,Working as paid employee,F,35
+married,Working as paid employee,M,27
+married,Working as paid employee,F,27
+married,"Working, self-employed",M,54
+married,Not working - looking for work,F,50
+married,Working as paid employee,M,54
+married,Working as paid employee,F,53
+married,"Working, self-employed",M,51
+married,Working as paid employee,F,49
+married,Working as paid employee,M,60
+married,Not working - other,F,53
+married,Working as paid employee,M,45
+married,Not working - other,F,41
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,47
+married,Working as paid employee,M,50
+married,Working as paid employee,F,47
+married,Working as paid employee,M,58
+married,Working as paid employee,F,51
+married,Working as paid employee,M,33
+married,Not working - other,F,30
+married,Working as paid employee,M,33
+married,Not working - other,F,31
+married,"Working, self-employed",M,47
+married,Working as paid employee,F,42
+married,Working as paid employee,M,39
+married,Not working - other,F,43
+married,Working as paid employee,M,55
+married,Not working - other,F,54
+married,Working as paid employee,M,60
+married,Not working - retired,F,61
+married,Working as paid employee,M,35
+married,Working as paid employee,F,29
+married,Working as paid employee,M,56
+married,Working as paid employee,F,54
+married,"Working, self-employed",M,41
+married,"Working, self-employed",F,47
+married,Working as paid employee,M,62
+married,Not working - disabled,F,61
+married,"Working, self-employed",M,62
+married,Not working - other,F,61
+married,Not working - disabled,M,40
+married,Working as paid employee,F,43
+married,Not working - retired,M,50
+married,Working as paid employee,F,44
+married,Working as paid employee,M,29
+married,Not working - other,F,30
+married,Not working - retired,M,61
+married,Not working - retired,F,58
+married,Working as paid employee,M,64
+married,Not working - retired,F,63
+married,Working as paid employee,M,34
+married,Working as paid employee,F,35
+married,Working as paid employee,M,33
+married,Working as paid employee,F,35
+married,Not working - other,M,30
+married,Not working - other,F,25
+married,Not working - disabled,M,58
+married,Not working - disabled,F,63
+married,"Working, self-employed",M,38
+married,Working as paid employee,F,39
+married,"Working, self-employed",M,57
+married,Working as paid employee,F,52
+married,Not working - disabled,M,59
+married,Working as paid employee,F,55
+unmarried,Working as paid employee,M,50
+unmarried,Working as paid employee,F,42
+married,Working as paid employee,M,36
+married,Not working - other,F,34
+married,Not working - disabled,M,61
+married,Not working - on a temporary layoff from a job,F,53
+married,"Working, self-employed",M,56
+married,Working as paid employee,F,51
+married,Working as paid employee,M,55
+married,Not working - other,F,48
+married,"Working, self-employed",M,41
+married,Not working - looking for work,F,38
+married,Working as paid employee,M,58
+married,Working as paid employee,F,55
+married,Working as paid employee,M,40
+married,Working as paid employee,F,44
+married,Not working - retired,M,53
+married,Working as paid employee,F,45
+married,"Working, self-employed",M,55
+married,Working as paid employee,F,53
+married,Not working - other,M,52
+married,Working as paid employee,F,48
+married,Working as paid employee,M,54
+married,Working as paid employee,F,53
+married,Working as paid employee,M,43
+married,Not working - other,F,38
+married,Working as paid employee,M,40
+married,Working as paid employee,F,44
+married,Working as paid employee,M,31
+married,Not working - other,F,30
+unmarried,Not working - other,M,26
+unmarried,Working as paid employee,F,29
+married,Working as paid employee,M,36
+married,Not working - other,F,36
+married,Working as paid employee,M,40
+married,Working as paid employee,F,33
+married,Working as paid employee,M,27
+married,Working as paid employee,F,27
+married,Working as paid employee,M,36
+married,Not working - other,F,35
+married,Working as paid employee,M,42
+married,Not working - other,F,41
+married,Not working - on a temporary layoff from a job,M,34
+married,Working as paid employee,F,28
+married,Working as paid employee,M,34
+married,Not working - other,F,35
+married,Working as paid employee,M,44
+married,Not working - other,F,36
+married,Not working - retired,M,62
+married,Not working - disabled,F,57
+married,Working as paid employee,M,27
+married,Working as paid employee,F,28
+married,Not working - looking for work,M,62
+married,Not working - other,F,61
+married,Working as paid employee,M,41
+married,Not working - other,F,37
+married,Working as paid employee,M,60
+married,Working as paid employee,F,59
+married,"Working, self-employed",M,43
+married,Not working - other,F,40
+unmarried,Not working - other,M,40
+unmarried,Working as paid employee,F,39
+married,Not working - looking for work,M,48
+married,Not working - other,F,46
+married,Working as paid employee,M,42
+married,"Working, self-employed",F,43
+married,Working as paid employee,M,49
+married,Not working - other,F,45
+married,Not working - looking for work,M,23
+married,Working as paid employee,F,23
+married,Working as paid employee,M,26
+married,Working as paid employee,F,26
+married,Working as paid employee,M,49
+married,Working as paid employee,F,50
+unmarried,"Working, self-employed",M,47
+unmarried,Working as paid employee,F,48
+married,Working as paid employee,M,56
+married,Not working - disabled,F,60
+married,Working as paid employee,M,37
+married,Working as paid employee,F,37
+unmarried,Not working - looking for work,M,31
+unmarried,Working as paid employee,F,26
+married,Working as paid employee,M,25
+married,Working as paid employee,F,25
+married,Working as paid employee,M,40
+married,Not working - looking for work,F,39
+married,Working as paid employee,M,28
+married,"Working, self-employed",F,27
+married,Working as paid employee,M,44
+married,Working as paid employee,F,43
+married,Working as paid employee,M,63
+married,Working as paid employee,F,62
+unmarried,Working as paid employee,M,54
+unmarried,Working as paid employee,F,44
+married,Working as paid employee,M,29
+married,Working as paid employee,F,29
+married,Working as paid employee,M,32
+married,Working as paid employee,F,34
+married,Working as paid employee,M,34
+married,Not working - other,F,28
+married,Not working - looking for work,M,31
+married,Not working - other,F,31
+married,Working as paid employee,M,45
+married,Working as paid employee,F,41
+married,"Working, self-employed",M,63
+married,Working as paid employee,F,62
+married,"Working, self-employed",M,58
+married,Not working - looking for work,F,57
+married,"Working, self-employed",M,54
+married,"Working, self-employed",F,54
+married,Not working - other,M,58
+married,Not working - other,F,56
+married,Not working - retired,M,63
+married,Not working - retired,F,60
+married,Working as paid employee,M,63
+married,Not working - retired,F,59
+married,Not working - retired,M,60
+married,Not working - retired,F,61
+married,Working as paid employee,M,28
+married,Not working - other,F,23
+unmarried,Not working - disabled,M,49
+unmarried,Not working - disabled,F,43
+married,Working as paid employee,M,41
+married,Working as paid employee,F,37
+married,Not working - looking for work,M,54
+married,Not working - retired,F,57
+unmarried,Working as paid employee,M,29
+unmarried,Working as paid employee,F,32
+married,Working as paid employee,M,28
+married,Not working - other,F,30
+married,Working as paid employee,M,30
+married,"Working, self-employed",F,23
+unmarried,Not working - on a temporary layoff from a job,M,30
+unmarried,Working as paid employee,F,26
+married,Working as paid employee,M,34
+married,Not working - looking for work,F,27
+married,Not working - looking for work,M,58
+married,Working as paid employee,F,57
+married,Working as paid employee,M,38
+married,Working as paid employee,F,37
+married,Working as paid employee,M,57
+married,"Working, self-employed",F,56
+married,Working as paid employee,M,47
+married,Working as paid employee,F,44
+married,Not working - other,M,25
+married,Working as paid employee,F,23
+married,"Working, self-employed",M,48
+married,Working as paid employee,F,42
+married,Working as paid employee,M,27
+married,Working as paid employee,F,27
+married,Working as paid employee,M,38
+married,Working as paid employee,F,36
+unmarried,Working as paid employee,M,26
+unmarried,Not working - other,F,24
+married,Working as paid employee,M,47
+married,Working as paid employee,F,39
+married,Not working - disabled,M,50
+married,Not working - looking for work,F,47
+married,Working as paid employee,M,32
+married,Not working - other,F,31
+married,Working as paid employee,M,34
+married,Working as paid employee,F,30
+married,Working as paid employee,M,49
+married,Working as paid employee,F,47
+unmarried,Working as paid employee,M,37
+unmarried,Working as paid employee,F,40
+married,Working as paid employee,M,23
+married,Working as paid employee,F,21
+married,Working as paid employee,M,38
+married,Not working - other,F,29
+married,Working as paid employee,M,47
+married,Not working - looking for work,F,39
+married,Working as paid employee,M,26
+married,Working as paid employee,F,30
+married,Working as paid employee,M,35
+married,Not working - other,F,40
+married,"Working, self-employed",M,45
+married,"Working, self-employed",F,48
+married,Working as paid employee,M,24
+married,Not working - looking for work,F,22
+married,"Working, self-employed",M,51
+married,Not working - looking for work,F,49
+married,Working as paid employee,M,22
+married,Not working - other,F,23
+married,Working as paid employee,M,55
+married,Working as paid employee,F,53
+married,Working as paid employee,M,58
+married,Working as paid employee,F,58
+married,Not working - looking for work,M,54
+married,Not working - other,F,54
+married,Working as paid employee,M,25
+married,Not working - other,F,23
+married,Not working - looking for work,M,58
+married,Not working - looking for work,F,55
+married,Working as paid employee,M,41
+married,Not working - disabled,F,31
+married,Working as paid employee,M,49
+married,Working as paid employee,F,49
+married,Working as paid employee,M,59
+married,Working as paid employee,F,58
+married,"Working, self-employed",M,55
+married,"Working, self-employed",F,54
+married,Working as paid employee,M,51
+married,Working as paid employee,F,47
+married,Working as paid employee,M,40
+married,Working as paid employee,F,36
+unmarried,Working as paid employee,M,34
+unmarried,Working as paid employee,F,33
+married,Working as paid employee,M,40
+married,Not working - other,F,37
+married,Working as paid employee,M,32
+married,Working as paid employee,F,25
+married,Working as paid employee,M,42
+married,Not working - other,F,42
+married,Not working - looking for work,M,26
+married,Working as paid employee,F,23
+married,Working as paid employee,M,60
+married,Not working - disabled,F,60
+married,Not working - disabled,M,62
+married,Working as paid employee,F,61
+married,Working as paid employee,M,34
+married,Working as paid employee,F,33
+married,Working as paid employee,M,40
+married,Not working - other,F,40
+married,Working as paid employee,M,28
+married,Working as paid employee,F,30
+married,Working as paid employee,M,42
+married,Working as paid employee,F,32
+married,"Working, self-employed",M,58
+married,Working as paid employee,F,54
+married,Working as paid employee,M,26
+married,Not working - other,F,26
+married,Not working - disabled,M,63
+married,Working as paid employee,F,62
+unmarried,Working as paid employee,M,32
+unmarried,Working as paid employee,F,30
+married,Working as paid employee,M,61
+married,Working as paid employee,F,59
+married,Working as paid employee,M,35
+married,Not working - other,F,29
+unmarried,"Working, self-employed",M,19
+unmarried,Not working - looking for work,F,20
+married,Not working - looking for work,M,29
+married,Working as paid employee,F,26
+married,Not working - looking for work,M,57
+married,Working as paid employee,F,53
+married,Not working - on a temporary layoff from a job,M,23
+married,Not working - other,F,28
+married,Working as paid employee,M,36
+married,Not working - other,F,39
+married,Working as paid employee,M,40
+married,Not working - other,F,39
+unmarried,Not working - retired,M,61
+unmarried,Not working - disabled,F,53
+married,Working as paid employee,M,33
+married,Working as paid employee,F,30
+married,"Working, self-employed",M,63
+married,Working as paid employee,F,63
+married,Working as paid employee,M,40
+married,Working as paid employee,F,41
+married,Working as paid employee,M,33
+married,"Working, self-employed",F,34
+married,Working as paid employee,M,30
+married,Working as paid employee,F,28
+married,Working as paid employee,M,55
+married,Working as paid employee,F,51
+married,Not working - looking for work,M,36
+married,Working as paid employee,F,36
+married,Working as paid employee,M,47
+married,Not working - other,F,43
+married,Working as paid employee,M,30
+married,Working as paid employee,F,28
+married,Working as paid employee,M,39
+married,Working as paid employee,F,39
+married,Working as paid employee,M,32
+married,Working as paid employee,F,32
+married,Working as paid employee,M,53
+married,Not working - disabled,F,59
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,29
+married,Working as paid employee,M,35
+married,Not working - other,F,28
+married,"Working, self-employed",M,36
+married,Working as paid employee,F,30
+married,Not working - disabled,M,42
+married,Not working - other,F,42
+unmarried,Not working - disabled,M,47
+unmarried,Not working - disabled,F,43
+married,Working as paid employee,M,47
+married,Working as paid employee,F,41
+married,Working as paid employee,M,28
+married,Working as paid employee,F,27
+married,Working as paid employee,M,51
+married,Working as paid employee,F,47
+married,"Working, self-employed",M,43
+married,"Working, self-employed",F,42
+married,Working as paid employee,M,33
+married,Not working - looking for work,F,35
+married,Working as paid employee,M,42
+married,Not working - looking for work,F,40
+married,Not working - disabled,M,47
+married,Working as paid employee,F,46
+unmarried,"Working, self-employed",M,55
+unmarried,Working as paid employee,F,49
+married,Working as paid employee,M,46
+married,"Working, self-employed",F,45
+married,Working as paid employee,M,48
+married,Not working - disabled,F,46
+unmarried,Working as paid employee,M,21
+unmarried,Working as paid employee,F,24
+married,Working as paid employee,M,47
+married,Working as paid employee,F,47
+unmarried,Working as paid employee,M,54
+unmarried,"Working, self-employed",F,55
+married,Working as paid employee,M,43
+married,Working as paid employee,F,41
+married,Working as paid employee,M,40
+married,Working as paid employee,F,40
+married,Working as paid employee,M,58
+married,Working as paid employee,F,57
+married,Working as paid employee,M,61
+married,Not working - retired,F,61
+married,Working as paid employee,M,26
+married,Working as paid employee,F,23
+married,Working as paid employee,M,44
+married,Working as paid employee,F,43
+married,Not working - looking for work,M,31
+married,Not working - looking for work,F,29
+unmarried,Not working - retired,M,62
+unmarried,Not working - disabled,F,59
+married,Working as paid employee,M,45
+married,Not working - looking for work,F,46
+married,Working as paid employee,M,42
+married,Working as paid employee,F,42
+married,Not working - disabled,M,56
+married,Working as paid employee,F,51
+married,Not working - on a temporary layoff from a job,M,33
+married,Working as paid employee,F,26
+married,Working as paid employee,M,28
+married,Not working - other,F,31
+unmarried,Working as paid employee,M,58
+unmarried,Not working - looking for work,F,48
+unmarried,Not working - on a temporary layoff from a job,M,31
+unmarried,Not working - looking for work,F,36
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,29
+married,Not working - disabled,M,42
+married,Not working - other,F,40
+married,Working as paid employee,M,61
+married,Not working - retired,F,60
+married,Working as paid employee,M,44
+married,Not working - other,F,41
+married,Working as paid employee,M,27
+married,Not working - other,F,25
+unmarried,Working as paid employee,M,40
+unmarried,Working as paid employee,F,30
+married,Not working - disabled,M,56
+married,Not working - disabled,F,59
+married,"Working, self-employed",M,25
+married,Not working - looking for work,F,27
+married,Not working - disabled,M,56
+married,Not working - retired,F,55
+married,Working as paid employee,M,33
+married,Working as paid employee,F,32
+unmarried,Working as paid employee,M,31
+unmarried,Working as paid employee,F,28
+married,Not working - retired,M,53
+married,Working as paid employee,F,49
+married,Working as paid employee,M,46
+married,Working as paid employee,F,44
+married,Working as paid employee,M,56
+married,Not working - disabled,F,56
+married,Working as paid employee,M,37
+married,"Working, self-employed",F,38
+married,Working as paid employee,M,32
+married,Working as paid employee,F,32
+unmarried,Working as paid employee,M,46
+unmarried,Working as paid employee,F,43
+married,Working as paid employee,M,33
+married,Not working - other,F,30
+married,Not working - retired,M,60
+married,Not working - retired,F,61
+unmarried,"Working, self-employed",M,48
+unmarried,Not working - retired,F,58
+married,Not working - on a temporary layoff from a job,M,54
+married,Working as paid employee,F,52
+married,Not working - retired,M,60
+married,Not working - retired,F,59
+married,Not working - disabled,M,49
+married,Working as paid employee,F,49
+unmarried,Not working - other,M,59
+unmarried,Not working - looking for work,F,53
+married,Working as paid employee,M,29
+married,Working as paid employee,F,31
+married,Working as paid employee,M,55
+married,"Working, self-employed",F,54
+unmarried,"Working, self-employed",M,24
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,22
+unmarried,Not working - looking for work,F,20
+unmarried,"Working, self-employed",M,52
+unmarried,"Working, self-employed",F,48
+unmarried,Working as paid employee,M,39
+unmarried,Working as paid employee,F,37
+unmarried,"Working, self-employed",M,38
+unmarried,Working as paid employee,F,37
+unmarried,Working as paid employee,M,28
+unmarried,Working as paid employee,F,26
+unmarried,"Working, self-employed",M,29
+unmarried,Working as paid employee,F,29
+unmarried,Not working - on a temporary layoff from a job,M,36
+unmarried,Working as paid employee,F,38
+unmarried,Working as paid employee,M,26
+unmarried,Working as paid employee,F,30
+unmarried,Working as paid employee,M,34
+unmarried,Working as paid employee,F,30
+unmarried,Working as paid employee,M,28
+unmarried,Not working - looking for work,F,26
+unmarried,Not working - looking for work,M,27
+unmarried,Working as paid employee,F,27
+unmarried,Not working - looking for work,M,44
+unmarried,Working as paid employee,F,37
+unmarried,"Working, self-employed",M,25
+unmarried,"Working, self-employed",F,26
+unmarried,Not working - looking for work,M,48
+unmarried,Not working - looking for work,F,52
+unmarried,Working as paid employee,M,24
+unmarried,Not working - looking for work,F,20
+unmarried,Working as paid employee,M,47
+unmarried,Working as paid employee,F,46
+unmarried,Working as paid employee,M,27
+unmarried,Working as paid employee,F,27
+unmarried,Working as paid employee,M,48
+unmarried,Not working - other,F,44
+unmarried,Not working - disabled,M,30
+unmarried,Not working - disabled,F,37
+unmarried,Not working - looking for work,M,27
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,24
+unmarried,Working as paid employee,F,23
+unmarried,Not working - other,M,31
+unmarried,Working as paid employee,F,30
+unmarried,Working as paid employee,M,55
+unmarried,Working as paid employee,F,36
+unmarried,"Working, self-employed",M,36
+unmarried,Not working - disabled,F,36
+unmarried,Working as paid employee,M,36
+unmarried,"Working, self-employed",F,29
+unmarried,Not working - looking for work,M,22
+unmarried,Not working - looking for work,F,21
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,24
+unmarried,"Working, self-employed",M,36
+unmarried,Not working - looking for work,F,24
+unmarried,Working as paid employee,M,23
+unmarried,Not working - looking for work,F,24
+unmarried,"Working, self-employed",M,37
+unmarried,Working as paid employee,F,31
+unmarried,Working as paid employee,M,23
+unmarried,Working as paid employee,F,21
+unmarried,"Working, self-employed",M,46
+unmarried,"Working, self-employed",F,52
+unmarried,Working as paid employee,M,23
+unmarried,Working as paid employee,F,23
+unmarried,Not working - on a temporary layoff from a job,M,23
+unmarried,Working as paid employee,F,21
+unmarried,Working as paid employee,M,21
+unmarried,Working as paid employee,F,20
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,45
+unmarried,"Working, self-employed",M,29
+unmarried,"Working, self-employed",F,27
+unmarried,Working as paid employee,M,56
+unmarried,Not working - looking for work,F,50
+unmarried,Working as paid employee,M,20
+unmarried,Not working - looking for work,F,19
+unmarried,Working as paid employee,M,52
+unmarried,Working as paid employee,F,47
+unmarried,Working as paid employee,M,45
+unmarried,Working as paid employee,F,49
+unmarried,Working as paid employee,M,54
+unmarried,Working as paid employee,F,53
+unmarried,Working as paid employee,M,26
+unmarried,Working as paid employee,F,25
+unmarried,Not working - disabled,M,27
+unmarried,Not working - disabled,F,23
+unmarried,Working as paid employee,M,58
+unmarried,Not working - looking for work,F,50
+unmarried,Working as paid employee,M,58
+unmarried,Not working - disabled,F,58
+unmarried,Working as paid employee,M,25
+unmarried,Working as paid employee,F,23
+unmarried,Not working - disabled,M,46
+unmarried,Working as paid employee,F,31
+unmarried,Working as paid employee,M,20
+unmarried,Not working - looking for work,F,19
+unmarried,Working as paid employee,M,37
+unmarried,Working as paid employee,F,37
+unmarried,Not working - looking for work,M,24
+unmarried,Working as paid employee,F,23
+unmarried,"Working, self-employed",M,48
+unmarried,Not working - other,F,44
+unmarried,Working as paid employee,M,41
+unmarried,Working as paid employee,F,38
+unmarried,Not working - disabled,M,49
+unmarried,Not working - disabled,F,47
+unmarried,Working as paid employee,M,28
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,21
+unmarried,Not working - looking for work,F,21
+unmarried,Working as paid employee,M,29
+unmarried,Not working - other,F,26
+unmarried,Not working - looking for work,M,28
+unmarried,Working as paid employee,F,29
+unmarried,Working as paid employee,M,33
+unmarried,Working as paid employee,F,28
+unmarried,"Working, self-employed",M,51
+unmarried,Not working - looking for work,F,52
+unmarried,Working as paid employee,M,29
+unmarried,Not working - other,F,25
+unmarried,Working as paid employee,M,29
+unmarried,Not working - other,F,26
+unmarried,Working as paid employee,M,31
+unmarried,Working as paid employee,F,30
+unmarried,"Working, self-employed",M,58
+unmarried,Working as paid employee,F,54
+unmarried,"Working, self-employed",M,21
+unmarried,Not working - looking for work,F,19
+unmarried,Not working - looking for work,M,59
+unmarried,Working as paid employee,F,61
+unmarried,Working as paid employee,M,49
+unmarried,Working as paid employee,F,48
+unmarried,Working as paid employee,M,23
+unmarried,"Working, self-employed",F,24
+unmarried,Working as paid employee,M,42
+unmarried,"Working, self-employed",F,43
+unmarried,Working as paid employee,M,50
+unmarried,Not working - disabled,F,45
+unmarried,Working as paid employee,M,24
+unmarried,Working as paid employee,F,23
+unmarried,Not working - disabled,M,54
+unmarried,Not working - disabled,F,52
+unmarried,Not working - looking for work,M,23
+unmarried,Not working - other,F,33
+unmarried,Working as paid employee,M,34
+unmarried,Working as paid employee,F,29
+unmarried,Not working - looking for work,M,47
+unmarried,Working as paid employee,F,25
+unmarried,Working as paid employee,M,38
+unmarried,Working as paid employee,F,37
+unmarried,Working as paid employee,M,28
+unmarried,Working as paid employee,F,28
+unmarried,"Working, self-employed",M,21
+unmarried,Not working - looking for work,F,20
+unmarried,Working as paid employee,M,62
+unmarried,Working as paid employee,F,53
+unmarried,Working as paid employee,M,55
+unmarried,Working as paid employee,F,55
+unmarried,Working as paid employee,M,37
+unmarried,Working as paid employee,F,26
+unmarried,Working as paid employee,M,42
+unmarried,Not working - on a temporary layoff from a job,F,34
+unmarried,"Working, self-employed",M,49
+unmarried,Working as paid employee,F,49
+unmarried,Working as paid employee,M,33
+unmarried,Working as paid employee,F,32
+unmarried,Working as paid employee,M,27
+unmarried,Working as paid employee,F,24
+unmarried,Not working - looking for work,M,34
+unmarried,Not working - other,F,44
+unmarried,Working as paid employee,M,41
+unmarried,Working as paid employee,F,41
+unmarried,Not working - on a temporary layoff from a job,M,26
+unmarried,Working as paid employee,F,43
+unmarried,"Working, self-employed",M,30
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,31
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,21
+unmarried,"Working, self-employed",M,37
+unmarried,Working as paid employee,F,20
+unmarried,Working as paid employee,M,57
+unmarried,Working as paid employee,F,53
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,49
+unmarried,Working as paid employee,M,21
+unmarried,Working as paid employee,F,20
+unmarried,Working as paid employee,M,35
+unmarried,Not working - other,F,25
+unmarried,Working as paid employee,M,30
+unmarried,Not working - other,F,23
+unmarried,Not working - looking for work,M,19
+unmarried,Not working - disabled,F,21
+unmarried,Not working - on a temporary layoff from a job,M,36
+unmarried,Not working - other,F,29
+unmarried,Working as paid employee,M,27
+unmarried,Working as paid employee,F,25
+unmarried,Working as paid employee,M,53
+unmarried,Not working - retired,F,56
+unmarried,Not working - looking for work,M,20
+unmarried,Working as paid employee,F,19
+unmarried,Working as paid employee,M,23
+unmarried,Not working - on a temporary layoff from a job,F,20
+unmarried,Working as paid employee,M,23
+unmarried,Not working - looking for work,F,20
+unmarried,Working as paid employee,M,41
+unmarried,Working as paid employee,F,39
+unmarried,Working as paid employee,M,24
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,24
+unmarried,Working as paid employee,F,21
+unmarried,Working as paid employee,M,22
+unmarried,Not working - other,F,20
+unmarried,Not working - looking for work,M,21
+unmarried,Not working - on a temporary layoff from a job,F,18
+unmarried,Working as paid employee,M,25
+unmarried,Working as paid employee,F,40
+unmarried,Working as paid employee,M,26
+unmarried,Working as paid employee,F,23
+unmarried,"Working, self-employed",M,51
+unmarried,"Working, self-employed",F,39
+unmarried,Working as paid employee,M,49
+unmarried,Working as paid employee,F,32
+unmarried,Working as paid employee,M,27
+unmarried,Working as paid employee,F,27
+unmarried,Working as paid employee,M,24
+unmarried,Not working - looking for work,F,23
+unmarried,Working as paid employee,M,37
+unmarried,Working as paid employee,F,35
+unmarried,Working as paid employee,M,29
+unmarried,Working as paid employee,F,28
+unmarried,Working as paid employee,M,56
+unmarried,Not working - disabled,F,54
+unmarried,Not working - looking for work,M,39
+unmarried,Working as paid employee,F,29
+unmarried,"Working, self-employed",M,28
+unmarried,Not working - other,F,25
+unmarried,"Working, self-employed",M,37
+unmarried,Working as paid employee,F,21
+unmarried,Not working - looking for work,M,38
+unmarried,Working as paid employee,F,41
+unmarried,"Working, self-employed",M,45
+unmarried,Working as paid employee,F,44
+unmarried,Not working - looking for work,M,33
+unmarried,Working as paid employee,F,32
+unmarried,"Working, self-employed",M,50
+unmarried,Working as paid employee,F,47
+unmarried,Working as paid employee,M,23
+unmarried,Working as paid employee,F,21
+unmarried,Not working - other,M,29
+unmarried,Working as paid employee,F,27
+unmarried,Working as paid employee,M,37
+unmarried,Not working - disabled,F,35
+unmarried,"Working, self-employed",M,36
+unmarried,Working as paid employee,F,42
+unmarried,Not working - looking for work,M,21
+unmarried,Working as paid employee,F,21
+unmarried,Working as paid employee,M,23
+unmarried,Working as paid employee,F,21
+unmarried,"Working, self-employed",M,47
+unmarried,Not working - looking for work,F,49
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,22
+unmarried,Working as paid employee,M,50
+unmarried,Working as paid employee,F,42
+unmarried,Not working - other,M,30
+unmarried,Working as paid employee,F,35
+unmarried,"Working, self-employed",M,26
+unmarried,Not working - other,F,26
+unmarried,"Working, self-employed",M,25
+unmarried,Working as paid employee,F,32
+unmarried,Not working - looking for work,M,20
+unmarried,Not working - looking for work,F,19
+unmarried,Not working - on a temporary layoff from a job,M,54
+unmarried,Working as paid employee,F,28
+unmarried,Not working - looking for work,M,26
+unmarried,Working as paid employee,F,27
+unmarried,"Working, self-employed",M,47
+unmarried,Working as paid employee,F,25
+unmarried,Working as paid employee,M,54
+unmarried,Working as paid employee,F,41
+unmarried,Working as paid employee,M,27
+unmarried,Not working - looking for work,F,20
+unmarried,Working as paid employee,M,23
+unmarried,Working as paid employee,F,22
+unmarried,Not working - looking for work,M,20
+unmarried,Working as paid employee,F,21
+unmarried,Working as paid employee,M,32
+unmarried,Working as paid employee,F,29
+unmarried,Working as paid employee,M,28
+unmarried,Not working - other,F,25
+unmarried,Working as paid employee,M,36
+unmarried,Not working - other,F,43
+unmarried,Not working - other,M,23
+unmarried,Not working - other,F,21
+unmarried,Not working - retired,M,59
+unmarried,Not working - retired,F,61
+unmarried,Not working - looking for work,M,37
+unmarried,Working as paid employee,F,33
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,22
+unmarried,Working as paid employee,M,29
+unmarried,Working as paid employee,F,24
+unmarried,Not working - on a temporary layoff from a job,M,31
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,56
+unmarried,Not working - looking for work,F,46
+unmarried,Working as paid employee,M,31
+unmarried,Working as paid employee,F,30
+unmarried,Working as paid employee,M,53
+unmarried,Not working - disabled,F,55
+unmarried,Working as paid employee,M,53
+unmarried,Working as paid employee,F,51
+unmarried,Working as paid employee,M,56
+unmarried,Not working - other,F,44
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,23
+unmarried,Working as paid employee,M,58
+unmarried,Not working - disabled,F,57
+unmarried,Working as paid employee,M,22
+unmarried,Working as paid employee,F,23
+unmarried,Working as paid employee,M,26
+unmarried,Not working - looking for work,F,24
+unmarried,Not working - looking for work,M,48
+unmarried,Working as paid employee,F,42
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,30
+unmarried,Working as paid employee,M,21
+unmarried,Working as paid employee,F,20
+unmarried,Working as paid employee,M,48
+unmarried,Not working - disabled,F,48
+unmarried,"Working, self-employed",M,51
+unmarried,Not working - looking for work,F,21
+unmarried,Working as paid employee,M,40
+unmarried,Working as paid employee,F,38
+unmarried,Working as paid employee,M,27
+unmarried,Working as paid employee,F,26
+unmarried,Working as paid employee,M,19
+unmarried,Working as paid employee,F,20
+unmarried,Working as paid employee,M,24
+unmarried,Working as paid employee,F,25
+unmarried,"Working, self-employed",M,33
+unmarried,Working as paid employee,F,27
+unmarried,Working as paid employee,M,64
+unmarried,Working as paid employee,F,59
+unmarried,Working as paid employee,M,45
+unmarried,Working as paid employee,F,39
+unmarried,"Working, self-employed",M,41
+unmarried,Working as paid employee,F,53
+unmarried,Not working - disabled,M,56
+unmarried,Not working - other,F,51
+unmarried,Working as paid employee,M,20
+unmarried,Working as paid employee,F,19
+unmarried,Working as paid employee,M,46
+unmarried,Working as paid employee,F,43
+unmarried,Not working - disabled,M,47
+unmarried,Working as paid employee,F,34
+unmarried,Not working - disabled,M,44
+unmarried,Not working - disabled,F,60
+unmarried,Not working - looking for work,M,50
+unmarried,Working as paid employee,F,63
+unmarried,Working as paid employee,M,37
+unmarried,Not working - other,F,26
+unmarried,Working as paid employee,M,33
+unmarried,Working as paid employee,F,25
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,25
+unmarried,Working as paid employee,M,30
+unmarried,Working as paid employee,F,36
+unmarried,"Working, self-employed",M,54
+unmarried,Not working - looking for work,F,62
+unmarried,"Working, self-employed",M,38
+unmarried,Working as paid employee,F,50
+unmarried,Working as paid employee,M,49
+unmarried,Not working - looking for work,F,53
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,40
+unmarried,Working as paid employee,M,38
+unmarried,Not working - looking for work,F,39
+unmarried,Not working - looking for work,M,27
+unmarried,Working as paid employee,F,24
+unmarried,Working as paid employee,M,52
+unmarried,Working as paid employee,F,52
+unmarried,Working as paid employee,M,42
+unmarried,Working as paid employee,F,37
+unmarried,Working as paid employee,M,53
+unmarried,Working as paid employee,F,54
+unmarried,"Working, self-employed",M,61
+unmarried,Working as paid employee,F,60
+unmarried,Not working - looking for work,M,48
+unmarried,Not working - disabled,F,26
+unmarried,Working as paid employee,M,43
+unmarried,Working as paid employee,F,49
+unmarried,Not working - disabled,M,57
+unmarried,Not working - retired,F,55
+unmarried,Working as paid employee,M,55
+unmarried,Not working - retired,F,55
+unmarried,Not working - disabled,M,56
+unmarried,Not working - disabled,F,59
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,42
+unmarried,Working as paid employee,M,60
+unmarried,Working as paid employee,F,53
+unmarried,Working as paid employee,M,44
+unmarried,Working as paid employee,F,42
