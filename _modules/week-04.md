@@ -21,7 +21,8 @@
           "**PROJ 2**{: .label .label-proj } **[COVID Vaccinations 🦠 (Checkpoint due 2/2)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/02-covid_vax/project.ipynb)**":
       - date: 2023-2-3
         events:
-          "**LEC 11**{: .label .label-lecture } Missingness Mechanisms":
+          "**LEC 11**{: .label .label-lecture } [Permutation Testing, Missingness Mechanisms]()":
             "[Ch. 6.1-6.2](https://notes.dsc80.com/content/06/introduction.html)"
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Extra notebook on [fast permutation tests](resources/lectures/lec11/lec11-fast-permutation-tests.html)_":
                 
 ---
