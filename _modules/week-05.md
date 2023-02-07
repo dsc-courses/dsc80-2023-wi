@@ -5,7 +5,7 @@
       - date: 2023-2-6
         events:
           "**LEC 12**{: .label .label-lecture } [Identifying Missingness Mechanisms](resources/lectures/lec12/lec12.html)":
-            "[Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/12) • [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
                 
           "**Lab 4**{: .label .label-lab } **[Hypothesis and Permutation Testing (due 2/6)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/04-hyp-perm/lab.ipynb)**":
       - date: 2023-2-8
