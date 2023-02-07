@@ -12,7 +12,7 @@
         events:
           "**LEC 13**{: .label .label-lecture } Imputation":
             "[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
-          "**DIS 4**{: .label .label-disc } Lab 4 Reflection (due 2/11)":
+          "**DIS 4**{: .label .label-disc } **[Lab 4 Reflection (due 2/11)](https://www.gradescope.com/courses/478969/assignments/2641070)**":
       - date: 2023-2-9
         events:
           "**PROJ 2**{: .label .label-proj } **[COVID Vaccinations 🦠 (due 2/9)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/02-covid_vax/project.ipynb)**":
