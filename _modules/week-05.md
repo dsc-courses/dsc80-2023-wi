@@ -10,7 +10,7 @@
           "**Lab 4**{: .label .label-lab } **[Hypothesis and Permutation Testing (due 2/6)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/04-hyp-perm/lab.ipynb)**":
       - date: 2023-2-8
         events:
-          "**LEC 13**{: .label .label-lecture } Imputation":
+          "**LEC 13**{: .label .label-lecture } [Imputation](resources/lectures/lec13/lec13.html)":
             "[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
           "**DIS 4**{: .label .label-disc } **[Lab 4 Reflection (due 2/11)](https://www.gradescope.com/courses/478969/assignments/2641070)**":
       - date: 2023-2-9
