@@ -23,6 +23,6 @@
         events:
           "**LEC 11**{: .label .label-lecture } [Permutation Testing, Missingness Mechanisms](resources/lectures/lec11/lec11.html)":
             "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/11) • [Ch. 6.1-6.2](https://notes.dsc80.com/content/06/introduction.html)"
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Extra notebook on [fast permutation tests](resources/lectures/lec11/lec11-fast-permutation-tests.html)_":
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Extra notebook on [fast permutation tests](resources/lectures/lec11/lec11-fast-permutation-tests.html)_":
                 
 ---

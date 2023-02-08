@@ -1,5 +1,5 @@
 ---
-    title: Week 7
+    title: Week 7 - Text Data
     weekNumber: 7
     days:
       - date: 2023-2-20

@@ -38,11 +38,23 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 
 ## Readings
 
+### Notes and Textbooks
+
 - [notes.dsc80.com](https://notes.dsc80.com), our course notes.
 - Wes McKinney. "Python for Data Analysis".
 - [DSC 10 Course Notes](https://notes.dsc10.com) – great refresher on `babypandas`.
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/), the textbook for Berkeley's [Data 100](https://ds100.org) course.
 - [Computational and Inferential Thinking](https://www.inferentialthinking.com), the textbook for Berkeley's [Data 8](https://data8.org) course.
+
+### Extra Lecture Notebooks
+
+- Lecture 11: [Fast Permutation Tests](resources/lectures/lec11/lec11-fast-permutation-tests.html).
+- Lecture 12: [More Missingness Examples](resources/lectures/lec12/lec12-more-examples.html).
+
+### Other Links
+- [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
+- [jwilber.me/permutationtest](https://www.jwilber.me/permutationtest/), a great visual explanation of permutation testing.
+- [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
 
 ---
 
@@ -51,9 +63,3 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 - [regex101.com](https://regex101.com), a helpful site to have open while writing regular expressions.
 - Python [`re` library documentation](https://docs.python.org/3/library/re.html) and [how-to](https://docs.python.org/3/howto/regex.html).
 - [regex "cheat sheet"](https://dsc80.com/resources/other/berkeley-regex-reference.pdf) (taken from [here](https://ds100.org/sp22/resources/)).
-
----
-
-## Other Resources
-- [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
-- [jwilber.me/permutationtest](https://www.jwilber.me/permutationtest/), a great visual explanation of permutation testing.

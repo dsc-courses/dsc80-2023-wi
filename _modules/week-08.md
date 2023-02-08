@@ -1,5 +1,5 @@
 ---
-    title: Week 8
+    title: Week 8 – Modeling and Feature Engineering
     weekNumber: 8
     days:
       - date: 2023-2-27

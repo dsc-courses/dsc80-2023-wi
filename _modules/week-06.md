@@ -1,5 +1,5 @@
 ---
-    title: Week 6
+    title: Week 6 – HTTP and HTML, Midterm Exam
     weekNumber: 6
     days:
       - date: 2023-2-13

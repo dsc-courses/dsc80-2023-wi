@@ -1,5 +1,5 @@
 ---
-    title: Week 10
+    title: Week 10 – Model Evaluation and Fairness
     weekNumber: 10
     days:
       - date: 2023-3-13

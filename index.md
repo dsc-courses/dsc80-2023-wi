@@ -15,10 +15,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<!-- [Lecture Podcasts](http://podcast.ucsd.edu/){: .btn } -->
-
 {: .note }
-The final exam is on **Wednesday, March 22nd**; the bottom of this page previously contained a typo.
+As you start to study for the Midterm Exam, make sure to check out past exams at [practice.dsc80.com](https://practice.dsc80.com) and the other resources linked [here](resources).
+
+[Jump to the current week](#week-5-missingness-mechanisms-and-imputation){: .btn }
 
 {% for module in site.modules %}
 {{ module }}

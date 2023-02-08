@@ -1,12 +1,12 @@
 ---
-    title: Week 5
+    title: Week 5 – Missingness Mechanisms and Imputation
     weekNumber: 5
     days:
       - date: 2023-2-6
         events:
           "**LEC 12**{: .label .label-lecture } [Identifying Missingness Mechanisms](resources/lectures/lec12/lec12.html)":
             "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/12) • [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
-                
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Extra notebook with [more missingness examples](resources/lectures/lec12/lec12-more-examples.html)_":
           "**Lab 4**{: .label .label-lab } **[Hypothesis and Permutation Testing (due 2/6)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/04-hyp-perm/lab.ipynb)**":
       - date: 2023-2-8
         events:
