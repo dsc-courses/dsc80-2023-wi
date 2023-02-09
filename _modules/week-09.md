@@ -11,7 +11,7 @@
         events:
           "**LEC 23**{: .label .label-lecture } `sklearn` Pipelines, Regression Evaluation":
             "[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html), [Ch. 10.2](https://notes.dsc80.com/content/10/model-building.html)"
-          "**DIS 8**{: .label . label-disc } Lab 8 Reflection (due 3/11)":
+          "**DIS 8**{: .label .label-disc } Lab 8 Reflection (due 3/11)":
       - date: 2023-3-9
         events:
           "**PROJ 4**{: .label .label-proj } **Language Models 🗣 (due 3/9)**":
