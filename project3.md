@@ -35,7 +35,7 @@ This project will be an open investigation into **a single dataset**. You will f
 
 1. Pull the latest version of the [`dsc80-2022-sp`](https://github.com/dsc-courses/dsc80-2022-sp/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
-    - [NYPD Civilian Complaints](#nypd-civilian-complaints-).
+    - [Food](#food-).
     - [Power Outages](#power-outages-).
     - [Stock Trades](#stock-trades-).
 3. Download the dataset of your choosing and load it into your `template.ipynb` file.
@@ -107,23 +107,30 @@ When selecting which dataset you are going to use for your project, try choosing
 
 ---
 
-## NYPD Civilian Complaints 🚔
-This dataset contains data on 12,000 civilian complaints filed against New York City police officers.
+## Food 🍽️
+This dataset has food recipes information from [food.com](food.com). It was originally scrapped and used by the authors to [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender system paper.
+- Note: While it is a great dataset that can help you build an exceptional project on your resume, it is quite large. And thus, you have the option to follow our guidelines below to process it into a smaller dataset for your analysis.
 
 ### Getting the Data
 {:.no_toc}
 
-The data and its corresponding data dictionary are downloadable [here](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers).
+The data is downloadable [here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/download?datasetVersionNumber=2). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
 
-***Note:*** You don't need to provide any information to obtain the data. Just agree to the terms of use and click "submit."
+Optional steps to make it a smaller dataset if you do not have too much computation power on your computer:
+1. Left merge the recipe and the interaction datasets together.
+2. In the merged dataset, fill all 0 rating as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people forgot to gave a rating while they left a comment.
+3. Find the average rating per recipe and merge this information to the original recipe dataset.
+
+
+A data dictionary is available at this [page](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv).
 
 ### Sample Questions
 {:.no_toc}
 
-- Does the length that the complaint is open depend on ethnicity/age/gender?
-- Are white officer vs. non-white complainant cases more likely to go against the complainant? 
-- Are allegations more severe for cases in which the officer and complainant are not of the same ethnicity?
-- Are the complaints of women more successful than men (for the same allegations?)
+- What types of food that tends to have the most calories?
+- What types of food that tends to have a higher average rating?
+- What types of food that tends to be healthier (i.e. more protein, less carbs)?
+- Do longer cooking time have an effect on the average rating?
 
 There are a lot of other questions that can be asked from this data, so be creative! You are not limited to the sample questions above.
 
@@ -131,14 +138,15 @@ There are a lot of other questions that can be asked from this data, so be creat
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](#requirement-cleaning-and-eda-exploratory-data-analysis) section. Note:
+- As stated in the data dictionary, the nutrition column stored data as lists in this order: `[calories (#), total fat (PDV), sugar (PDV) , sodium (PDV) , protein (PDV) , saturated fat (PDV) , carbohydrates (PDV)]`. If you want to to use this data for your analysis, you may want to turn these lists into new columns for each of the values.
+- You might also want to explore the dtypes for each column and change them into easier-to-handle dtypes if possible. (i.e. convert the data that looks like lists to actual lists or converting the dates into `datetime`)
 
-- Certain fields have "missing" data that isn't labeled as missing. For example, there are fields with the value "Unknown." Do some exploration to find those values and convert them to null values.
-- You may also want to combine the date columns to create a column of type `pd.Timestamp` for time series exploration.
 
 ### Assessment of Missingness
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Assessment of Missingness](#requirement-assessment-of-missingness) section.
+- Note: there are only 3 columns in this dataset that contains missing values.
 
 ### Hypothesis Testing
 {:.no_toc}
