@@ -112,14 +112,14 @@ When selecting which dataset you are going to use for your project, try choosing
 
 ## Food 🍽️
 This dataset has food recipes information from [food.com](food.com). It was originally scrapped and used by the authors to [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender system paper.
-- Note: While it is a great dataset that can help you build an exceptional project on your resume, it is quite large. And thus, you have the option to follow our guidelines below to process it into a smaller dataset for your analysis.
+- Note: You may find that the dataset used in that report comes from a different source then what we provided here. This is because the whole dataset is quite large so we have given you a subset of the data to work with.
 
 ### Getting the Data
 {:.no_toc}
 
 The data is downloadable [here](https://drive.google.com/file/d/1kIbMz6jlhleiZ9_3QthmUnifoSds_2EI/view?usp=sharing). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
 
-After downloading the datasets, please follow these steps to generate an average ratings column and combine the two datasets:
+After downloading the datasets, please follow these steps to generate an average ratings column and combine the two datasets prior to performing your analysis:
 1. Left merge the recipe and the interaction datasets together.
 2. In the merged dataset, fill all 0 ratings as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people who forgot to give a rating when they left a comment.
 3. Find the average rating per recipe and merge this information into the original recipe dataset.
