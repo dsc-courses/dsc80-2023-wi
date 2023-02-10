@@ -35,9 +35,9 @@ This project will be an open investigation into **a single dataset**. You will f
 
 1. Pull the latest version of the [`dsc80-2022-sp`](https://github.com/dsc-courses/dsc80-2022-sp/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
-    - [NYPD Civilian Complaints](#nypd-civilian-complaints-).
+    - [Food](#food-).
     - [Power Outages](#power-outages-).
-    - [Stock Trades](#stock-trades-).
+    - [League of Legends Competitive Match Data](#league-of-legends-competitive-match-data).
 3. Download the dataset of your choosing and load it into your `template.ipynb` file.
 4. Narrow down a few questions to pursue in the dataset of choice.
 5. Assess the quality of these datasets via exploratory data analysis, placing your results in the context of how the data were generated.
@@ -107,23 +107,30 @@ When selecting which dataset you are going to use for your project, try choosing
 
 ---
 
-## NYPD Civilian Complaints 🚔
-This dataset contains data on 12,000 civilian complaints filed against New York City police officers.
+## Food 🍽️
+This dataset has food recipes information from [food.com](food.com). It was originally scrapped and used by the authors to [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender system paper.
+- Note: While it is a great dataset that can help you build an exceptional project on your resume, it is quite large. And thus, you have the option to follow our guidelines below to process it into a smaller dataset for your analysis.
 
 ### Getting the Data
 {:.no_toc}
 
-The data and its corresponding data dictionary are downloadable [here](https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers).
+The data is downloadable [here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/download?datasetVersionNumber=2). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
 
-***Note:*** You don't need to provide any information to obtain the data. Just agree to the terms of use and click "submit."
+Optional steps to make it a smaller dataset if you do not have too much computation power on your computer:
+1. Left merge the recipe and the interaction datasets together.
+2. In the merged dataset, fill all 0 rating as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people forgot to gave a rating while they left a comment.
+3. Find the average rating per recipe and merge this information to the original recipe dataset.
+
+
+A data dictionary is available at this [page](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv).
 
 ### Sample Questions
 {:.no_toc}
 
-- Does the length that the complaint is open depend on ethnicity/age/gender?
-- Are white officer vs. non-white complainant cases more likely to go against the complainant? 
-- Are allegations more severe for cases in which the officer and complainant are not of the same ethnicity?
-- Are the complaints of women more successful than men (for the same allegations?)
+- What types of food that tends to have the most calories?
+- What types of food that tends to have a higher average rating?
+- What types of food that tends to be healthier (i.e. more protein, less carbs)?
+- Do longer cooking time have an effect on the average rating?
 
 There are a lot of other questions that can be asked from this data, so be creative! You are not limited to the sample questions above.
 
@@ -131,14 +138,15 @@ There are a lot of other questions that can be asked from this data, so be creat
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](#requirement-cleaning-and-eda-exploratory-data-analysis) section. Note:
+- As stated in the data dictionary, the nutrition column stored data as lists in this order: `[calories (#), total fat (PDV), sugar (PDV) , sodium (PDV) , protein (PDV) , saturated fat (PDV) , carbohydrates (PDV)]`. If you want to to use this data for your analysis, you may want to turn these lists into new columns for each of the values.
+- You might also want to explore the dtypes for each column and change them into easier-to-handle dtypes if possible. (i.e. convert the data that looks like lists to actual lists or converting the dates into `datetime`)
 
-- Certain fields have "missing" data that isn't labeled as missing. For example, there are fields with the value "Unknown." Do some exploration to find those values and convert them to null values.
-- You may also want to combine the date columns to create a column of type `pd.Timestamp` for time series exploration.
 
 ### Assessment of Missingness
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Assessment of Missingness](#requirement-assessment-of-missingness) section.
+- Note: there are only 3 columns in this dataset that contains missing values.
 
 ### Hypothesis Testing
 {:.no_toc}
@@ -190,36 +198,29 @@ Follow all of the steps in the [Requirement: Hypothesis Testing](#requirement-hy
 
 ---
 
-## Stock Trades by Members of the US House of Representatives 📈
+## League of Legends Competitive Match Data ⌨️
 
-This project uses public data about the stock trades made by members of the US House of Representatives. This data is collected and maintained by Timothy Carambat as part of the [House Stock Watcher](https://housestockwatcher.com/) project. The project describes itself as follows:
+⚠️ Note ⚠️ You'll probably want to be at least a little bit familiar with [*League of Legends*](https://en.wikipedia.org/wiki/Video_game) and its terminology to use this data set. If not, one of the other data sets may be more interesting to you.
 
-> With recent and ongoing investigations of incumbent congressional members being investigated for potentially violating the STOCK act. This website compiles this publicly available information in a format that is easier to digest then the original `PDF` source.
->
-> Members of Congress must report periodic reports of their asset transactions. This website is purely for an informative purpose and aid in transparency.
->
-> This site does not manipulate or censor any of the information from the original source. All data is transcribed by our community of contributors, which you can join for free by going to our transcription tool. Our moderation team takes great care in ensuring the accuracy of the information.
->
-> This site is built and maintained by Timothy Carambat and supported with our contributors.
+Welcome to Summoner's Rift!
+
+This dataset contains information of players and teams from over 10,000 League of Legends competitive matches.
 
 ### Getting the Data
 {:.no_toc}
 
-The full data set of stock trade disclosures is available as a CSV or as JSON at [this site](https://housestockwatcher.com/api). Note that the table at the top of the page, with columns `'Name of File'` and `'File Type'`, has a third column with download links that you may have to scroll to the right to see. You don't need to follow any of the API access instructions to download the data, you just need to click one of these links.
+The data can be found on the [Oracle's Elixir](https://oracleselixir.com/tools/downloads) website.
 
-This data set does not, however, contain the political affiliation of the congresspeople. If you wish to investigate a question that relies on having this information, you'll need to find another dataset that contains it and perform a merge. ***Hint:*** Kaggle is a useful source of datasets.
+You can use the most up-to-date match data file with more than 100,000 rows. You may use the older datasets if you wish, but keep in mind that League of Legends changes significantly between years. This can make it difficult to combine data from different years, or to make comparisons between years.
+
 
 ### Sample Questions
 {:.no_toc}
 
-- Is there a difference in stock trading behavior between political parties? For example:
-    - Does one party trade more often?
-    - Does one party make larger trades?
-    - Do the two parties invest in different stocks or sectors? For instance, do Democrats invest in Tesla more than Republicans?
-- What congresspeople have made the most trades?
-- What companies are most traded by congresspeople?
-- Is there evidence of insider trading? For example, Boeing stock dropped sharply in February 2020. Were there a suspiciously-high number of sales of Boeing before the drop?
-- When are stocks bought and sold? Is there a day of the week that is most common? Or a month of the year?
+- Looking at [tier one professional leagues](https://en.wikipedia.org/wiki/List_of_League_of_Legends_leagues_and_tournaments), which league has the most "action-packed" games? Is the amount of "action" in this league significantly different than in other leagues? Note that you'll have to come up with a way of quantifying "action".
+- Which competitive region has the highest win rate against teams outside their region? Note you will have to find and merge region data for this question as the dataset does not have it.
+- Which role "carries" (does the best) in their team more often: ADCs (Bot lanes) or Mid laners?
+- Is (DSC 80 tutor) Costin's favorite champion (Talon) more likely to win or lose a match?
 
 
 ### Cleaning and EDA
@@ -227,8 +228,9 @@ This data set does not, however, contain the political affiliation of the congre
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](#requirement-cleaning-and-eda-exploratory-data-analysis) section. Note:
 
-- Certain fields have "missing" data that isn't labeled as missing. For example, there are fields with the value `'--'`. Do some exploration to find those values and convert them to null values.
-- You may also want to clean up the date columns to enable time series exploration.
+- Each `gameid` corresponds to up to 12 rows -- one for each of the 5 players on both teams and 2 containing summary data for the two teams (try to find out what distinguishes those rows). After selecting the line of inquiry, make sure to remove either the player rows or the team rows so as not to have issues later in your analysis.
+- Many columns should be of type `bool` but are not.
+- Understand the data in ways relevant to your question using univariate and bivariate analysis of the data as well as aggregations.
 
 ### Assessment of Missingness
 {:.no_toc}
