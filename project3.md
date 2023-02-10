@@ -18,7 +18,6 @@ nav_exclude: true
 {:toc}
 
 ---
-
 ## Overview
 
 Welcome to Project 3! 👋
@@ -35,9 +34,9 @@ This project will be an open investigation into **a single dataset**. You will f
 
 1. Pull the latest version of the [`dsc80-2022-sp`](https://github.com/dsc-courses/dsc80-2022-sp/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
-    - [Food](#food-).
+    - [NYPD Civilian Complaints](#nypd-civilian-complaints-).
     - [Power Outages](#power-outages-).
-    - [League of Legends Competitive Match Data](#league-of-legends-competitive-match-data).
+    - [Stock Trades](#stock-trades-).
 3. Download the dataset of your choosing and load it into your `template.ipynb` file.
 4. Narrow down a few questions to pursue in the dataset of choice.
 5. Assess the quality of these datasets via exploratory data analysis, placing your results in the context of how the data were generated.
@@ -54,7 +53,8 @@ Now that you have a rough overview of what you are going to be doing in the proj
 Each of the following steps should be summarized in the **Summary of Findings** section at the top of your project notebook. Your summary must:
 
 * Introduce the dataset as you understand it and how it relates to the question you are investigating.
-* Describe the data cleaning steps you took and how they affected your analyses. The steps should be explained in reference to the data generating process.
+    * Introducing your dataset should include but is not limited to the number of data points, the names of columns relevant to your question, and descriptions of those relevant columns.
+* Describe in detail the data cleaning steps you took and how they affected your analyses. The steps should be explained in reference to the data-generating process.
 * Describe the setup and results of your assessment on missingness, including how to interpret those results, your statistical confidence, and how they might affect your ability to answer questions about the dataset. 
 * Describe the setup and results of your hypothesis test. Make sure to explicitly state your null and alternative hypotheses, test statistic, the significance level you used, and what conclusions you can draw from the results.
 
@@ -70,29 +70,32 @@ When doing the work that informs your summary, **you should write organized, rea
 * Make sure to clearly explain what each component of your notebook **means**. Specifically:
     - All plots should have titles.
     - All code cells should contain a comment describing how the code works.
-    - All code cells and plots should have a Markdown cell preceeding them describing how the code/plot is related to your analysis. 
+    - All code cells and plots should have a Markdown cell preceding them describing how the code/plot is related to your analysis. 
 
 ### Requirement: Cleaning and EDA (Exploratory Data Analysis)
 
 * **Data Cleaning:** Clean the data appropriately for your question. For instance, you may need to replace data that should be missing with `NaN` or create new columns out of given ones (e.g. compute distances, scale data, or get time information from time stamps).
-* **Univariate Analysis:** Look at the distributions of relevant columns separately by using DataFrame operations and drawing appropriate plots.
-* **Bivariate Analysis:** Look at the statistics of pairs of columns to identify possible associations. For instance, you may create scatter plots and plot conditional distributions, or box-plots. Also, create pivot tables. These will be helpful in identifying interesting hypothesis tests!
+* **Univariate Analysis:** Look at the distributions of relevant columns separately by using DataFrame operations and drawing appropriate plots. Provide a 1-2 sentence commentary/interpretation about what your plots show.
+* **Bivariate Analysis:** Look at the statistics of pairs of columns to identify possible associations. For instance, you may create scatter plots and plot conditional distributions, or box-plots. Also, create pivot tables. Once again, provide a 1-2 sentence commentary/interpretation about what your plots show. The results of your bivariate analyses will be helpful in identifying interesting hypothesis tests!
 * **Interesting Aggregates:** Choose columns to groupby and examine aggregate statistics.
 
 ### Requirement: Assessment of Missingness
 
 * Recall, to determine whether data are likely NMAR, you must reason about the data generating process; you cannot conclude that data are likely NMAR solely by looking at your data. In your summary, **address whether you believe there is a column in your dataset that is NMAR**. Explain your reasoning and any additional data you might want to obtain that could explain the missingness (thereby making it MAR).
+    * **Explicitly** use the term “NMAR” during your assessment as trying to say it implicitly could cause you to get partial or no credit.
 * In this section, you will **try and determine if values in a column are MAR dependent on some other column**. To do so:
     * Pick a column with non-trivial missingness to analyze.
     * Perform permutation tests to analyze the dependency of the missingness of this column on other columns.
         - Find at least one other column that the missingness of your selected column depends on, and one other column that the missingness of your selected column does not depend on.
-            - _For the Stock Trades dataset, you instead will have to show three cases where the missingness of the data is dependent on another column. If you work with this dataset, you should notice that there is only a single column with non-trivial missingness, and you should verify yourself that the missingness of that column depends on most other columns._
+        - Make sure you know the difference between the different types of missingness before approaching that section. **Lots of students in the past have gotten partial credit for mistaking one type of missingness for another.**
     * Interpret the results of your permutation tests with respect to your data and question.
 
 ### Requirement: Hypothesis Testing
 
 * Formulate a pair of hypotheses and perform a **hypothesis test or a permutation test** (that is not related to missingness). You can use the "sample questions" in each of the dataset descriptions for inspiration, or you can create your own.
 * Be sure to explicitly state your null and alternative hypotheses, your choice of test statistic and significance level, the resulting p-value, and your conclusion. Justify why these choices are good choices for answering the question you are trying to answer.
+* When making writing your conclusions to the statistical tests in this project, **never** use language that implies an absolute conclusion. Because we are doing statistical tests (and not doing a randomized controlled trial), we cannot prove that either hypothesis is 100% true or false.
+    * _“Only a Sith deals in absolutes” -Obi-Wan Kenobi_
 
 ---
 
@@ -118,8 +121,8 @@ The data is downloadable [here](https://www.kaggle.com/datasets/shuyangli94/food
 
 Optional steps to make it a smaller dataset if you do not have too much computation power on your computer:
 1. Left merge the recipe and the interaction datasets together.
-2. In the merged dataset, fill all 0 rating as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people forgot to gave a rating while they left a comment.
-3. Find the average rating per recipe and merge this information to the original recipe dataset.
+2. In the merged dataset, fill all 0 ratings as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people who forgot to give a rating when they left a comment.
+3. Find the average rating per recipe and merge this information into the original recipe dataset.
 
 
 A data dictionary is available at this [page](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv).
@@ -127,9 +130,9 @@ A data dictionary is available at this [page](https://www.kaggle.com/datasets/sh
 ### Sample Questions
 {:.no_toc}
 
-- What types of food that tends to have the most calories?
-- What types of food that tends to have a higher average rating?
-- What types of food that tends to be healthier (i.e. more protein, less carbs)?
+- What types of food tend to have the most calories?
+- What types of food tend to have a higher average rating?
+- What types of food tend to be healthier (i.e. more protein, fewer carbs)?
 - Do longer cooking time have an effect on the average rating?
 
 There are a lot of other questions that can be asked from this data, so be creative! You are not limited to the sample questions above.
@@ -227,7 +230,6 @@ You can use the most up-to-date match data file with more than 100,000 rows. You
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](#requirement-cleaning-and-eda-exploratory-data-analysis) section. Note:
-
 - Each `gameid` corresponds to up to 12 rows -- one for each of the 5 players on both teams and 2 containing summary data for the two teams (try to find out what distinguishes those rows). After selecting the line of inquiry, make sure to remove either the player rows or the team rows so as not to have issues later in your analysis.
 - Many columns should be of type `bool` but are not.
 - Understand the data in ways relevant to your question using univariate and bivariate analysis of the data as well as aggregations.
@@ -249,7 +251,7 @@ Follow all of the steps in the [Requirement: Hypothesis Testing](#requirement-hy
 
 ## Rubric and Submission
 
-Your project will be graded out of 100 points. The rough rubric is shown below. If you satisfy these requirements, you will receive full credit.
+Your project will be graded out of 100 points. The rough rubric is shown below. If you satisfy these requirements as described in the Instructions section, you will receive full credit.
 
 | Component | Weight |
 | --- | --- |
