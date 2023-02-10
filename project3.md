@@ -5,7 +5,7 @@ description: Description of Project 3.
 nav_exclude: true
 ---
 
-# Project 3 – Exploratory Data Analysis 🚔🔋📈
+# Project 3 – Exploratory Data Analysis 🍽️🔋⌨️
 {:.no_toc}
 
 ### Due Date: Thursday, May 12th at 11:59PM
@@ -34,9 +34,9 @@ This project will be an open investigation into **a single dataset**. You will f
 
 1. Pull the latest version of the [`dsc80-2022-sp`](https://github.com/dsc-courses/dsc80-2022-sp/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
-    - [NYPD Civilian Complaints](#nypd-civilian-complaints-).
+    - [Food](#food-).
     - [Power Outages](#power-outages-).
-    - [Stock Trades](#stock-trades-).
+    - [](#league-of-legends-competitive-match-data-).
 3. Download the dataset of your choosing and load it into your `template.ipynb` file.
 4. Narrow down a few questions to pursue in the dataset of choice.
 5. Assess the quality of these datasets via exploratory data analysis, placing your results in the context of how the data were generated.
