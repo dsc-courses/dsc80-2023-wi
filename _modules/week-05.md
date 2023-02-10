@@ -20,6 +20,6 @@
       - date: 2023-2-10
         events:
           "**LEC 14**{: .label .label-lecture } [HTTP Basics](resources/lectures/lec14/lec14.html)":
-            "[Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/14) • [Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
                 
 ---

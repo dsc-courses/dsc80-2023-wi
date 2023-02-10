@@ -8,7 +8,7 @@ nav_exclude: true
 # Project 3 – Exploratory Data Analysis 🍽️🔋⌨️
 {:.no_toc}
 
-### Due Date: Thursday, May 12th at 11:59PM
+### Due Date: Thursday, February 23rd at 11:59PM
 {:.no_toc}
 
 ## Table of contents
@@ -24,7 +24,11 @@ Welcome to Project 3! 👋
 
 This project contains no new material. Rather, it's a good opportunity to sharpen your understanding of the core concepts of the first half of the course.
 
-**The project is due on Thursday, May 12th at 11:59PM**. While there is no checkpoint, try to self-impose the checkpoint. This will enable you to polish your work into a coherent notebook upon submission. **Since this project is only graded on the output displayed in a notebook (no `.py` file will be submitted)**, you will need to make sure you submit a "readable report" that graders can follow!
+**The project is due on Thursday, February 23rd at 11:59PM**. While there is no checkpoint, try to self-impose the checkpoint. This will enable you to polish your work into a coherent notebook upon submission. **Since this project is only graded on the output displayed in a notebook (no `.py` file will be submitted)**, you will need to make sure you submit a "readable report" that graders can follow!
+
+Two parts to the project:
+- Part 1: Analysis
+- Part 2: Presentation
 
 ---
 
@@ -32,7 +36,7 @@ This project contains no new material. Rather, it's a good opportunity to sharpe
 
 This project will be an open investigation into **a single dataset**. You will follow the steps given below:
 
-1. Pull the latest version of the [`dsc80-2022-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
+1. Pull the latest version of the [`dsc80-2023-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
     - [Food](#food-).
     - [Power Outages](#power-outages-).
@@ -44,10 +48,11 @@ This project will be an open investigation into **a single dataset**. You will f
 7. Ask and answer a question about the dataset using a hypothesis test or permutation test, being sure to discuss uncertainty of your result and possible shortcomings of your approach.
 8. Conclude with how you might improve your work and what data you might use to do so.
 9. Submit a **PDF version of your notebook** to Gradescope. More details in the [Rubric and Submission](#rubric-and-submission) section.
+10. TODO
 
 <!-- ## How to Organize and Submit Your Work for Grading -->
 
-Now that you have a rough overview of what you are going to be doing in the project, the following sections will talk about the specific items you will need in your project. **Read the following sections carefully!**. 
+Now that you have a rough overview of what you are going to be doing in the project, the following sections will talk about the specific items you will need in your project. **Read the following sections carefully!**
 
 ### Summary of Findings
 Each of the following steps should be summarized in the **Summary of Findings** section at the top of your project notebook. Your summary must:
@@ -95,7 +100,8 @@ When doing the work that informs your summary, **you should write organized, rea
 * Formulate a pair of hypotheses and perform a **hypothesis test or a permutation test** (that is not related to missingness). You can use the "sample questions" in each of the dataset descriptions for inspiration, or you can create your own.
 * Be sure to explicitly state your null and alternative hypotheses, your choice of test statistic and significance level, the resulting p-value, and your conclusion. Justify why these choices are good choices for answering the question you are trying to answer.
 * When making writing your conclusions to the statistical tests in this project, **never** use language that implies an absolute conclusion. Because we are doing statistical tests (and not doing a randomized controlled trial), we cannot prove that either hypothesis is 100% true or false.
-    * _“Only a Sith deals in absolutes” -Obi-Wan Kenobi_
+
+> “Only a Sith deals in absolutes” - Obi-Wan Kenobi
 
 ---
 
@@ -111,19 +117,20 @@ When selecting which dataset you are going to use for your project, try choosing
 ---
 
 ## Food 🍽️
-This dataset has food recipes information from [food.com](food.com). It was originally scrapped and used by the authors to [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender system paper.
-- Note: You may find that the dataset used in that report comes from a different source then what we provided here. This is because the whole dataset is quite large so we have given you a subset of the data to work with.
+This dataset has food recipes information from [food.com](food.com). It was originally scraped and used by the authors of [this](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf) recommender systems paper.
+- Note: You may find that the dataset used in that report comes from a different source than we've provided you with here. That's because the whole dataset is quite large; we have given you a subset of the data to work with.
 
 ### Getting the Data
 {:.no_toc}
 
-The data is downloadable [here](https://drive.google.com/file/d/1kIbMz6jlhleiZ9_3QthmUnifoSds_2EI/view?usp=sharing). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
+The data is downloadable [here](https://drive.google.com/file/d/1kIbMz6jlhleiZ9_3QthmUnifoSds_2EI/view?usp=sharing). You need to download two datasets – `RAW_recipes.csv` and `RAW_interactions.csv`.
+
+The first dataset contains TODO. THe second dataset contains TODO.
 
 After downloading the datasets, please follow these steps to generate an average ratings column and combine the two datasets prior to performing your analysis:
 1. Left merge the recipe and the interaction datasets together.
 2. In the merged dataset, fill all 0 ratings as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people who forgot to give a rating when they left a comment.
 3. Find the average rating per recipe and merge this information into the original recipe dataset.
-
 
 A data dictionary is available at this [page](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv).
 
@@ -133,7 +140,7 @@ A data dictionary is available at this [page](https://www.kaggle.com/datasets/sh
 - What types of food tend to have the most calories?
 - What types of food tend to have a higher average rating?
 - What types of food tend to be healthier (i.e. more protein, fewer carbs)?
-- Do longer cooking time have an effect on the average rating?
+- TODO longer cooking time have an effect on the average rating?
 
 There are a lot of other questions that can be asked from this data, so be creative! You are not limited to the sample questions above.
 
@@ -142,14 +149,16 @@ There are a lot of other questions that can be asked from this data, so be creat
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](#requirement-cleaning-and-eda-exploratory-data-analysis) section. Note:
 - As stated in the data dictionary, the nutrition column stored data as lists in this order: `[calories (#), total fat (PDV), sugar (PDV) , sodium (PDV) , protein (PDV) , saturated fat (PDV) , carbohydrates (PDV)]`. If you want to to use this data for your analysis, you may want to turn these lists into new columns for each of the values.
-- You might also want to explore the dtypes for each column and change them into easier-to-handle dtypes if possible. (i.e. convert the data that looks like lists to actual lists or converting the dates into `datetime`)
+- You might also want to explore the `dtypes` for each column and change them into easier-to-handle `dtypes` if possible. (For instance, you may want toconvert the data that looks like lists to actual lists or converting the dates into `datetime`)
+
+TODO are they actually stored as lists?
 
 
 ### Assessment of Missingness
 {:.no_toc}
 
 Follow all of the steps in the [Requirement: Assessment of Missingness](#requirement-assessment-of-missingness) section.
-- Note: there are only 3 columns in this dataset that contains missing values.
+- Note: there are only 3 columns in this dataset that contains missing values. Make sure you merge the two separate datasets (ratings and interactions) first.
 
 ### Hypothesis Testing
 {:.no_toc}
