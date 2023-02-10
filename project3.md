@@ -32,7 +32,7 @@ This project contains no new material. Rather, it's a good opportunity to sharpe
 
 This project will be an open investigation into **a single dataset**. You will follow the steps given below:
 
-1. Pull the latest version of the [`dsc80-2022-sp`](https://github.com/dsc-courses/dsc80-2022-sp/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
+1. Pull the latest version of the [`dsc80-2022-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb).
 2. Pick **one** of the three datasets described below:
     - [Food](#food-).
     - [Power Outages](#power-outages-).
@@ -117,9 +117,9 @@ This dataset has food recipes information from [food.com](food.com). It was orig
 ### Getting the Data
 {:.no_toc}
 
-The data is downloadable [here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/download?datasetVersionNumber=2). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
+The data is downloadable [here](https://drive.google.com/file/d/1kIbMz6jlhleiZ9_3QthmUnifoSds_2EI/view?usp=sharing). You need to download two datasets (`RAW_recipes.csv` and `RAW_interactions.csv`).
 
-Optional steps to make it a smaller dataset if you do not have too much computation power on your computer:
+After downloading the datasets, please follow these steps to generate an average ratings column and combine the two datasets:
 1. Left merge the recipe and the interaction datasets together.
 2. In the merged dataset, fill all 0 ratings as `np.nan` because the minimum possible rating is 1, and those 0's were caused by people who forgot to give a rating when they left a comment.
 3. Find the average rating per recipe and merge this information into the original recipe dataset.
