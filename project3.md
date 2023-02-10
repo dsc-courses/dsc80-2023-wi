@@ -36,7 +36,7 @@ This project will be an open investigation into **a single dataset**. You will f
 2. Pick **one** of the three datasets described below:
     - [Food](#food-).
     - [Power Outages](#power-outages-).
-    - [](#league-of-legends-competitive-match-data-).
+    - [League of Legends Competitive Match Data](#league-of-legends-competitive-match-data-).
 3. Download the dataset of your choosing and load it into your `template.ipynb` file.
 4. Narrow down a few questions to pursue in the dataset of choice.
 5. Assess the quality of these datasets via exploratory data analysis, placing your results in the context of how the data were generated.
