@@ -200,19 +200,27 @@ Your project will be graded out of 100 points. The rough rubric is shown below. 
 
 | Component | Weight |
 | --- | --- |
-| Provided an introduction to the dataset and the analyses | 10 points |
-| Cleaned data | 10 points |
-| Performed univariate analyses | 10 points |
-| Performed bivariate analyses and aggregation | 10 points |
-| Addressed NMAR question | 5 points|
-| Performed permutation tests for missingness | 10 points|
-| Interpreted missingness test results | 10 points|
-| Selected relevant columns for a hypothesis or permutation test | 5 points|
-| Explicitly stated a null hypothesis | 5 points|
-| Explicitly stated an alternative hypothesis | 5 points|
-| Performed a hypothesis or permutation test | 10 points|
-| Used a valid test statistic | 5 points|
-| Computed a p-value and made a decision | 5 points|
+| Provided an introduction to the dataset and the analyses (pdf) | 8 points |
+| Cleaned data (pdf) | 8 points |
+| Performed univariate analyses (pdf) | 8 points |
+| Performed bivariate analyses and aggregation (pdf) | 8 points |
+| Addressed NMAR question (pdf)| 4 points|
+| Performed permutation tests for missingness (pdf) | 8 points|
+| Interpreted missingness test results (pdf) | 8 points|
+| Selected relevant columns for a hypothesis or permutation test (pdf) | 4 points|
+| Explicitly stated a null hypothesis (pdf) | 4 points|
+| Explicitly stated an alternative hypothesis (pdf) | 4 points|
+| Performed a hypothesis or permutation test (pdf) | 8 points|
+| Used a valid test statistic (pdf) | 4 points|
+| Computed a p-value and made a decision (pdf) | 4 points|
+| Introduction and Question Identification (webpage)| 2.5 points|
+| Data Cleaning (webpage)| 2.5 points|
+| Univariate Analysis (webpage)| 2.5 points|
+| Bivariate Analysis (webpage)| 2.5 points|
+| Interesting Aggregates (webpage)| 2.5 points|
+| NMAR Analysis (webpage)| 2.5 points|
+| Missingness Dependency (webpage)| 2.5 points|
+| Hypothesis Testing (webpage)| 2.5 points|
 | **Total** | **100 points**|
 
 To submit the project, generate a **PDF of your Jupyter Notebook** that contains all of the requirements above, and upload that PDF to Gradescope. You will not need to upload the raw notebook to Gradescope.
