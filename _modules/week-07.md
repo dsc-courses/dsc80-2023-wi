@@ -13,7 +13,7 @@
           "**DIS 6**{: .label .label-disc } Lab 6 Reflection (due 2/25)":
       - date: 2023-2-23
         events:
-          "**PROJ 3**{: .label .label-proj } **Exploratory Data Analysis 📊 (due 2/23, no checkpoint)**":
+          "**PROJ 3**{: .label .label-proj } **[Exploratory Data Analysis 📊 (due 2/23, no checkpoint)](project3)**":
       - date: 2023-2-24
         events:
           "**LEC 18**{: .label .label-lecture } Text Features":

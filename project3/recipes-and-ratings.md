@@ -60,7 +60,7 @@ For context, you may want to look at an example recipe [directly on food.com](ht
 
 After downloading the datasets, you **must** follow the following steps to merge the two datasets and create a column containing the average rating per recipe:
 1. Left merge the recipes and interactions datasets together.
-2. In the merged dataset, fill all ratings of 0 with `np.nan` because the minimum possible rating is 1; a rating of 0 means the reviewer did not provide a rating when leaving a comment.
+2. In the merged dataset, fill all ratings of 0 with `np.nan`. (Think about _why_ this is a reasonable step, and include your justification in your website.)
 3. Find the average rating per recipe.
 
 {: .note }
@@ -83,7 +83,7 @@ There are a lot of other questions that can be asked from this data, so be creat
 
 Follow all of the steps in the [Requirement: Cleaning and EDA](../#requirement-cleaning-and-eda-exploratory-data-analysis) section.
 
-***Tip***: Some columns, like `'nutrition'`, contain values that look like lists, but are actually strings that look like lists. You may want to turn the strings into actual lists, or create columns for every unique value in those lists. For instance, per the data dictionary, each value in the `'nutrition'` column contains information in the form `"[calories (#), total fat (PDV), sugar (PDV) , sodium (PDV) , protein (PDV) , saturated fat (PDV) , and carbohydrates (PDV)]"`; you could create individual columns in your dataset titled `'calories'`, `'total fat'`, etc.
+***Tip***: Some columns, like `'nutrition'`, contain values that look like lists, but are actually strings that look like lists. You may want to turn the strings into actual lists, or create columns for every unique value in those lists. For instance, per the data dictionary, each value in the `'nutrition'` column contains information in the form `"[calories (#), total fat (PDV), sugar (PDV), sodium (PDV), protein (PDV), saturated fat (PDV), and carbohydrates (PDV)]"`; you could create individual columns in your dataset titled `'calories'`, `'total fat'`, etc.
 
 ---
 

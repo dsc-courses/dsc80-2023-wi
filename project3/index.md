@@ -53,7 +53,7 @@ You may want to read the rest of this page before choosing a dataset.
 ## Part 1: Analysis
 
 Before beginning your analysis, you'll need to set up a few things.
-1. Pull the latest version of the [`dsc80-2023-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2022-sp/blob/main/projects/03-eda/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2023-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-wi/blob/main/projects/03-eda/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -71,8 +71,8 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 | Step | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
 | **Data Cleaning** | Clean the data appropriately. For instance, you may need to replace data that should be missing with `NaN` or create new columns out of given ones (e.g. compute distances, scale data, or get time information from time stamps). | Describe, in detail, the data cleaning steps you took and how they affected your analyses. The steps should be explained in reference to the data generating process. Show the `head` of your cleaned DataFrame (see [Part 2: Report](#part-2-report) for instructions). |
-| **Univariate Analysis** | Look at the distributions of relevant columns separately by using DataFrame operations and drawing at least two relevant plots. | Embed **at least one** `plotly` plot you created in your notebook that displays the distribution of a single column (see [Part 2: Report](#part-2-report) for instructions). Include a 1-2 sentence explanation about what the plot displays. (Your notebook will likely have more visualizations than your website, and that's fine. Feel free to embed more than one univariate visualization in your website if you'd like.) |
-| **Bivariate Analysis** | Look at the statistics of pairs of columns to identify possible associations. For instance, you may create scatter plots and plot conditional distributions, or box-plots. The results of your bivariate analyses will be helpful in identifying interesting hypothesis tests! | Embed **at least one** `plotly` plot that displays the relationship between two columns. Include a 1-2 sentence explanation about what the plot displays. (Your notebook will likely have more visualizations than your website, and that's fine. Feel free to embed more than one bivariate visualization in your website if you'd like.) |
+| **Univariate Analysis** | Look at the distributions of relevant columns separately by using DataFrame operations and drawing at least two relevant plots. | Embed **at least one** `plotly` plot you created in your notebook that displays the distribution of a single column (see [Part 2: Report](#part-2-report) for instructions). Include a 1-2 sentence explanation about your plot, making sure to describe and interpret any trends present. (Your notebook will likely have more visualizations than your website, and that's fine. Feel free to embed more than one univariate visualization in your website if you'd like, but make sure that each embedded plot is accompanied by a description.) |
+| **Bivariate Analysis** | Look at the statistics of pairs of columns to identify possible associations. For instance, you may create scatter plots and plot conditional distributions, or box-plots. You must plot at least two such plots in your notebook. The results of your bivariate analyses will be helpful in identifying interesting hypothesis tests! | Embed **at least one** `plotly` plot that displays the relationship between two columns. Include a 1-2 sentence explanation about your plot, making sure to describe and interpret any trends present. (Your notebook will likely have more visualizations than your website, and that's fine. Feel free to embed more than one bivariate visualization in your website if you'd like, but make sure that each embedded plot is accompanied by a description.) |
 | **Interesting Aggregates** | Choose columns to group and pivot by and examine aggregate statistics. | Embed at least one grouped table or pivot table in your website and explain its significance. |
 
 ### Requirement: Assessment of Missingness
@@ -80,7 +80,7 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 | Step | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
 | **NMAR Analysis** | Recall, to determine whether data are likely NMAR, you must reason about the data generating process; you cannot conclude that data are likely NMAR solely by looking at your data. As such, there's no code to write here (and hence, nothing to put in your notebook). | State whether you believe there is a column in your dataset that is NMAR. Explain your reasoning and any additional data you might want to obtain that could explain the missingness (thereby making it MAR). Make sure to explicitly use the term "NMAR." |
-| **Missingness Dependency** | Pick a column with non-trivial missingness to analyze, and perform permutation tests to analyze the dependency of the missingness of this column on other columns.<br><br>Specifically, find at least one other column that the missingness of your selected column **does** depend on, and at least one other column that the missingness of your selected column **does not** depend on.<br><br>***Tip***: Make sure you know the difference between the different types of missingness before approaching that section. Many students in the past have lost credit for mistaking one type of missingness for another. | Present and interpret the results of your missingness permutation tests with respect to your data and question. Embed a `plotly` plot related to your missingness exploration; ideas include:<br>• The distribution of column $$Y$$ when column $$X$$ is missing and the distribution of column $$Y$$ when column $$X$$ is not missing, as was done in [Lecture 12](https://dsc80.com/resources/lectures/lec12/lec12.html).<br>• The empirical distribution of the test statistic used in one of your permutation tests, along with the observed statistic. |
+| **Missingness Dependency** | Pick a column in the dataset with non-trivial missingness to analyze, and perform permutation tests to analyze the dependency of the missingness of this column on other columns.<br><br>Specifically, find at least one other column that the missingness of your selected column **does** depend on, and at least one other column that the missingness of your selected column **does not** depend on.<br><br>***Tip***: Make sure you know the difference between the different types of missingness before approaching that section. Many students in the past have lost credit for mistaking one type of missingness for another. | Present and interpret the results of your missingness permutation tests with respect to your data and question. Embed a `plotly` plot related to your missingness exploration; ideas include:<br>• The distribution of column $$Y$$ when column $$X$$ is missing and the distribution of column $$Y$$ when column $$X$$ is not missing, as was done in [Lecture 12](https://dsc80.com/resources/lectures/lec12/lec12.html).<br>• The empirical distribution of the test statistic used in one of your permutation tests, along with the observed statistic. |
 
 ### Requirement: Hypothesis Testing
 
@@ -94,7 +94,7 @@ While your website will neatly organized and tailored for public consumption, it
 * Your work for each of the three project sections (Cleaning and EDA, Assessment of Missingness, and Hypothesis Testing) described above should be completed in code cells underneath the Markdown header of that section's name.
 * You should **only include work that is relevant** to posing, explaining, and answering the question(s) you state in your report. You should include data quality, cleaning, and missingness assessments, though these should broadly be relevant to the question at hand.
 * Make sure to clearly explain what each component of your notebook **means**. Specifically:
-    - All plots should have titles (yes, even if they don't make it into your report!).
+    - All plots should have titles, labels, and a legend (if applicable), even if they don't make it into your website. Plots should be self-contained – readers should be able to understand what they describe without having to read anything else.
     - All code cells should contain a comment describing how the code works (unless the code is self-explanatory – use your best judgement).
 
 ---
@@ -194,42 +194,42 @@ The above instructions give you all you need to create and make updates to your 
 
 ---
 
-## Rubric and Submission
+## Submission and Rubric
+
+### Submission
+
+You will submit your project in two ways:
+1. By uploading a **PDF version** of your notebook to the specific "Project 3 Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
+    - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
+    - It's fine if your `plotly` graphs don't render in the PDF output of your notebook.
+    - This notebook asks you to include a link to your website; make sure to do so.
+2. By submitting a **link to your website** to the "Project 3 Website Link (All Datasets)" assignment on Gradescope.
+
+To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
+
+Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Project 3 Notebook PDF" assignment before the deadline but to the "Project 3 Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
+
+{: .warning }
+There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
+
+### Rubric
 
 Your project will be graded out of 100 points. The rough rubric is shown below. If you satisfy these requirements as described above, you will receive full credit.
 
 | Component | Weight |
 | --- | --- |
-| Provided an introduction to the dataset and the analyses (pdf) | 8 points |
-| Cleaned data (pdf) | 8 points |
-| Performed univariate analyses (pdf) | 8 points |
-| Performed bivariate analyses and aggregation (pdf) | 8 points |
-| Addressed NMAR question (pdf)| 4 points|
-| Performed permutation tests for missingness (pdf) | 8 points|
-| Interpreted missingness test results (pdf) | 8 points|
-| Selected relevant columns for a hypothesis or permutation test (pdf) | 4 points|
-| Explicitly stated a null hypothesis (pdf) | 4 points|
-| Explicitly stated an alternative hypothesis (pdf) | 4 points|
-| Performed a hypothesis or permutation test (pdf) | 8 points|
-| Used a valid test statistic (pdf) | 4 points|
-| Computed a p-value and made a decision (pdf) | 4 points|
-| Introduction and Question Identification (webpage)| 2.5 points|
-| Data Cleaning (webpage)| 2.5 points|
-| Univariate Analysis (webpage)| 2.5 points|
-| Bivariate Analysis (webpage)| 2.5 points|
-| Interesting Aggregates (webpage)| 2.5 points|
-| NMAR Analysis (webpage)| 2.5 points|
-| Missingness Dependency (webpage)| 2.5 points|
-| Hypothesis Testing (webpage)| 2.5 points|
-| **Total** | **100 points**|
-
-To submit the project, generate a **PDF of your Jupyter Notebook** that contains all of the requirements above, and upload that PDF to Gradescope. You will not need to upload the raw notebook to Gradescope.
-
-To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
-
-There are three "Project 3" assignments on Gradescope, one for each dataset. Make sure to submit to the correct one, and to tag your partner!
-
-{: .warning }
-**When submitting your notebook, make sure to run all code cells, except for cells that contain `plotly` figures.** These cells are extremely large, and prevent us from rendering your notebook directly on Gradescope for the purposes of grading. Your key visualizations should be in your website, anyways.
-
----
+| Provided an introduction to the dataset and the analyses  | 8 points |
+| Cleaned data | 8 points |
+| Performed univariate analyses  | 8 points |
+| Performed bivariate analyses and aggregation  | 8 points |
+| Addressed NMAR question | 4 points|
+| Performed permutation tests for missingness  | 8 points|
+| Interpreted missingness test results  | 8 points|
+| Selected relevant columns for a hypothesis or permutation test  | 4 points|
+| Explicitly stated a null hypothesis  | 4 points|
+| Explicitly stated an alternative hypothesis  | 4 points|
+| Performed a hypothesis or permutation test  | 8 points|
+| Used a valid test statistic  | 4 points|
+| Computed a p-value and made a decision  | 4 points|
+| Included all necessary components on the website | 20 points |
+| **Total** | **100 points** |
