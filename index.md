@@ -16,7 +16,7 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .note }
-As you start to study for the Midterm Exam, make sure to check out past exams at [practice.dsc80.com](https://practice.dsc80.com) and the other resources linked [here](resources).
+As you start to study for the Midterm Exam, make sure to check out past exams at [practice.dsc80.com](https://practice.dsc80.com) and the other resources linked [here](resources). Check out the logistics post [on Ed](https://edstem.org/us/courses/32057/discussion/2579020).
 
 [Jump to the current week](#week-5-missingness-mechanisms-and-imputation){: .btn }
 
