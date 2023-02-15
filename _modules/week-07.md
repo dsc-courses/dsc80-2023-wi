@@ -9,7 +9,7 @@
         events:
           "**LEC 17**{: .label .label-lecture } Regular Expressions":
             "[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
-          "**Lab 6**{: .label .label-lab } **HTTP and HTML (due 2/22 at 4PM, no slip days)**":
+          "**Lab 6**{: .label .label-lab } **[HTTP and HTML (due 2/22 at 4PM, no slip days)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/06-http/lab.ipynb)**":
           "**DIS 6**{: .label .label-disc } Lab 6 Reflection (due 2/25)":
       - date: 2023-2-23
         events:
