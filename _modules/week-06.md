@@ -9,8 +9,8 @@
           "**Lab 5**{: .label .label-lab } **[Missing Values and Imputation (due 2/13)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/05-missing-imputation/lab.ipynb)**":
       - date: 2023-2-15
         events:
-          "**Exam**{: .label .label-exam } **Midterm Exam (in-person during lecture)**":
-          "**DIS 5**{: .label .label-disc } Lab 5 Reflection (due 2/18)":
+          "**Exam**{: .label .label-exam } **[Midterm Exam (in-person during lecture)](https://practice.dsc80.com/wi23-midterm)**":
+          "**DIS 5**{: .label .label-disc } Midterm Reflection, Spicy Challenge 🔥":
       - date: 2023-2-17
         events:
           "**LEC 16**{: .label .label-lecture } More Parsing Examples":
