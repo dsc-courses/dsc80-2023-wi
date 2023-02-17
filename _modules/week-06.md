@@ -10,7 +10,7 @@
       - date: 2023-2-15
         events:
           "**Exam**{: .label .label-exam } **[Midterm Exam (in-person during lecture)](https://practice.dsc80.com/wi23-midterm)**":
-          "**DIS 5**{: .label .label-disc } Midterm Reflection, Spicy Challenge 🔥":
+          "**DIS 5**{: .label .label-disc } [Midterm Reflection, Spicy Challenge 🔥](yash-no-spice-tolerance.mp4)":
       - date: 2023-2-17
         events:
           "**LEC 16**{: .label .label-lecture } More Parsing Examples":
