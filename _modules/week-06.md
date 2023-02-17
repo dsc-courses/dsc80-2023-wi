@@ -13,6 +13,6 @@
           "**DIS 5**{: .label .label-disc } [Midterm Reflection, Spicy Challenge 🔥](yash-no-spice-tolerance.mp4)":
       - date: 2023-2-17
         events:
-          "**LEC 16**{: .label .label-lecture } More Parsing Examples":
+          "**LEC 16**{: .label .label-lecture } [More Parsing Examples](resources/lectures/lec16/lec16.html)":
             "[Ch. 7.3](https://notes.dsc80.com/content/07/html.html)"
 ---
