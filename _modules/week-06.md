@@ -14,5 +14,5 @@
       - date: 2023-2-17
         events:
           "**LEC 16**{: .label .label-lecture } [More Parsing Examples](resources/lectures/lec16/lec16.html)":
-            "[Ch. 7.3](https://notes.dsc80.com/content/07/html.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/17) • [Ch. 7.3](https://notes.dsc80.com/content/07/html.html)"
 ---
