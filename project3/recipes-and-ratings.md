@@ -61,10 +61,8 @@ For context, you may want to look at an example recipe [directly on food.com](ht
 After downloading the datasets, you **must** follow the following steps to merge the two datasets and create a column containing the average rating per recipe:
 1. Left merge the recipes and interactions datasets together.
 2. In the merged dataset, fill all ratings of 0 with `np.nan`. (Think about _why_ this is a reasonable step, and include your justification in your website.)
-3. Find the average rating per recipe.
-
-{: .note }
-Moving forward, use the merged dataset for all of your analysis!
+3. Find the average rating per recipe, as a Series.
+4. Add this Series containing the average rating per recipe back to the recipes dataset. **Use this dataset for all of your analysis.** (For the purposes of Project 3, the `'review'` column in the interactions dataset doesn't have much use.)
 
 ---
 
