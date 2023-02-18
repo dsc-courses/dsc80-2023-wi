@@ -53,7 +53,7 @@ You may want to read the rest of this page before choosing a dataset.
 ## Part 1: Analysis
 
 Before beginning your analysis, you'll need to set up a few things.
-1. Pull the latest version of the [`dsc80-2023-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-wi/blob/main/projects/03-eda/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2023-wi`](https://github.com/dsc-courses/dsc80-2023-wi/) repo. Within the `projects/03-eda` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/03-eda/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
