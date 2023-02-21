@@ -15,7 +15,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-5-missingness-mechanisms-and-imputation){: .btn }
+[Jump to the current week](#week-7-text-data){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
