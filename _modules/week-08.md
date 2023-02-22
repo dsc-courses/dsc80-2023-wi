@@ -6,7 +6,7 @@
         events:
           "**LEC 19**{: .label .label-lecture } Text Features, Continued":
             "[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html)"
-          "**Lab 7**{: .label .label-lab } **Regular Expressions and Text Data (due 2/27)**":
+          "**Lab 7**{: .label .label-lab } **[Regular Expressions and Text Data (due 2/27)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/07-regex/lab.ipynb)**":
       - date: 2023-3-1
         events:
           "**LEC 20**{: .label .label-lecture } Modeling and Regression":
