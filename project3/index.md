@@ -186,7 +186,7 @@ To convert a DataFrame in your notebook to Markdown source code (which you need 
 print(counts[['Quarter', 'Count']].head().to_markdown(index=False))
 ```
 
-displays a string, containig the Markdown representation of the first 5 rows of `counts`, including only the `'Quarter'` and `'Count'` columns (and not including the index). You can see how this appears [here](http://rampure.org/dsc80-proj3-test1/#assessment-of-missingness); remember, no screenshots.
+displays a string, containing the Markdown representation of the first 5 rows of `counts`, including only the `'Quarter'` and `'Count'` columns (and not including the index). You can see how this appears [here](http://rampure.org/dsc80-proj3-test1/#assessment-of-missingness); remember, no screenshots.
 
 ### Local Setup
 
