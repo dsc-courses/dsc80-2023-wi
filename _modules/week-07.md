@@ -17,7 +17,7 @@
           "**PROJ 3**{: .label .label-proj } **[Exploratory Data Analysis 📊 (due 2/23, no checkpoint)](project3)**":
       - date: 2023-2-24
         events:
-          "**LEC 18**{: .label .label-lecture } Text Features":
+          "**LEC 18**{: .label .label-lecture } [Regular Expressions, Bag of Words](resources/lectures/lec18/lec18.html)":
             "[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
                 
 ---
