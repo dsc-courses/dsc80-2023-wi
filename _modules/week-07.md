@@ -18,6 +18,6 @@
       - date: 2023-2-24
         events:
           "**LEC 18**{: .label .label-lecture } [Regular Expressions, Bag of Words](resources/lectures/lec18/lec18.html)":
-            "[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/19) • [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
                 
 ---
