@@ -14,7 +14,7 @@
           "**DIS 8**{: .label .label-disc } Lab 8 Reflection (due 3/11)":
       - date: 2023-3-9
         events:
-          "**PROJ 4**{: .label .label-proj } **Language Models 🗣 (due 3/9)**":
+          "**PROJ 4**{: .label .label-proj } **[Language Models 🗣 (due 3/9)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/04-language_models/project.ipynb)**":
       - date: 2023-3-10
         events:
           "**LEC 24**{: .label .label-lecture } Cross Validation":

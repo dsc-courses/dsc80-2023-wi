@@ -14,7 +14,7 @@
           "**DIS 7**{: .label .label-disc } Lab 7 Reflection (due 3/4)":
       - date: 2023-3-2
         events:
-          "**PROJ 4**{: .label .label-proj } **Language Models 🗣 (Checkpoint due 3/2)**":
+          "**PROJ 4**{: .label .label-proj } **[Language Models 🗣 (Checkpoint due 3/2)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/04-language_models/project.ipynb)**":
       - date: 2023-3-3
         events:
           "**LEC 21**{: .label .label-lecture } Feature Engineering":
