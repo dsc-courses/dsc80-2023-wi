@@ -4,8 +4,8 @@
     days:
       - date: 2023-2-27
         events:
-          "**LEC 19**{: .label .label-lecture } Text Features, Continued":
-            "[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html)"
+          "**LEC 19**{: .label .label-lecture } [Bag of Words, TF-IDF](resources/lectures/lec19/lec19.html)":
+            "[Ch. 8.2](https://notes.dsc80.com/content/08/nlp.html)"
           "**Lab 7**{: .label .label-lab } **[Regular Expressions and Text Data (due 2/27)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/07-regex/lab.ipynb)**":
       - date: 2023-3-1
         events:
