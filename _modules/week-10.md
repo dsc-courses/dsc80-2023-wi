@@ -9,9 +9,9 @@
           "**Lab 9**{: .label .label-lab } **Pipelines (due 3/13)**":
       - date: 2023-3-15
         events:
-          "**LEC 26**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria":
+          "**LEC 26**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria (no live lecture, video only)":
           "**DIS 9**{: .label .label-disc } Lab 9 Reflection (due 3/18)":
       - date: 2023-3-17
         events:
-          "**LEC 27**{: .label .label-lecture } Fairness Criteria, Conclusion":
+          "**LEC 27**{: .label .label-lecture } Fairness Criteria, Conclusion (no live lecture, video only)":
 ---
