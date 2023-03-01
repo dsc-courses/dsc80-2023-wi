@@ -9,7 +9,7 @@
           "**Lab 7**{: .label .label-lab } **[Regular Expressions and Text Data (due 2/27)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/07-regex/lab.ipynb)**":
       - date: 2023-3-1
         events:
-          "**LEC 20**{: .label .label-lecture } Modeling and Regression":
+          "**LEC 20**{: .label .label-lecture } [Modeling and Linear Regression](resources/lectures/lec20/lec20.html)":
             "[Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html)"
           "**DIS 7**{: .label .label-disc } Lab 7 Reflection (due 3/4)":
       - date: 2023-3-2
