@@ -10,7 +10,7 @@
       - date: 2023-3-1
         events:
           "**LEC 20**{: .label .label-lecture } [Modeling and Linear Regression](resources/lectures/lec20/lec20.html)":
-            "[Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/21) • [Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html)"
           "**DIS 7**{: .label .label-disc } **[Lab 7 Reflection (due 3/4)](https://www.gradescope.com/courses/478969/assignments/2705464)**":
       - date: 2023-3-2
         events:
