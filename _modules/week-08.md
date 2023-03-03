@@ -19,6 +19,6 @@
       - date: 2023-3-3
         events:
           "**LEC 21**{: .label .label-lecture } [Feature Engineering](resources/lectures/lec21/lec21.html)":
-            "[Ch. 9.1](https://notes.dsc80.com/content/09/features.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/22) • [Ch. 9.1](https://notes.dsc80.com/content/09/features.html)"
                 
 ---
