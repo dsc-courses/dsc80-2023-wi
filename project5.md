@@ -104,10 +104,10 @@ Below, we provide example prediction problems for all three datasets. However, d
 
 ### Recipes and Ratings 🍽
 
-* Predict the rating of recipes.
+* Predict ratings of recipes.
 * Predict the number of minutes to prepare recipes.
-* Predict the numer of steps in recipes.
-* Predict the calories of recipes.
+* Predict the number of steps in recipes.
+* Predict calories of recipes.
 
 ### Power Outages 🔋
 
