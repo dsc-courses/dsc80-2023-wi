@@ -102,12 +102,12 @@ Make sure to clearly state your hypotheses, a p-value, and your conclusion of th
 
 Below, we provide example prediction problems for all three datasets. However, don't restrict yourself to just these – feel free to come up with your own!
 
-### NYPD Civilian Complaints 🚔
+### Recipes and Ratings 🍽
 
-* Predict the outcome of an allegation. (You may need to "engineer" your output column).
-* Predict the complainant or officer ethnicity.
-* Predict the amount of time between the month received vs. month closed (i.e. the difference of the two columns).
-* Predict the rank of the officer.
+* Predict the rating of recipes.
+* Predict the number of minutes to prepare recipes.
+* Predict the numer of steps in recipes.
+* Predict the calories of recipes.
 
 ### Power Outages 🔋
 
@@ -116,11 +116,12 @@ Below, we provide example prediction problems for all three datasets. However, d
 * Predict the number and/or severity of major power outages in the year 2022.
 * Predict the electricity consumption of an area.
 
-### Stock Trades by Members of the US House of Representatives 📈
+### League of Legends Competitive Matches ⌨️
 
-* Predict the party affiliation of a representative from their stock trades.
-* Predict the geographic region (e.g. West Coast, South) that a representative comes from using their stock trades.
-* Predict whether a trade is a BUY or SELL.
+* Predict if a team will win or lose a game.
+* Predict which role (top-lane, jungle, support, etc.) a player played given their post-game data.
+* Predict how long a game will take before it happens.
+* Predict which team will get the first Baron.
 
 ---
 
