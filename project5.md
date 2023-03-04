@@ -57,7 +57,7 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 
 | Step | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
-| **Baseline Model** | Train a "baseline model" for your prediction task that uses at least two features. You can leave numerical features as-is, but you'll need to take care of categorical columns using an appropriate encoding. Implement all steps (feature transforms and model training) in a `sklearn` `Pipeline`. <br><br>***Note***: There is no "required" performance metric that your baseline model needs to achieve.) | Describe your model and state the features in your model, including how many are quantitative, ordinal, and nominal, and how you performed any necessary encodings. Report the performance of your model, and whether or not you believe your current model is "good" and why. **Both now and in Step 3, make sure to evaluate your model's ability to generalize to unseen data!** |
+| **Baseline Model** | Train a "baseline model" for your prediction task that uses at least two features. You can leave numerical features as-is, but you'll need to take care of categorical columns using an appropriate encoding. Implement all steps (feature transforms and model training) in a `sklearn` `Pipeline`. <br><br>***Note***: There is no "required" performance metric that your baseline model needs to achieve. | Describe your model and state the features in your model, including how many are quantitative, ordinal, and nominal, and how you performed any necessary encodings. Report the performance of your model, and whether or not you believe your current model is "good" and why. **Both now and in Step 3, make sure to evaluate your model's ability to generalize to unseen data!** |
 
 ### Requirement: Final Model (35%)
 
@@ -75,7 +75,7 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 ### Style
 
 While your website will neatly organized and tailored for public consumption, it is important to keep your analysis notebook organized as well. Follow these guidelines:
-* Your work for each of the three project sections (Cleaning and EDA, Assessment of Missingness, and Hypothesis Testing) described above should be completed in code cells underneath the Markdown header of that section's name.
+* Your work for each of the three project sections (Baseline Model, Final Model, and Fairness Analysis) described above should be completed in code cells underneath the Markdown header of that section's name.
 * You should **only include work that is relevant** to posing, explaining, and answering the question(s) you state in your report. You should include data quality, cleaning, and missingness assessments, though these should broadly be relevant to the question at hand.
 * Make sure to clearly explain what each component of your notebook **means**. Specifically:
     - All plots should have titles, labels, and a legend (if applicable), even if they don't make it into your website. Plots should be self-contained – readers should be able to understand what they describe without having to read anything else.
