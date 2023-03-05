@@ -133,7 +133,7 @@ Below, we provide example prediction problems for all three datasets. However, d
 You will submit your project in two ways:
 1. By uploading a **PDF version** of your notebook to the specific "Project 5 Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
     - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
-    - Make sure the notebook PDF doesn't have any cells cut off.
+    - Make sure the notebook PDF doesn't have any cells cut off so we will not miss any part of your code.
     - It's fine if your `plotly` graphs don't render in the PDF output of your notebook.
     - This notebook asks you to include a link to your website; make sure to do so.
 2. By submitting a **link to your website** to the "Project 5 Website Link (All Datasets)" assignment on Gradescope.
@@ -141,6 +141,7 @@ You will submit your project in two ways:
 To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
 
 Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Project 3 Notebook PDF" assignment before the deadline but to the "Project 5 Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
+
 
 {: .warning }
 - There are a lot of moving parts to this assignment – don't wait until the last minute to try and submit!
