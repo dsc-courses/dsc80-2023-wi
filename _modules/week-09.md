@@ -4,7 +4,7 @@
     days:
       - date: 2023-3-6
         events:
-          "**LEC 22**{: .label .label-lecture } Pipelines":
+          "**LEC 22**{: .label .label-lecture } [Pipelines, Generalization](resources/lectures/lec22/lec22.html)":
             "[Ch. 9.2](https://notes.dsc80.com/content/09/data-pipelines.html)"
           "**Lab 8**{: .label .label-lab } **[Modeling and Feature Engineering (due 3/6)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/08-features/lab.ipynb)**":
       - date: 2023-3-8
