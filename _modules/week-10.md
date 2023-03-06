@@ -1,5 +1,5 @@
 ---
-    title: Week 10 – Classifier Evaluation, Fairness Criteria<br><small>There won't be live lecture on Wednesday (capstone showcase) or Friday (Suraj is at a conference); videos will be posted for those lectures in advance. Come to the <b><a href="https://hdsishowcase.com">capstone showcase</a></b> on Wednesday!</small>
+    title: Week 10 – Classifier Evaluation, Fairness Criteria<br><small>There won't be live lecture on Wednesday (capstone showcase) or Friday (Suraj is at a <a href="https://sigcse2023.sigcse.org/details/sigcse-ts-2023-panels/11/A-New-Class-of-Teaching-Track-Faculty-No-Ph-D-Required">conference</a>); videos will be posted for those lectures in advance. Come to the <b><a href="https://hdsishowcase.com">capstone showcase</a></b> on Wednesday!</small>
     weekNumber: 10
     days:
       - date: 2023-3-13

@@ -20,9 +20,6 @@ nav_exclude: true
 1. TOC
 {:toc}
 
-{: .warning }
-If you've somehow come across this page already, it's **not** ready.
-
 ---
 
 ## Overview
@@ -57,13 +54,13 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 
 | Step | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
-| **Baseline Model** | Train a "baseline model" for your prediction task that uses at least two features. You can leave numerical features as-is, but you'll need to take care of categorical columns using an appropriate encoding. Implement all steps (feature transforms and model training) in a `sklearn` `Pipeline`. <br><br>***Note***: **Both now and in Final Model Step, make sure to evaluate your model's ability to generalize to unseen data!** <br><br>There is no "required" performance metric that your baseline model needs to achieve. | Describe your model and state the features in your model, including how many are quantitative, ordinal, and nominal, and how you performed any necessary encodings. Report the performance of your model and whether or not you believe your current model is "good" and why. |
+| **Baseline Model** | Train a "baseline model" for your prediction task that uses at least two features. You can leave numerical features as-is, but you'll need to take care of categorical columns using an appropriate encoding. Implement all steps (feature transforms and model training) in a `sklearn` `Pipeline`. <br><br>***Note***: **Both now and in Final Model Step, make sure to evaluate your model's ability to generalize to unseen data!** <br><br>There is no "required" performance metric that your baseline model needs to achieve. | Describe your model and state the features in your model, including how many are quantitative, ordinal, and nominal, and how you performed any necessary encodings. Report the performance of your model and whether or not you believe your current model is "good" and why.<br><br>***Tip***: Make sure to hit all of the points above: many projects in the past have lost points for not doing so. |
 
 ### Requirement: Final Model (35%)
 
 | Step | Analysis in Notebook | Report on Website |
 | --- | --- | --- |
-| **Final Model** | Create a "final" model that improves upon the "baseline" model you created in Step 2. Do so by engineering at least two new features from the data, on top of any categorical encodings you performed in Baseline Model Step. (For instance, you may use `StandardScaler` or `QuantileTransformer` transformers on quantitative columns.) Again, implement all steps in a `sklearn` `Pipeline`. While deciding what model and features to use, you **must** perform a search for the best model and hyperparameters (e.g. tree depth) to use amongst a list(s) of options, either by using `GridSearchCV` or through some manual iterative method. <br><br>***Note***: You will not be graded on "how much" your model improved from Baseline Model Step to Final Model Step. What you will be graded on is on whether or not your model improved, as well as your thoughtfulness and effort in creating features, along with the other points above. | State the features you added and **why** they are good for the data and prediction task. Describe the model you chose, the hyperparameters that ended up performing the best, and the method you used to select a model. Report the improvement of your model.<br><br>***Optional***: Include a visualization that describes your model's performance, e.g. a confusion matrix, if applicable.|
+| **Final Model** | Create a "final" model that improves upon the "baseline" model you created in Step 2. Do so by engineering at least two new features from the data, on top of any categorical encodings you performed in Baseline Model Step. (For instance, you may use `StandardScaler` or `QuantileTransformer` transformers on quantitative columns.) Again, implement all steps in a `sklearn` `Pipeline`. While deciding what model and features to use, you **must** perform a search for the best model and hyperparameters (e.g. tree depth) to use amongst a list(s) of options, either by using `GridSearchCV` or through some manual iterative method. In your notebook, state which hyperparameters you plan to tune and why before actually tuning them.<br><br>***Note***: You will not be graded on "how much" your model improved from Baseline Model Step to Final Model Step. What you will be graded on is on whether or not your model improved, as well as your thoughtfulness and effort in creating features, along with the other points above. | State the features you added and **why** they are good for the data and prediction task. Note that you can't simply state "these features improved my accuracy", since you'd need to choose these features and fit a model before noticing that – instead, talk about _why_ you believe these features improved your model's performance from the perspective of the data generating process.  <br><br>Describe the model you chose, the hyperparameters that ended up performing the best, and the method you used to select hyperparameters and your overall model. Describe how your Final Model's performance is an improvement over your Baseline Model's performance.<br><br>***Optional***: Include a visualization that describes your model's performance, e.g. a confusion matrix, if applicable.|
 
 
 ### Requirement: Fairness Analysis (15%)
@@ -133,14 +130,14 @@ Below, we provide example prediction problems for all three datasets. However, d
 You will submit your project in two ways:
 1. By uploading a **PDF version** of your notebook to the specific "Project 5 Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
     - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
-    - Make sure the notebook PDF doesn't have any cells cut off so we will not miss any part of your code.
+    - Make sure none of the code is cut off in your notebook's PDF. If you need to, "stack" your code like in the example at the bottom of [this page](https://notes.dsc80.com/content/02/data-types.html).
     - It's fine if your `plotly` graphs don't render in the PDF output of your notebook.
     - This notebook asks you to include a link to your website; make sure to do so.
 2. By submitting a **link to your website** to the "Project 5 Website Link (All Datasets)" assignment on Gradescope.
 
 To both submissions, make sure to tag your partner. You don't need to submit your actual `.ipynb` file anywhere. **While your website must be public and you should share it with others, you should _not_ make your code for this project available publicly.**
 
-Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Project 3 Notebook PDF" assignment before the deadline but to the "Project 5 Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
+Since there are two assignments you need to submit to on Gradescope, we will treat your submission time as being the **latter** of your two submissions. So, if you submit to the "Project 5 Notebook PDF" assignment before the deadline but to the "Project 5 Website Link (All Datasets)" website one day late, overall, you will be charged a slip day.
 
 
 {: .warning }
@@ -150,4 +147,3 @@ Since there are two assignments you need to submit to on Gradescope, we will tre
 ### Rubric
 
 Unlike in Project 3, we will **not** be providing you with the exact rubric that we will evaluate your project on. This is because an exact rubric would specify exactly what you need to do to build a model, but figuring out what to do is a large part of the project. (However, you can see how much each step is worth in the headings above.)
-
