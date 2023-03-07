@@ -94,6 +94,10 @@ The specific content your website needs to contain is described in the "Report o
 
 Your report will be in the form of a _static_ website, hosted for free on GitHub Pages. More specifically, you'll use [Jekyll](https://jekyllrb.com), a framework built into GitHub Pages that allows you to create professional-looking websites just by writing Markdown ([dsc80.com](https://dsc80.com) is built using Jekyll!). GitHub Pages does the "hard" part of converting your Markdown to HTML. We won't walk through the steps of creating Jekyll sites here because you already learned how to create them in [Project 3](../project3).
 
+Speaking of Project 3 – please add a link to your Project 3 website to the top of your website here, using something like:
+
+> Our exploratory data analysis on this dataset can be found [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+
 ---
 
 ## Example Prediction Problems
@@ -130,8 +134,8 @@ Below, we provide example prediction problems for all three datasets. However, d
 You will submit your project in two ways:
 1. By uploading a **PDF version** of your notebook to the specific "Project 5 Notebook PDF (Dataset)" assignment on Gradescope **for your dataset**.
     - To export your notebook as a PDF, first, restart your kernel and run all cells. Then, go to "File > Print Preview". Then, save a print preview of the webpage as a PDF. There are other ways to save a notebook as a PDF but they may require that you have additional packages installed on your computer, so this is likely the most straightforward.
-    - Make sure none of the code is cut off in your notebook's PDF. If you need to, "stack" your code like in the example at the bottom of [this page](https://notes.dsc80.com/content/02/data-types.html).
-    - It's fine if your `plotly` graphs don't render in the PDF output of your notebook.
+    - It's fine if your `plotly` graphs don't render properly in the PDF output of your notebook. However, **make sure none of the code is cut off in your notebook's PDF**. If you need to, "stack" your code like in the example at the bottom of [this page](https://notes.dsc80.com/content/02/data-types.html). **You will lose 5% of the points available on this project if your code is cut off.**
+
     - This notebook asks you to include a link to your website; make sure to do so.
 2. By submitting a **link to your website** to the "Project 5 Website Link (All Datasets)" assignment on Gradescope.
 
