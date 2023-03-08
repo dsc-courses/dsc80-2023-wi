@@ -5,7 +5,7 @@
       - date: 2023-3-13
         events:
           "**LEC 25**{: .label .label-lecture } Multicollinearity, Classifier Evaluation":
-          "**Lab 9**{: .label .label-lab } **Pipelines (due 3/13)**":
+          "**Lab 9**{: .label .label-lab } **[Pipelines (due 3/13)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/09-sklearn/lab.ipynb)**":
       - date: 2023-3-15
         events:
           "**LEC 26**{: .label .label-lecture } Fairness Criteria (no live lecture, video only)":
