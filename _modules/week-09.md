@@ -18,5 +18,6 @@
           "**PROJ 4**{: .label .label-proj } **[Language Models 🗣 (due 3/9)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/projects/04-language_models/project.ipynb)**":
       - date: 2023-3-10
         events:
-          "**LEC 24**{: .label .label-lecture } [Decision Trees, Grid Search, Multicollinearity](resources/lectures/lec24/lec24.html)":                
+          "**LEC 24**{: .label .label-lecture } [Decision Trees, Grid Search, Multicollinearity](resources/lectures/lec24/lec24.html)":     
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a00/25)"           
 ---
