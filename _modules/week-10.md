@@ -13,4 +13,7 @@
       - date: 2023-3-17
         events:
           "**LEC 27**{: .label .label-lecture } Fairness Criteria, Conclusion (no live lecture, video only)":
+      - date: 2023-3-18
+        events:
+          "**SUR**{: .label .label-survey } **[End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSffA3AK7HDGq5HX5hENTKUPE-Z_8W9CXR-eTOp5yT39qd8A9A/viewform) + [CAPEs](https://cape.ucsd.edu) (due 3/18 at 8AM)**":
 ---
