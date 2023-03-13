@@ -8,11 +8,13 @@
           "**Lab 9**{: .label .label-lab } **[Pipelines (due 3/13)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/09-sklearn/lab.ipynb)**":
       - date: 2023-3-15
         events:
-          "**LEC 26**{: .label .label-lecture } Fairness Criteria (no live lecture, video only)":
+          "**LEC 26**{: .label .label-lecture } [Classifier Evaluation (no live lecture, video only)](resources/lectures/lec26/lec26.html)":
+            "[🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZFD9OzRuf-dU5BjcnAzy0V)"
           "**DIS 9**{: .label .label-disc } Lab 9 Reflection (due 3/18)":
       - date: 2023-3-17
         events:
-          "**LEC 27**{: .label .label-lecture } Fairness Criteria, Conclusion (no live lecture, video only)":
+          "**LEC 27**{: .label .label-lecture } [Fairness Criteria, Conclusion (no live lecture, video only)](resources/lectures/lec27/lec27.html)":
+            "[🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZAvTiDB6eTSN-RNFNwakx9)"
       - date: 2023-3-18
         events:
           "**SUR**{: .label .label-survey } **[End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSffA3AK7HDGq5HX5hENTKUPE-Z_8W9CXR-eTOp5yT39qd8A9A/viewform) + [CAPEs](https://cape.ucsd.edu) (due 3/18 at 8AM)**":
