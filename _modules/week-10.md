@@ -4,7 +4,7 @@
     days:
       - date: 2023-3-13
         events:
-          "**LEC 25**{: .label .label-lecture } Multicollinearity, Classifier Evaluation":
+          "**LEC 25**{: .label .label-lecture } [Grid Search, Multicollinearity, Examples](resources/lectures/lec25/lec25.html)":
           "**Lab 9**{: .label .label-lab } **[Pipelines (due 3/13)](https://github.com/dsc-courses/dsc80-2023-wi/blob/master/labs/09-sklearn/lab.ipynb)**":
       - date: 2023-3-15
         events:
