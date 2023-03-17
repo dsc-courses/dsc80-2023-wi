@@ -11,8 +11,8 @@
         events:
           "**LEC 26**{: .label .label-lecture } [Classifier Evaluation (no live lecture, video only)](resources/lectures/lec26/lec26.html)":
             "[🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZFD9OzRuf-dU5BjcnAzy0V)"
-          "**DIS 9**{: .label .label-disc } [Lab 9 Reflection (due 3/18)](https://www.gradescope.com/courses/478969/assignments/2746953)":
-          "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a01/38)"
+          "**DIS 9**{: .label .label-disc } **[Lab 9 Reflection (due 3/18)](https://www.gradescope.com/courses/478969/assignments/2746953)**":
+            "[🎥](https://podcast.ucsd.edu/watch/wi23/dsc80_a01/38)"
       - date: 2023-3-17
         events:
           "**LEC 27**{: .label .label-lecture } [Fairness Criteria, Conclusion (no live lecture, video only)](resources/lectures/lec27/lec27.html)":
