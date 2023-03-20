@@ -18,7 +18,7 @@ nav_order: 1
 [Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn }
 
 {: .note }
-**Remember, there is no live lecture on Wednesday 3/15 or Friday 3/17. Notebooks and videos for these lectures have already been posted.**
+**The Final Exam is on Wednesday from 11:30AM-2:30PM in Mosaic 114, and Project 5 is due on Thursday at 11:59PM (no slip days).**
 
 <!-- {: .note }
 **Some office hours on Wednesday 3/8, Thursday 3/9, and Tuesday 3/21 are being held in the SDSC Auditorium instead of the 2nd floor – look closely at the [calendar](calendar) for details.** Treat these office hours as study sessions – come to them to work on projects or study for the final exam! -->

@@ -38,7 +38,7 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 
 ## Readings
 
-### Notes and Textbooks
+### Textbooks
 
 - [notes.dsc80.com](https://notes.dsc80.com), our course notes.
 - Wes McKinney. "Python for Data Analysis".
@@ -51,10 +51,15 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 - Lecture 11: [Fast Permutation Tests](resources/lectures/lec11/lec11-fast-permutation-tests.html).
 - Lecture 12: [More Missingness Examples](resources/lectures/lec12/lec12-more-examples.html).
 
+### Articles
+
+- [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
+- [jwilber.me/permutationtest](https://www.jwilber.me/permutationtest/), a great visual explanation of permutation testing.
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) and [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/), excellent visual descriptions of the last few weeks of the course (some terminology is different, but the ideas are the same).
+
+
 ### Other Links
 - [pandastutor.com](https://pandastutor.com), the equivalent of [pythontutor.com](https://pythontutor.com) for DataFrame manipulation.
-- [jwilber.me/permutationtest](https://www.jwilber.me/permutationtest/), a great visual explanation of permutation testing.
-- [Views and Copies in `pandas`](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html) – a great read if you'd like to learn more about the infamous `SettingWithCopyWarning`.
 
 ---
 
