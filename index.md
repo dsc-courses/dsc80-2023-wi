@@ -15,10 +15,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn }
+<!-- [Jump to the current week](#week-9-code-sklearn-code-pipelines-generalization-and-cross-validation){: .btn } -->
 
 {: .note }
-**The Final Exam is on Wednesday from 11:30AM-2:30PM in Mosaic 114, and Project 5 is due on Thursday at 11:59PM (no slip days).**
+**This is the website of a previous offering of DSC 80. To see the most recent offering, go to [dsc80.com](https://dsc80.com), and to see other DSC course websites, go to [dsc-courses.github.io](https://dsc-courses.github.io).**
 
 <!-- {: .note }
 **Some office hours on Wednesday 3/8, Thursday 3/9, and Tuesday 3/21 are being held in the SDSC Auditorium instead of the 2nd floor – look closely at the [calendar](calendar) for details.** Treat these office hours as study sessions – come to them to work on projects or study for the final exam! -->
